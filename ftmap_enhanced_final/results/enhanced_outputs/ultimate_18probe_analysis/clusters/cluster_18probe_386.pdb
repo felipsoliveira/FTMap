@@ -1,0 +1,18 @@
+TITLE     FTMap 18-Probe System - Cluster 386
+REMARK    Size: 13 poses
+REMARK    Min Energy: -5.17 kcal/mol
+REMARK    Avg Energy: -3.84 kcal/mol
+REMARK    Center: 3.17 11.64 28.65
+HETATM    1  C   BEN A 386       2.181  12.692  29.591  1.00 -2.66           C
+HETATM    2  C   BEN A 386       2.200  12.374  29.649  1.00 -2.51           C
+HETATM    3  C   BEN A 386       2.323  12.475  29.716  1.00 -2.47           C
+HETATM    4  C   BEN A 386       2.427  12.698  29.299  1.00 -3.11           C
+HETATM    5  C   BEN A 386       4.280  10.962  28.340  1.00 -4.01           C
+HETATM    6  C   BEN A 386       3.415  10.829  27.803  1.00 -5.15           C
+HETATM    7  C   BEN A 386       3.508  11.472  28.592  1.00 -3.88           C
+HETATM    8  C   BEN A 386       3.492  11.142  28.527  1.00 -3.89           C
+HETATM    9  C   BEN A 386       3.560  11.199  27.644  1.00 -5.17           C
+HETATM   10  C   BEN A 386       3.510  10.900  27.911  1.00 -4.94           C
+HETATM   11  C   BEN A 386       3.304  11.928  28.205  1.00 -4.43           C
+HETATM   12  C   BEN A 386       3.271  11.484  29.198  1.00 -2.94           C
+HETATM   13  C   BEN A 386       3.799  11.115  27.991  1.00 -4.76           C

@@ -1,0 +1,30 @@
+TITLE     FTMap 18-Probe System - Cluster 262
+REMARK    Size: 25 poses
+REMARK    Min Energy: -3.31 kcal/mol
+REMARK    Avg Energy: -2.26 kcal/mol
+REMARK    Center: 4.29 26.45 5.62
+HETATM    1  C   BEN A 262       4.670  25.368   5.372  1.00 -1.73           C
+HETATM    2  C   BEN A 262       5.147  25.158   5.480  1.00 -1.58           C
+HETATM    3  C   BEN A 262       4.746  24.756   5.841  1.00 -1.89           C
+HETATM    4  C   BEN A 262       4.702  25.723   5.702  1.00 -1.99           C
+HETATM    5  C   BEN A 262       5.268  24.313   5.776  1.00 -1.57           C
+HETATM    6  C   BEN A 262       4.844  24.682   5.706  1.00 -1.75           C
+HETATM    7  C   BEN A 262       4.786  24.935   5.910  1.00 -1.96           C
+HETATM    8  C   BEN A 262       4.745  27.393   5.378  1.00 -1.89           C
+HETATM    9  C   BEN A 262       4.403  27.806   5.601  1.00 -2.25           C
+HETATM   10  C   BEN A 262       5.275  27.355   6.026  1.00 -2.18           C
+HETATM   11  C   BEN A 262       4.425  27.607   5.351  1.00 -2.02           C
+HETATM   12  C   BEN A 262       5.346  27.936   5.372  1.00 -1.65           C
+HETATM   13  C   BEN A 262       5.172  27.764   5.544  1.00 -1.84           C
+HETATM   14  C   BEN A 262       4.417  27.489   5.635  1.00 -2.27           C
+HETATM   15  C   BEN A 262       4.492  27.974   5.951  1.00 -2.56           C
+HETATM   16  C   BEN A 262       4.913  27.881   5.233  1.00 -1.72           C
+HETATM   17  C   BEN A 262       3.018  26.191   5.576  1.00 -3.00           C
+HETATM   18  C   BEN A 262       3.292  26.755   5.550  1.00 -2.85           C
+HETATM   19  C   BEN A 262       3.395  26.205   5.558  1.00 -2.70           C
+HETATM   20  C   BEN A 262       3.403  26.222   5.719  1.00 -2.86           C
+HETATM   21  C   BEN A 262       3.528  26.239   5.251  1.00 -2.33           C
+HETATM   22  C   BEN A 262       3.544  26.336   5.709  1.00 -2.77           C
+HETATM   23  C   BEN A 262       2.900  26.531   5.712  1.00 -3.31           C
+HETATM   24  C   BEN A 262       3.614  26.201   5.589  1.00 -2.58           C
+HETATM   25  C   BEN A 262       3.173  26.337   5.911  1.00 -3.29           C

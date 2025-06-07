@@ -1,0 +1,9 @@
+TITLE     FTMap 18-Probe System - Cluster 473
+REMARK    Size: 4 poses
+REMARK    Min Energy: -1.55 kcal/mol
+REMARK    Avg Energy: -1.51 kcal/mol
+REMARK    Center: -13.08 30.43 15.98
+HETATM    1  C   ACE A 473     -13.214  30.607  15.843  1.00 -1.55           C
+HETATM    2  C   URE A 473     -13.025  30.237  16.190  1.00 -1.51           C
+HETATM    3  C   URE A 473     -13.005  30.575  15.946  1.00 -1.50           C
+HETATM    4  C   URE A 473     -13.075  30.287  15.956  1.00 -1.50           C

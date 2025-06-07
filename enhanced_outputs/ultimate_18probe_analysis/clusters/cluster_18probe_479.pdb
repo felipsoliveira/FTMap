@@ -1,0 +1,21 @@
+TITLE     FTMap 18-Probe System - Cluster 479
+REMARK    Size: 16 poses
+REMARK    Min Energy: -2.75 kcal/mol
+REMARK    Avg Energy: -2.29 kcal/mol
+REMARK    Center: 16.62 -6.57 2.50
+HETATM    1  C   URE A 479      16.613  -6.701   2.727  1.00 -2.69           C
+HETATM    2  C   URE A 479      17.046  -6.554   2.794  1.00 -2.75           C
+HETATM    3  C   URE A 479      16.174  -6.481   2.448  1.00 -2.01           C
+HETATM    4  C   URE A 479      17.006  -6.739   2.591  1.00 -2.68           C
+HETATM    5  C   URE A 479      17.241  -6.446   2.538  1.00 -2.68           C
+HETATM    6  C   URE A 479      16.804  -6.508   2.640  1.00 -2.59           C
+HETATM    7  C   URE A 479      16.984  -6.392   2.746  1.00 -2.42           C
+HETATM    8  C   ISO A 479      15.684  -6.869   1.770  1.00 -1.95           C
+HETATM    9  C   ISO A 479      15.619  -6.573   2.486  1.00 -1.64           C
+HETATM   10  C   PHE A 479      16.229  -7.051   1.486  1.00 -1.68           C
+HETATM   11  C   ACE A 479      16.781  -6.250   2.735  1.00 -1.58           C
+HETATM   12  C   ACE A 479      16.571  -6.647   2.462  1.00 -2.54           C
+HETATM   13  C   ACE A 479      17.108  -6.519   2.693  1.00 -2.72           C
+HETATM   14  C   ACE A 479      17.035  -6.376   2.877  1.00 -2.30           C
+HETATM   15  C   ACE A 479      17.199  -6.315   2.746  1.00 -2.27           C
+HETATM   16  C   ACE A 479      15.796  -6.713   2.247  1.00 -2.13           C

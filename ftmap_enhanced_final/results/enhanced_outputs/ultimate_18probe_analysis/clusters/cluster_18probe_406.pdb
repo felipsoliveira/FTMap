@@ -1,0 +1,12 @@
+TITLE     FTMap 18-Probe System - Cluster 406
+REMARK    Size: 7 poses
+REMARK    Min Energy: -2.02 kcal/mol
+REMARK    Avg Energy: -1.77 kcal/mol
+REMARK    Center: 7.18 19.74 8.78
+HETATM    1  C   BEN A 406       7.796  18.626   8.827  1.00 -1.52           C
+HETATM    2  C   BEN A 406       7.624  18.941   8.940  1.00 -1.59           C
+HETATM    3  C   BEN A 406       7.456  18.832   9.144  1.00 -1.73           C
+HETATM    4  C   BEN A 406       7.601  18.324   8.905  1.00 -1.61           C
+HETATM    5  C   BEN A 406       6.524  21.193   8.466  1.00 -1.97           C
+HETATM    6  C   BEN A 406       6.393  21.235   8.449  1.00 -2.02           C
+HETATM    7  C   BEN A 406       6.842  20.998   8.710  1.00 -1.95           C

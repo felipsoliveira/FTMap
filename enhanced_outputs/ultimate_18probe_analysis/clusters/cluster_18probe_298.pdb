@@ -1,0 +1,24 @@
+TITLE     FTMap 18-Probe System - Cluster 298
+REMARK    Size: 19 poses
+REMARK    Min Energy: -7.86 kcal/mol
+REMARK    Avg Energy: -6.17 kcal/mol
+REMARK    Center: -5.06 16.17 15.49
+HETATM    1  C   BEN A 298      -4.484  17.078  14.607  1.00 -7.35           C
+HETATM    2  C   BEN A 298      -4.087  17.764  14.507  1.00 -7.42           C
+HETATM    3  C   BEN A 298      -4.146  17.319  14.900  1.00 -7.67           C
+HETATM    4  C   BEN A 298      -4.156  17.583  14.501  1.00 -7.39           C
+HETATM    5  C   BEN A 298      -3.881  17.505  14.619  1.00 -7.71           C
+HETATM    6  C   BEN A 298      -4.188  17.047  14.922  1.00 -7.86           C
+HETATM    7  C   BEN A 298      -4.100  17.566  14.183  1.00 -7.31           C
+HETATM    8  C   BEN A 298      -6.045  15.611  16.007  1.00 -6.08           C
+HETATM    9  C   BEN A 298      -5.885  15.699  16.115  1.00 -6.56           C
+HETATM   10  C   BEN A 298      -5.532  15.405  16.465  1.00 -7.04           C
+HETATM   11  C   BEN A 298      -5.666  16.077  16.867  1.00 -6.86           C
+HETATM   12  C   BEN A 298      -5.751  15.891  16.141  1.00 -6.87           C
+HETATM   13  C   BEN A 298      -6.083  15.189  16.262  1.00 -3.96           C
+HETATM   14  C   BEN A 298      -5.698  15.866  16.078  1.00 -6.98           C
+HETATM   15  C   BEN A 298      -5.536  16.308  16.221  1.00 -6.90           C
+HETATM   16  C   BEN A 298      -5.466  16.063  16.410  1.00 -7.28           C
+HETATM   17  C   ACE A 298      -5.540  14.424  15.405  1.00 -1.79           C
+HETATM   18  C   ACE A 298      -4.329  14.163  14.840  1.00 -2.66           C
+HETATM   19  C   IMI A 298      -5.639  14.740  15.182  1.00 -1.62           C

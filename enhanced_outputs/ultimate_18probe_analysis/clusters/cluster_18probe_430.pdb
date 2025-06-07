@@ -1,0 +1,18 @@
+TITLE     FTMap 18-Probe System - Cluster 430
+REMARK    Size: 13 poses
+REMARK    Min Energy: -4.93 kcal/mol
+REMARK    Avg Energy: -2.61 kcal/mol
+REMARK    Center: -3.23 34.06 19.73
+HETATM    1  C   BEN A 430      -4.269  35.246  18.723  1.00 -4.23           C
+HETATM    2  C   BEN A 430      -4.264  34.858  19.111  1.00 -4.93           C
+HETATM    3  C   BEN A 430      -4.161  34.884  18.934  1.00 -3.84           C
+HETATM    4  C   BEN A 430      -4.261  34.741  18.718  1.00 -4.45           C
+HETATM    5  C   ETH A 430      -3.003  33.456  19.183  1.00 -1.97           C
+HETATM    6  C   ETH A 430      -2.734  33.504  19.646  1.00 -1.79           C
+HETATM    7  C   ISO A 430      -2.637  33.765  20.668  1.00 -1.65           C
+HETATM    8  C   ISO A 430      -2.623  33.565  20.554  1.00 -1.86           C
+HETATM    9  C   ACE A 430      -2.746  33.870  20.315  1.00 -1.75           C
+HETATM   10  C   ACE A 430      -2.659  33.365  20.174  1.00 -2.24           C
+HETATM   11  C   ACE A 430      -2.591  33.768  20.549  1.00 -1.74           C
+HETATM   12  C   ACE A 430      -2.468  33.825  20.555  1.00 -1.75           C
+HETATM   13  C   IMI A 430      -3.630  33.980  19.305  1.00 -1.78           C

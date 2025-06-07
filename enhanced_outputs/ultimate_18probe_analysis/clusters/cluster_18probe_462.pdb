@@ -1,0 +1,11 @@
+TITLE     FTMap 18-Probe System - Cluster 462
+REMARK    Size: 6 poses
+REMARK    Min Energy: -2.60 kcal/mol
+REMARK    Avg Energy: -2.39 kcal/mol
+REMARK    Center: -20.99 14.58 -10.99
+HETATM    1  C   ACE A 462     -21.128  14.622 -10.926  1.00 -2.28           C
+HETATM    2  C   ACE A 462     -20.848  14.439 -10.993  1.00 -2.60           C
+HETATM    3  C   ACE A 462     -21.010  14.321 -10.949  1.00 -2.51           C
+HETATM    4  C   ISO A 462     -20.742  14.645 -11.044  1.00 -2.51           C
+HETATM    5  C   ISO A 462     -20.698  14.548 -11.037  1.00 -2.55           C
+HETATM    6  C   MET A 462     -21.529  14.906 -10.993  1.00 -1.88           C

@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 121
+REMARK    Size: 10 poses
+REMARK    Min Energy: -5.45 kcal/mol
+REMARK    Avg Energy: -2.26 kcal/mol
+REMARK    Center: -8.25 33.38 15.05
+HETATM    1  C   ETH A 121      -8.849  33.663  15.307  1.00 -1.71           C
+HETATM    2  C   CYC A 121      -8.218  33.885  15.094  1.00 -1.76           C
+HETATM    3  C   BEN A 121      -7.560  35.491  14.738  1.00 -5.45           C
+HETATM    4  C   WAT A 121      -7.453  31.142  14.946  1.00 -1.54           C
+HETATM    5  C   ACE A 121      -8.307  33.131  14.575  1.00 -2.19           C
+HETATM    6  C   ACE A 121      -8.595  33.185  15.558  1.00 -2.03           C
+HETATM    7  C   URE A 121      -8.421  32.541  14.928  1.00 -2.51           C
+HETATM    8  C   ETH A 121      -8.507  33.128  14.776  1.00 -1.97           C
+HETATM    9  C   ISO A 121      -8.435  33.428  15.579  1.00 -1.83           C
+HETATM   10  C   PHE A 121      -8.123  34.185  14.970  1.00 -1.57           C

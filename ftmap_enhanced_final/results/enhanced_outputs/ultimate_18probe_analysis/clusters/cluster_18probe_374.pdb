@@ -1,0 +1,10 @@
+TITLE     FTMap 18-Probe System - Cluster 374
+REMARK    Size: 5 poses
+REMARK    Min Energy: -6.55 kcal/mol
+REMARK    Avg Energy: -4.07 kcal/mol
+REMARK    Center: -4.08 35.41 12.02
+HETATM    1  C   BEN A 374      -4.085  35.322  11.923  1.00 -1.84           C
+HETATM    2  C   BEN A 374      -3.667  35.692  11.705  1.00 -6.55           C
+HETATM    3  C   BEN A 374      -3.640  35.897  11.565  1.00 -6.49           C
+HETATM    4  C   BEN A 374      -3.695  35.172  11.702  1.00 -3.92           C
+HETATM    5  C   ACE A 374      -5.334  34.953  13.215  1.00 -1.53           C

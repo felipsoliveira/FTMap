@@ -1,0 +1,16 @@
+TITLE     FTMap 18-Probe System - Cluster 362
+REMARK    Size: 11 poses
+REMARK    Min Energy: -5.71 kcal/mol
+REMARK    Avg Energy: -3.21 kcal/mol
+REMARK    Center: 16.23 6.24 22.25
+HETATM    1  C   BEN A 362      15.753   7.345  22.681  1.00 -4.65           C
+HETATM    2  C   BEN A 362      17.155   5.542  24.126  1.00 -3.74           C
+HETATM    3  C   BEN A 362      16.657   5.650  23.801  1.00 -3.96           C
+HETATM    4  C   BEN A 362      17.013   5.224  23.733  1.00 -2.59           C
+HETATM    5  C   BEN A 362      17.045   5.405  24.091  1.00 -3.79           C
+HETATM    6  C   BEN A 362      16.985   5.644  23.938  1.00 -3.79           C
+HETATM    7  C   BEN A 362      15.491   7.602  21.188  1.00 -5.71           C
+HETATM    8  C   ACE A 362      15.450   6.733  19.800  1.00 -1.93           C
+HETATM    9  C   IMI A 362      15.661   6.701  20.775  1.00 -1.60           C
+HETATM   10  C   IMI A 362      15.636   6.398  20.432  1.00 -1.82           C
+HETATM   11  C   IMI A 362      15.665   6.410  20.144  1.00 -1.74           C

@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 419
+REMARK    Size: 10 poses
+REMARK    Min Energy: -2.76 kcal/mol
+REMARK    Avg Energy: -2.26 kcal/mol
+REMARK    Center: 3.36 -3.83 23.51
+HETATM    1  C   BEN A 419       3.088  -3.960  23.140  1.00 -2.31           C
+HETATM    2  C   BEN A 419       3.148  -3.994  23.315  1.00 -2.19           C
+HETATM    3  C   BEN A 419       3.211  -3.902  23.391  1.00 -2.22           C
+HETATM    4  C   BEN A 419       3.365  -3.707  23.929  1.00 -2.02           C
+HETATM    5  C   BEN A 419       3.694  -4.058  23.695  1.00 -2.13           C
+HETATM    6  C   BEN A 419       3.178  -3.691  23.422  1.00 -2.32           C
+HETATM    7  C   BEN A 419       3.303  -3.466  23.169  1.00 -2.76           C
+HETATM    8  C   BEN A 419       3.589  -4.278  23.814  1.00 -1.89           C
+HETATM    9  C   BEN A 419       3.675  -3.562  23.741  1.00 -2.39           C
+HETATM   10  C   BEN A 419       3.354  -3.686  23.470  1.00 -2.37           C

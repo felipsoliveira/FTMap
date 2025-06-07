@@ -1,0 +1,9 @@
+REMARK FTMap Enhanced Cluster 2
+REMARK Druggability Index: 3.705
+REMARK Min Energy: -7.96 kcal/mol
+REMARK Cluster Size: 3 poses
+REMARK Dominant Probe: DMF
+HETATM    1  C1  PHE A   1     -21.429 -13.649   0.212  1.00 -7.96           C
+HETATM    2  C1  DMF A   1     -21.549 -11.612   1.460  1.00 -5.27           C
+HETATM    3  C1  ETH A   1     -23.984 -11.213   2.754  1.00 -3.94           C
+END

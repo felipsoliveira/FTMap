@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 167
+REMARK    Size: 10 poses
+REMARK    Min Energy: -2.09 kcal/mol
+REMARK    Avg Energy: -1.82 kcal/mol
+REMARK    Center: -5.45 30.82 2.79
+HETATM    1  C   CYC A 167      -5.539  31.042   2.997  1.00 -2.06           C
+HETATM    2  C   CYC A 167      -5.379  30.774   2.524  1.00 -1.51           C
+HETATM    3  C   CYC A 167      -5.286  31.118   2.700  1.00 -1.78           C
+HETATM    4  C   ACE A 167      -5.263  30.825   2.712  1.00 -1.86           C
+HETATM    5  C   URE A 167      -5.369  31.025   2.530  1.00 -1.57           C
+HETATM    6  C   URE A 167      -5.615  30.465   3.081  1.00 -2.09           C
+HETATM    7  C   IMI A 167      -5.783  30.641   3.115  1.00 -1.91           C
+HETATM    8  C   IMI A 167      -5.532  30.937   2.874  1.00 -1.90           C
+HETATM    9  C   IMI A 167      -5.201  30.743   2.504  1.00 -1.66           C
+HETATM   10  C   IMI A 167      -5.571  30.673   2.908  1.00 -1.89           C

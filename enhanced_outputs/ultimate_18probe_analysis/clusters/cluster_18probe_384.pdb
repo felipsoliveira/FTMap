@@ -1,0 +1,30 @@
+TITLE     FTMap 18-Probe System - Cluster 384
+REMARK    Size: 25 poses
+REMARK    Min Energy: -3.00 kcal/mol
+REMARK    Avg Energy: -2.13 kcal/mol
+REMARK    Center: -12.46 6.72 13.50
+HETATM    1  C   BEN A 384     -11.465   6.666  12.892  1.00 -2.91           C
+HETATM    2  C   BEN A 384     -11.675   6.585  12.510  1.00 -3.00           C
+HETATM    3  C   BEN A 384     -11.066   6.707  13.282  1.00 -1.71           C
+HETATM    4  C   BEN A 384     -11.880   6.563  12.793  1.00 -2.82           C
+HETATM    5  C   BEN A 384     -11.339   6.554  12.814  1.00 -2.97           C
+HETATM    6  C   BEN A 384     -12.074   6.551  13.133  1.00 -2.63           C
+HETATM    7  C   BEN A 384     -11.554   6.839  13.272  1.00 -2.67           C
+HETATM    8  C   BEN A 384     -11.976   6.887  13.669  1.00 -2.67           C
+HETATM    9  C   BEN A 384     -11.478   6.669  13.329  1.00 -2.77           C
+HETATM   10  C   BEN A 384     -11.452   6.702  13.175  1.00 -2.76           C
+HETATM   11  C   BEN A 384     -12.613   7.134  14.718  1.00 -2.15           C
+HETATM   12  C   BEN A 384     -13.260   6.877  14.461  1.00 -1.58           C
+HETATM   13  C   BEN A 384     -13.075   6.931  14.363  1.00 -1.75           C
+HETATM   14  C   BEN A 384     -13.117   6.658  14.730  1.00 -1.59           C
+HETATM   15  C   BEN A 384     -12.756   6.324  15.062  1.00 -1.71           C
+HETATM   16  C   BEN A 384     -13.089   6.502  13.921  1.00 -1.64           C
+HETATM   17  C   BEN A 384     -13.033   6.797  13.518  1.00 -1.81           C
+HETATM   18  C   BEN A 384     -13.079   6.850  13.421  1.00 -1.79           C
+HETATM   19  C   BEN A 384     -12.897   6.667  13.759  1.00 -1.87           C
+HETATM   20  C   BEN A 384     -13.186   6.752  12.682  1.00 -1.67           C
+HETATM   21  C   BEN A 384     -13.101   6.992  13.397  1.00 -1.81           C
+HETATM   22  C   BEN A 384     -12.798   6.549  13.084  1.00 -1.94           C
+HETATM   23  C   BEN A 384     -13.357   6.831  13.594  1.00 -1.55           C
+HETATM   24  C   BEN A 384     -13.141   6.464  12.655  1.00 -1.62           C
+HETATM   25  C   BEN A 384     -12.988   6.915  13.278  1.00 -1.89           C

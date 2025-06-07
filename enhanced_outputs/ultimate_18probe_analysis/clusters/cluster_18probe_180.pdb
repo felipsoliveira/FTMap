@@ -1,0 +1,33 @@
+TITLE     FTMap 18-Probe System - Cluster 180
+REMARK    Size: 28 poses
+REMARK    Min Energy: -6.24 kcal/mol
+REMARK    Avg Energy: -3.70 kcal/mol
+REMARK    Center: 0.98 21.31 20.98
+HETATM    1  C   CYC A 180       1.798  21.821  20.913  1.00 -3.52           C
+HETATM    2  C   WAT A 180       0.908  19.950  20.614  1.00 -1.53           C
+HETATM    3  C   WAT A 180       0.734  20.364  20.509  1.00 -1.53           C
+HETATM    4  C   WAT A 180       0.689  20.138  20.587  1.00 -1.51           C
+HETATM    5  C   ACE A 180       1.580  22.109  20.957  1.00 -5.58           C
+HETATM    6  C   ACE A 180       1.826  21.917  20.658  1.00 -3.45           C
+HETATM    7  C   URE A 180       1.448  21.452  22.254  1.00 -2.39           C
+HETATM    8  C   URE A 180       1.620  21.715  21.685  1.00 -4.01           C
+HETATM    9  C   URE A 180       1.509  22.177  20.707  1.00 -6.24           C
+HETATM   10  C   URE A 180       1.932  22.056  20.709  1.00 -1.67           C
+HETATM   11  C   URE A 180       1.785  22.178  20.818  1.00 -3.98           C
+HETATM   12  C   ETH A 180       0.941  21.711  21.732  1.00 -1.85           C
+HETATM   13  C   ETH A 180       0.527  21.565  21.673  1.00 -1.73           C
+HETATM   14  C   ISO A 180       1.577  21.944  21.667  1.00 -3.01           C
+HETATM   15  C   DIM A 180       0.567  21.654  20.801  1.00 -6.01           C
+HETATM   16  C   DIM A 180       0.975  21.777  21.128  1.00 -5.90           C
+HETATM   17  C   DIM A 180       0.358  21.801  20.830  1.00 -5.29           C
+HETATM   18  C   DIM A 180       1.283  21.353  20.687  1.00 -6.10           C
+HETATM   19  C   DIM A 180       0.029  21.826  20.640  1.00 -5.10           C
+HETATM   20  C   DIM A 180       0.588  22.125  20.612  1.00 -5.66           C
+HETATM   21  C   DIM A 180       1.124  21.433  21.816  1.00 -4.55           C
+HETATM   22  C   DIM A 180       0.961  21.597  21.746  1.00 -3.40           C
+HETATM   23  C   ACE A 180       0.363  20.210  20.567  1.00 -2.29           C
+HETATM   24  C   ACE A 180       0.445  20.223  20.780  1.00 -3.24           C
+HETATM   25  C   ACE A 180       0.723  20.474  20.640  1.00 -3.59           C
+HETATM   26  C   ACE A 180       0.332  20.284  20.576  1.00 -3.12           C
+HETATM   27  C   ACE A 180       0.496  20.377  20.561  1.00 -3.24           C
+HETATM   28  C   ACE A 180       0.347  20.377  20.686  1.00 -4.05           C

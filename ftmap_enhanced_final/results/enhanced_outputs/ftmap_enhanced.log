@@ -1,0 +1,298 @@
+2025-06-06 21:56:56,482 - INFO - FTMap Enhanced Pipeline iniciado para protein_prot.pdb
+2025-06-06 21:56:56,483 - INFO - Outputs serão salvos em: enhanced_outputs
+2025-06-06 21:56:56,486 - INFO - Carregados 3886 átomos da proteína
+2025-06-06 21:56:56,487 - INFO - Gerando grade adaptativa para posicionamento de probes...
+2025-06-06 21:56:57,801 - INFO - Geradas 2000 posições de probe
+2025-06-06 21:56:57,801 - INFO - Calculando energias dos probes...
+2025-06-06 21:56:57,801 - INFO - Processando probe tipo: methane
+2025-06-06 21:56:59,568 - INFO -   Processados 500/2000 probes
+2025-06-06 21:57:01,361 - INFO -   Processados 1000/2000 probes
+2025-06-06 21:57:03,121 - INFO -   Processados 1500/2000 probes
+2025-06-06 21:57:04,876 - INFO -   Processados 2000/2000 probes
+2025-06-06 21:57:04,876 - INFO -   307 probes favoráveis para methane
+2025-06-06 21:57:04,876 - INFO - Processando probe tipo: water
+2025-06-06 21:57:06,691 - INFO -   Processados 500/2000 probes
+2025-06-06 21:57:08,537 - INFO -   Processados 1000/2000 probes
+2025-06-06 21:57:10,392 - INFO -   Processados 1500/2000 probes
+2025-06-06 21:57:12,230 - INFO -   Processados 2000/2000 probes
+2025-06-06 21:57:12,230 - INFO -   2000 probes favoráveis para water
+2025-06-06 21:57:12,230 - INFO - Processando probe tipo: benzene
+2025-06-06 21:57:14,009 - INFO -   Processados 500/2000 probes
+2025-06-06 21:57:15,811 - INFO -   Processados 1000/2000 probes
+2025-06-06 21:57:17,570 - INFO -   Processados 1500/2000 probes
+2025-06-06 21:57:19,341 - INFO -   Processados 2000/2000 probes
+2025-06-06 21:57:19,342 - INFO -   371 probes favoráveis para benzene
+2025-06-06 21:57:19,342 - INFO - Processando probe tipo: acetone
+2025-06-06 21:57:21,111 - INFO -   Processados 500/2000 probes
+2025-06-06 21:57:22,883 - INFO -   Processados 1000/2000 probes
+2025-06-06 21:57:24,645 - INFO -   Processados 1500/2000 probes
+2025-06-06 21:57:26,494 - INFO -   Processados 2000/2000 probes
+2025-06-06 21:57:26,494 - INFO -   371 probes favoráveis para acetone
+2025-06-06 21:57:26,494 - INFO - Processando probe tipo: ethanol
+2025-06-06 21:57:28,400 - INFO -   Processados 500/2000 probes
+2025-06-06 21:57:30,257 - INFO -   Processados 1000/2000 probes
+2025-06-06 21:57:32,093 - INFO -   Processados 1500/2000 probes
+2025-06-06 21:57:33,917 - INFO -   Processados 2000/2000 probes
+2025-06-06 21:57:33,918 - INFO -   2000 probes favoráveis para ethanol
+2025-06-06 21:57:33,918 - INFO - Total de probes favoráveis: 5049
+2025-06-06 21:57:33,918 - INFO - Executando clustering aprimorado...
+2025-06-06 21:58:42,598 - INFO - Identificados 251 clusters de consenso
+2025-06-06 21:58:42,599 - INFO - Salvando clusters como arquivos PDB...
+2025-06-06 21:58:42,599 - INFO - Cluster 1 salvo: enhanced_outputs/pdb_clusters/cluster_1.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 2 salvo: enhanced_outputs/pdb_clusters/cluster_2.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 3 salvo: enhanced_outputs/pdb_clusters/cluster_3.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 4 salvo: enhanced_outputs/pdb_clusters/cluster_4.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 5 salvo: enhanced_outputs/pdb_clusters/cluster_5.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 6 salvo: enhanced_outputs/pdb_clusters/cluster_6.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 7 salvo: enhanced_outputs/pdb_clusters/cluster_7.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 8 salvo: enhanced_outputs/pdb_clusters/cluster_8.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 9 salvo: enhanced_outputs/pdb_clusters/cluster_9.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 10 salvo: enhanced_outputs/pdb_clusters/cluster_10.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 11 salvo: enhanced_outputs/pdb_clusters/cluster_11.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 12 salvo: enhanced_outputs/pdb_clusters/cluster_12.pdb
+2025-06-06 21:58:42,599 - INFO - Cluster 13 salvo: enhanced_outputs/pdb_clusters/cluster_13.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 14 salvo: enhanced_outputs/pdb_clusters/cluster_14.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 15 salvo: enhanced_outputs/pdb_clusters/cluster_15.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 16 salvo: enhanced_outputs/pdb_clusters/cluster_16.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 17 salvo: enhanced_outputs/pdb_clusters/cluster_17.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 18 salvo: enhanced_outputs/pdb_clusters/cluster_18.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 19 salvo: enhanced_outputs/pdb_clusters/cluster_19.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 20 salvo: enhanced_outputs/pdb_clusters/cluster_20.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 21 salvo: enhanced_outputs/pdb_clusters/cluster_21.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 22 salvo: enhanced_outputs/pdb_clusters/cluster_22.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 23 salvo: enhanced_outputs/pdb_clusters/cluster_23.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 24 salvo: enhanced_outputs/pdb_clusters/cluster_24.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 25 salvo: enhanced_outputs/pdb_clusters/cluster_25.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 26 salvo: enhanced_outputs/pdb_clusters/cluster_26.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 27 salvo: enhanced_outputs/pdb_clusters/cluster_27.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 28 salvo: enhanced_outputs/pdb_clusters/cluster_28.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 29 salvo: enhanced_outputs/pdb_clusters/cluster_29.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 30 salvo: enhanced_outputs/pdb_clusters/cluster_30.pdb
+2025-06-06 21:58:42,600 - INFO - Cluster 31 salvo: enhanced_outputs/pdb_clusters/cluster_31.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 32 salvo: enhanced_outputs/pdb_clusters/cluster_32.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 33 salvo: enhanced_outputs/pdb_clusters/cluster_33.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 34 salvo: enhanced_outputs/pdb_clusters/cluster_34.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 35 salvo: enhanced_outputs/pdb_clusters/cluster_35.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 36 salvo: enhanced_outputs/pdb_clusters/cluster_36.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 37 salvo: enhanced_outputs/pdb_clusters/cluster_37.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 38 salvo: enhanced_outputs/pdb_clusters/cluster_38.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 39 salvo: enhanced_outputs/pdb_clusters/cluster_39.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 40 salvo: enhanced_outputs/pdb_clusters/cluster_40.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 41 salvo: enhanced_outputs/pdb_clusters/cluster_41.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 42 salvo: enhanced_outputs/pdb_clusters/cluster_42.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 43 salvo: enhanced_outputs/pdb_clusters/cluster_43.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 44 salvo: enhanced_outputs/pdb_clusters/cluster_44.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 45 salvo: enhanced_outputs/pdb_clusters/cluster_45.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 46 salvo: enhanced_outputs/pdb_clusters/cluster_46.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 47 salvo: enhanced_outputs/pdb_clusters/cluster_47.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 48 salvo: enhanced_outputs/pdb_clusters/cluster_48.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 49 salvo: enhanced_outputs/pdb_clusters/cluster_49.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 50 salvo: enhanced_outputs/pdb_clusters/cluster_50.pdb
+2025-06-06 21:58:42,601 - INFO - Cluster 51 salvo: enhanced_outputs/pdb_clusters/cluster_51.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 52 salvo: enhanced_outputs/pdb_clusters/cluster_52.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 53 salvo: enhanced_outputs/pdb_clusters/cluster_53.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 54 salvo: enhanced_outputs/pdb_clusters/cluster_54.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 55 salvo: enhanced_outputs/pdb_clusters/cluster_55.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 56 salvo: enhanced_outputs/pdb_clusters/cluster_56.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 57 salvo: enhanced_outputs/pdb_clusters/cluster_57.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 58 salvo: enhanced_outputs/pdb_clusters/cluster_58.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 59 salvo: enhanced_outputs/pdb_clusters/cluster_59.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 60 salvo: enhanced_outputs/pdb_clusters/cluster_60.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 61 salvo: enhanced_outputs/pdb_clusters/cluster_61.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 62 salvo: enhanced_outputs/pdb_clusters/cluster_62.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 63 salvo: enhanced_outputs/pdb_clusters/cluster_63.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 64 salvo: enhanced_outputs/pdb_clusters/cluster_64.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 65 salvo: enhanced_outputs/pdb_clusters/cluster_65.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 66 salvo: enhanced_outputs/pdb_clusters/cluster_66.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 67 salvo: enhanced_outputs/pdb_clusters/cluster_67.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 68 salvo: enhanced_outputs/pdb_clusters/cluster_68.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 69 salvo: enhanced_outputs/pdb_clusters/cluster_69.pdb
+2025-06-06 21:58:42,602 - INFO - Cluster 70 salvo: enhanced_outputs/pdb_clusters/cluster_70.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 71 salvo: enhanced_outputs/pdb_clusters/cluster_71.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 72 salvo: enhanced_outputs/pdb_clusters/cluster_72.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 73 salvo: enhanced_outputs/pdb_clusters/cluster_73.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 74 salvo: enhanced_outputs/pdb_clusters/cluster_74.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 75 salvo: enhanced_outputs/pdb_clusters/cluster_75.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 76 salvo: enhanced_outputs/pdb_clusters/cluster_76.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 77 salvo: enhanced_outputs/pdb_clusters/cluster_77.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 78 salvo: enhanced_outputs/pdb_clusters/cluster_78.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 79 salvo: enhanced_outputs/pdb_clusters/cluster_79.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 80 salvo: enhanced_outputs/pdb_clusters/cluster_80.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 81 salvo: enhanced_outputs/pdb_clusters/cluster_81.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 82 salvo: enhanced_outputs/pdb_clusters/cluster_82.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 83 salvo: enhanced_outputs/pdb_clusters/cluster_83.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 84 salvo: enhanced_outputs/pdb_clusters/cluster_84.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 85 salvo: enhanced_outputs/pdb_clusters/cluster_85.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 86 salvo: enhanced_outputs/pdb_clusters/cluster_86.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 87 salvo: enhanced_outputs/pdb_clusters/cluster_87.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 88 salvo: enhanced_outputs/pdb_clusters/cluster_88.pdb
+2025-06-06 21:58:42,603 - INFO - Cluster 89 salvo: enhanced_outputs/pdb_clusters/cluster_89.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 90 salvo: enhanced_outputs/pdb_clusters/cluster_90.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 91 salvo: enhanced_outputs/pdb_clusters/cluster_91.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 92 salvo: enhanced_outputs/pdb_clusters/cluster_92.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 93 salvo: enhanced_outputs/pdb_clusters/cluster_93.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 94 salvo: enhanced_outputs/pdb_clusters/cluster_94.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 95 salvo: enhanced_outputs/pdb_clusters/cluster_95.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 96 salvo: enhanced_outputs/pdb_clusters/cluster_96.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 97 salvo: enhanced_outputs/pdb_clusters/cluster_97.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 98 salvo: enhanced_outputs/pdb_clusters/cluster_98.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 99 salvo: enhanced_outputs/pdb_clusters/cluster_99.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 100 salvo: enhanced_outputs/pdb_clusters/cluster_100.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 101 salvo: enhanced_outputs/pdb_clusters/cluster_101.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 102 salvo: enhanced_outputs/pdb_clusters/cluster_102.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 103 salvo: enhanced_outputs/pdb_clusters/cluster_103.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 104 salvo: enhanced_outputs/pdb_clusters/cluster_104.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 105 salvo: enhanced_outputs/pdb_clusters/cluster_105.pdb
+2025-06-06 21:58:42,604 - INFO - Cluster 106 salvo: enhanced_outputs/pdb_clusters/cluster_106.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 107 salvo: enhanced_outputs/pdb_clusters/cluster_107.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 108 salvo: enhanced_outputs/pdb_clusters/cluster_108.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 109 salvo: enhanced_outputs/pdb_clusters/cluster_109.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 110 salvo: enhanced_outputs/pdb_clusters/cluster_110.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 111 salvo: enhanced_outputs/pdb_clusters/cluster_111.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 112 salvo: enhanced_outputs/pdb_clusters/cluster_112.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 113 salvo: enhanced_outputs/pdb_clusters/cluster_113.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 114 salvo: enhanced_outputs/pdb_clusters/cluster_114.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 115 salvo: enhanced_outputs/pdb_clusters/cluster_115.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 116 salvo: enhanced_outputs/pdb_clusters/cluster_116.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 117 salvo: enhanced_outputs/pdb_clusters/cluster_117.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 118 salvo: enhanced_outputs/pdb_clusters/cluster_118.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 119 salvo: enhanced_outputs/pdb_clusters/cluster_119.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 120 salvo: enhanced_outputs/pdb_clusters/cluster_120.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 121 salvo: enhanced_outputs/pdb_clusters/cluster_121.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 122 salvo: enhanced_outputs/pdb_clusters/cluster_122.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 123 salvo: enhanced_outputs/pdb_clusters/cluster_123.pdb
+2025-06-06 21:58:42,605 - INFO - Cluster 124 salvo: enhanced_outputs/pdb_clusters/cluster_124.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 125 salvo: enhanced_outputs/pdb_clusters/cluster_125.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 126 salvo: enhanced_outputs/pdb_clusters/cluster_126.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 127 salvo: enhanced_outputs/pdb_clusters/cluster_127.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 128 salvo: enhanced_outputs/pdb_clusters/cluster_128.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 129 salvo: enhanced_outputs/pdb_clusters/cluster_129.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 130 salvo: enhanced_outputs/pdb_clusters/cluster_130.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 131 salvo: enhanced_outputs/pdb_clusters/cluster_131.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 132 salvo: enhanced_outputs/pdb_clusters/cluster_132.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 133 salvo: enhanced_outputs/pdb_clusters/cluster_133.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 134 salvo: enhanced_outputs/pdb_clusters/cluster_134.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 135 salvo: enhanced_outputs/pdb_clusters/cluster_135.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 136 salvo: enhanced_outputs/pdb_clusters/cluster_136.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 137 salvo: enhanced_outputs/pdb_clusters/cluster_137.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 138 salvo: enhanced_outputs/pdb_clusters/cluster_138.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 139 salvo: enhanced_outputs/pdb_clusters/cluster_139.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 140 salvo: enhanced_outputs/pdb_clusters/cluster_140.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 141 salvo: enhanced_outputs/pdb_clusters/cluster_141.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 142 salvo: enhanced_outputs/pdb_clusters/cluster_142.pdb
+2025-06-06 21:58:42,606 - INFO - Cluster 143 salvo: enhanced_outputs/pdb_clusters/cluster_143.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 144 salvo: enhanced_outputs/pdb_clusters/cluster_144.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 145 salvo: enhanced_outputs/pdb_clusters/cluster_145.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 146 salvo: enhanced_outputs/pdb_clusters/cluster_146.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 147 salvo: enhanced_outputs/pdb_clusters/cluster_147.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 148 salvo: enhanced_outputs/pdb_clusters/cluster_148.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 149 salvo: enhanced_outputs/pdb_clusters/cluster_149.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 150 salvo: enhanced_outputs/pdb_clusters/cluster_150.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 151 salvo: enhanced_outputs/pdb_clusters/cluster_151.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 152 salvo: enhanced_outputs/pdb_clusters/cluster_152.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 153 salvo: enhanced_outputs/pdb_clusters/cluster_153.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 154 salvo: enhanced_outputs/pdb_clusters/cluster_154.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 155 salvo: enhanced_outputs/pdb_clusters/cluster_155.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 156 salvo: enhanced_outputs/pdb_clusters/cluster_156.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 157 salvo: enhanced_outputs/pdb_clusters/cluster_157.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 158 salvo: enhanced_outputs/pdb_clusters/cluster_158.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 159 salvo: enhanced_outputs/pdb_clusters/cluster_159.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 160 salvo: enhanced_outputs/pdb_clusters/cluster_160.pdb
+2025-06-06 21:58:42,607 - INFO - Cluster 161 salvo: enhanced_outputs/pdb_clusters/cluster_161.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 162 salvo: enhanced_outputs/pdb_clusters/cluster_162.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 163 salvo: enhanced_outputs/pdb_clusters/cluster_163.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 164 salvo: enhanced_outputs/pdb_clusters/cluster_164.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 165 salvo: enhanced_outputs/pdb_clusters/cluster_165.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 166 salvo: enhanced_outputs/pdb_clusters/cluster_166.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 167 salvo: enhanced_outputs/pdb_clusters/cluster_167.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 168 salvo: enhanced_outputs/pdb_clusters/cluster_168.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 169 salvo: enhanced_outputs/pdb_clusters/cluster_169.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 170 salvo: enhanced_outputs/pdb_clusters/cluster_170.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 171 salvo: enhanced_outputs/pdb_clusters/cluster_171.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 172 salvo: enhanced_outputs/pdb_clusters/cluster_172.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 173 salvo: enhanced_outputs/pdb_clusters/cluster_173.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 174 salvo: enhanced_outputs/pdb_clusters/cluster_174.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 175 salvo: enhanced_outputs/pdb_clusters/cluster_175.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 176 salvo: enhanced_outputs/pdb_clusters/cluster_176.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 177 salvo: enhanced_outputs/pdb_clusters/cluster_177.pdb
+2025-06-06 21:58:42,608 - INFO - Cluster 178 salvo: enhanced_outputs/pdb_clusters/cluster_178.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 179 salvo: enhanced_outputs/pdb_clusters/cluster_179.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 180 salvo: enhanced_outputs/pdb_clusters/cluster_180.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 181 salvo: enhanced_outputs/pdb_clusters/cluster_181.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 182 salvo: enhanced_outputs/pdb_clusters/cluster_182.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 183 salvo: enhanced_outputs/pdb_clusters/cluster_183.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 184 salvo: enhanced_outputs/pdb_clusters/cluster_184.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 185 salvo: enhanced_outputs/pdb_clusters/cluster_185.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 186 salvo: enhanced_outputs/pdb_clusters/cluster_186.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 187 salvo: enhanced_outputs/pdb_clusters/cluster_187.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 188 salvo: enhanced_outputs/pdb_clusters/cluster_188.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 189 salvo: enhanced_outputs/pdb_clusters/cluster_189.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 190 salvo: enhanced_outputs/pdb_clusters/cluster_190.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 191 salvo: enhanced_outputs/pdb_clusters/cluster_191.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 192 salvo: enhanced_outputs/pdb_clusters/cluster_192.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 193 salvo: enhanced_outputs/pdb_clusters/cluster_193.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 194 salvo: enhanced_outputs/pdb_clusters/cluster_194.pdb
+2025-06-06 21:58:42,609 - INFO - Cluster 195 salvo: enhanced_outputs/pdb_clusters/cluster_195.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 196 salvo: enhanced_outputs/pdb_clusters/cluster_196.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 197 salvo: enhanced_outputs/pdb_clusters/cluster_197.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 198 salvo: enhanced_outputs/pdb_clusters/cluster_198.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 199 salvo: enhanced_outputs/pdb_clusters/cluster_199.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 200 salvo: enhanced_outputs/pdb_clusters/cluster_200.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 201 salvo: enhanced_outputs/pdb_clusters/cluster_201.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 202 salvo: enhanced_outputs/pdb_clusters/cluster_202.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 203 salvo: enhanced_outputs/pdb_clusters/cluster_203.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 204 salvo: enhanced_outputs/pdb_clusters/cluster_204.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 205 salvo: enhanced_outputs/pdb_clusters/cluster_205.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 206 salvo: enhanced_outputs/pdb_clusters/cluster_206.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 207 salvo: enhanced_outputs/pdb_clusters/cluster_207.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 208 salvo: enhanced_outputs/pdb_clusters/cluster_208.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 209 salvo: enhanced_outputs/pdb_clusters/cluster_209.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 210 salvo: enhanced_outputs/pdb_clusters/cluster_210.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 211 salvo: enhanced_outputs/pdb_clusters/cluster_211.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 212 salvo: enhanced_outputs/pdb_clusters/cluster_212.pdb
+2025-06-06 21:58:42,610 - INFO - Cluster 213 salvo: enhanced_outputs/pdb_clusters/cluster_213.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 214 salvo: enhanced_outputs/pdb_clusters/cluster_214.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 215 salvo: enhanced_outputs/pdb_clusters/cluster_215.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 216 salvo: enhanced_outputs/pdb_clusters/cluster_216.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 217 salvo: enhanced_outputs/pdb_clusters/cluster_217.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 218 salvo: enhanced_outputs/pdb_clusters/cluster_218.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 219 salvo: enhanced_outputs/pdb_clusters/cluster_219.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 220 salvo: enhanced_outputs/pdb_clusters/cluster_220.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 221 salvo: enhanced_outputs/pdb_clusters/cluster_221.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 222 salvo: enhanced_outputs/pdb_clusters/cluster_222.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 223 salvo: enhanced_outputs/pdb_clusters/cluster_223.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 224 salvo: enhanced_outputs/pdb_clusters/cluster_224.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 225 salvo: enhanced_outputs/pdb_clusters/cluster_225.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 226 salvo: enhanced_outputs/pdb_clusters/cluster_226.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 227 salvo: enhanced_outputs/pdb_clusters/cluster_227.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 228 salvo: enhanced_outputs/pdb_clusters/cluster_228.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 229 salvo: enhanced_outputs/pdb_clusters/cluster_229.pdb
+2025-06-06 21:58:42,611 - INFO - Cluster 230 salvo: enhanced_outputs/pdb_clusters/cluster_230.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 231 salvo: enhanced_outputs/pdb_clusters/cluster_231.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 232 salvo: enhanced_outputs/pdb_clusters/cluster_232.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 233 salvo: enhanced_outputs/pdb_clusters/cluster_233.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 234 salvo: enhanced_outputs/pdb_clusters/cluster_234.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 235 salvo: enhanced_outputs/pdb_clusters/cluster_235.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 236 salvo: enhanced_outputs/pdb_clusters/cluster_236.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 237 salvo: enhanced_outputs/pdb_clusters/cluster_237.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 238 salvo: enhanced_outputs/pdb_clusters/cluster_238.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 239 salvo: enhanced_outputs/pdb_clusters/cluster_239.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 240 salvo: enhanced_outputs/pdb_clusters/cluster_240.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 241 salvo: enhanced_outputs/pdb_clusters/cluster_241.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 242 salvo: enhanced_outputs/pdb_clusters/cluster_242.pdb
+2025-06-06 21:58:42,612 - INFO - Cluster 243 salvo: enhanced_outputs/pdb_clusters/cluster_243.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 244 salvo: enhanced_outputs/pdb_clusters/cluster_244.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 245 salvo: enhanced_outputs/pdb_clusters/cluster_245.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 246 salvo: enhanced_outputs/pdb_clusters/cluster_246.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 247 salvo: enhanced_outputs/pdb_clusters/cluster_247.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 248 salvo: enhanced_outputs/pdb_clusters/cluster_248.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 249 salvo: enhanced_outputs/pdb_clusters/cluster_249.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 250 salvo: enhanced_outputs/pdb_clusters/cluster_250.pdb
+2025-06-06 21:58:42,613 - INFO - Cluster 251 salvo: enhanced_outputs/pdb_clusters/cluster_251.pdb
+2025-06-06 21:58:42,614 - INFO - Sites de consenso salvos: enhanced_outputs/consensus_sites/consensus_hotspots.pdb
+2025-06-06 21:58:42,614 - INFO - Mapa de energia salvo: enhanced_outputs/energy_maps/energy_landscape.dx
+2025-06-06 21:58:42,615 - INFO - Relatório de validação salvo: enhanced_outputs/validation_reports/clustering_validation.txt
+2025-06-06 21:58:42,615 - INFO - Script PyMOL salvo: enhanced_outputs/visualizations/visualize_results.pml
+2025-06-06 21:58:42,615 - INFO - ✅ FTMap Enhanced concluído com sucesso!
+2025-06-06 21:58:42,615 - INFO - ⏱️  Tempo total: 106.13 segundos
+2025-06-06 21:58:42,615 - INFO - 🎯 251 clusters identificados

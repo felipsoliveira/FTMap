@@ -1,0 +1,22 @@
+TITLE     FTMap 18-Probe System - Cluster 389
+REMARK    Size: 17 poses
+REMARK    Min Energy: -4.99 kcal/mol
+REMARK    Avg Energy: -3.96 kcal/mol
+REMARK    Center: -10.02 4.42 10.43
+HETATM    1  C   BEN A 389      -9.591   4.258  11.274  1.00 -4.99           C
+HETATM    2  C   BEN A 389     -10.283   3.776  11.202  1.00 -3.30           C
+HETATM    3  C   BEN A 389     -10.131   3.655  11.382  1.00 -3.45           C
+HETATM    4  C   BEN A 389      -9.811   3.294  11.620  1.00 -3.64           C
+HETATM    5  C   BEN A 389     -10.472   3.951  11.144  1.00 -3.15           C
+HETATM    6  C   BEN A 389      -9.992   3.291  11.772  1.00 -3.34           C
+HETATM    7  C   BEN A 389      -9.766   3.826  11.339  1.00 -4.22           C
+HETATM    8  C   BEN A 389      -9.905   3.881  12.008  1.00 -3.98           C
+HETATM    9  C   BEN A 389      -9.667   3.968  11.476  1.00 -4.54           C
+HETATM   10  C   BEN A 389      -9.937   3.899  11.851  1.00 -3.96           C
+HETATM   11  C   BEN A 389     -10.081   5.641   9.029  1.00 -4.42           C
+HETATM   12  C   BEN A 389     -10.202   5.269   8.758  1.00 -3.80           C
+HETATM   13  C   BEN A 389      -9.818   5.173   8.846  1.00 -4.52           C
+HETATM   14  C   BEN A 389      -9.898   5.395   9.209  1.00 -4.73           C
+HETATM   15  C   BEN A 389     -10.509   4.899   8.623  1.00 -3.04           C
+HETATM   16  C   BEN A 389      -9.934   5.453   8.563  1.00 -4.30           C
+HETATM   17  C   BEN A 389     -10.318   5.554   9.164  1.00 -3.99           C

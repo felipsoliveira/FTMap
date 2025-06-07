@@ -1,0 +1,19 @@
+TITLE     FTMap 18-Probe System - Cluster 329
+REMARK    Size: 14 poses
+REMARK    Min Energy: -3.97 kcal/mol
+REMARK    Avg Energy: -2.27 kcal/mol
+REMARK    Center: -18.71 27.26 11.27
+HETATM    1  C   BEN A 329     -18.078  28.036  11.547  1.00 -1.66           C
+HETATM    2  C   BEN A 329     -18.904  27.776   8.872  1.00 -3.97           C
+HETATM    3  C   BEN A 329     -19.214  27.876   9.185  1.00 -3.73           C
+HETATM    4  C   BEN A 329     -18.868  28.178   8.940  1.00 -3.74           C
+HETATM    5  C   BEN A 329     -19.345  26.217  13.212  1.00 -1.81           C
+HETATM    6  C   BEN A 329     -19.145  26.312  13.073  1.00 -2.09           C
+HETATM    7  C   BEN A 329     -18.890  26.190  13.277  1.00 -2.21           C
+HETATM    8  C   BEN A 329     -19.514  26.141  12.752  1.00 -1.82           C
+HETATM    9  C   BEN A 329     -19.449  26.357  12.703  1.00 -1.96           C
+HETATM   10  C   BEN A 329     -18.842  25.953  13.249  1.00 -2.19           C
+HETATM   11  C   BEN A 329     -18.926  26.152  13.530  1.00 -2.03           C
+HETATM   12  C   ACE A 329     -17.619  29.125   8.846  1.00 -1.51           C
+HETATM   13  C   ACE A 329     -17.611  28.992   8.939  1.00 -1.53           C
+HETATM   14  C   IMI A 329     -17.503  28.318   9.621  1.00 -1.51           C

@@ -1,0 +1,21 @@
+TITLE     FTMap 18-Probe System - Cluster 270
+REMARK    Size: 16 poses
+REMARK    Min Energy: -4.14 kcal/mol
+REMARK    Avg Energy: -3.37 kcal/mol
+REMARK    Center: -20.86 22.97 -20.27
+HETATM    1  C   BEN A 270     -20.512  23.106 -19.975  1.00 -3.95           C
+HETATM    2  C   BEN A 270     -20.950  23.502 -19.598  1.00 -3.90           C
+HETATM    3  C   BEN A 270     -20.333  23.036 -20.140  1.00 -3.67           C
+HETATM    4  C   BEN A 270     -20.348  23.098 -20.216  1.00 -3.79           C
+HETATM    5  C   BEN A 270     -20.132  23.661 -19.799  1.00 -4.14           C
+HETATM    6  C   BEN A 270     -20.842  23.679 -19.989  1.00 -3.77           C
+HETATM    7  C   BEN A 270     -20.606  22.821 -19.944  1.00 -3.11           C
+HETATM    8  C   BEN A 270     -20.390  23.572 -20.307  1.00 -3.82           C
+HETATM    9  C   BEN A 270     -20.681  23.651 -19.456  1.00 -3.96           C
+HETATM   10  C   BEN A 270     -22.069  22.214 -21.328  1.00 -3.10           C
+HETATM   11  C   BEN A 270     -21.951  22.406 -21.116  1.00 -3.29           C
+HETATM   12  C   BEN A 270     -22.132  22.002 -21.607  1.00 -2.84           C
+HETATM   13  C   BEN A 270     -18.954  23.861 -20.419  1.00 -3.72           C
+HETATM   14  C   BEN A 270     -18.810  24.261 -21.090  1.00 -2.81           C
+HETATM   15  C   BEN A 270     -22.998  22.028 -19.909  1.00 -2.52           C
+HETATM   16  C   ACE A 270     -22.095  20.692 -19.383  1.00 -1.60           C

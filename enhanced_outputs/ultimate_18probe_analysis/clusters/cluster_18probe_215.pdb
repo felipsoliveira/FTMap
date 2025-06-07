@@ -1,0 +1,23 @@
+TITLE     FTMap 18-Probe System - Cluster 215
+REMARK    Size: 18 poses
+REMARK    Min Energy: -3.40 kcal/mol
+REMARK    Avg Energy: -2.43 kcal/mol
+REMARK    Center: -6.77 22.84 -10.31
+HETATM    1  C   BEN A 215      -7.138  23.125  -9.952  1.00 -2.68           C
+HETATM    2  C   BEN A 215      -7.205  23.095  -9.474  1.00 -1.92           C
+HETATM    3  C   BEN A 215      -6.986  23.598  -9.233  1.00 -2.26           C
+HETATM    4  C   BEN A 215      -7.370  22.967  -9.754  1.00 -2.23           C
+HETATM    5  C   BEN A 215      -7.448  23.308  -9.919  1.00 -2.65           C
+HETATM    6  C   BEN A 215      -6.870  23.511  -9.703  1.00 -2.46           C
+HETATM    7  C   BEN A 215      -7.138  23.525  -9.265  1.00 -2.14           C
+HETATM    8  C   BEN A 215      -6.710  23.617  -9.659  1.00 -2.36           C
+HETATM    9  C   BEN A 215      -6.434  23.226  -9.525  1.00 -2.41           C
+HETATM   10  C   BEN A 215      -4.715  22.006  -9.319  1.00 -1.97           C
+HETATM   11  C   BEN A 215      -6.015  23.181 -11.125  1.00 -1.72           C
+HETATM   12  C   BEN A 215      -5.642  23.122 -10.808  1.00 -1.63           C
+HETATM   13  C   BEN A 215      -5.868  22.556 -10.555  1.00 -2.15           C
+HETATM   14  C   BEN A 215      -8.524  23.394  -9.958  1.00 -2.23           C
+HETATM   15  C   BEN A 215      -6.953  21.961 -11.847  1.00 -2.99           C
+HETATM   16  C   BEN A 215      -6.997  21.826 -11.885  1.00 -3.14           C
+HETATM   17  C   BEN A 215      -6.751  21.296 -11.835  1.00 -3.34           C
+HETATM   18  C   BEN A 215      -7.171  21.811 -11.802  1.00 -3.40           C

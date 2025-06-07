@@ -1,0 +1,18 @@
+TITLE     FTMap 18-Probe System - Cluster 477
+REMARK    Size: 13 poses
+REMARK    Min Energy: -2.03 kcal/mol
+REMARK    Avg Energy: -1.73 kcal/mol
+REMARK    Center: -5.44 9.67 20.12
+HETATM    1  C   DMF A 477      -5.714   9.790  19.496  1.00 -2.02           C
+HETATM    2  C   DMF A 477      -5.896   9.764  19.556  1.00 -2.03           C
+HETATM    3  C   URE A 477      -4.462   9.560  21.910  1.00 -1.56           C
+HETATM    4  C   ETH A 477      -5.548   9.756  20.021  1.00 -1.58           C
+HETATM    5  C   ISO A 477      -5.243   9.539  20.520  1.00 -1.71           C
+HETATM    6  C   ISO A 477      -5.375   9.662  19.745  1.00 -1.69           C
+HETATM    7  C   ISO A 477      -4.461   9.658  21.721  1.00 -1.60           C
+HETATM    8  C   PHE A 477      -5.399   9.668  20.343  1.00 -1.82           C
+HETATM    9  C   PHE A 477      -5.529   9.369  19.965  1.00 -1.97           C
+HETATM   10  C   PHE A 477      -5.919   9.397  20.448  1.00 -1.57           C
+HETATM   11  C   IMI A 477      -5.583   9.977  19.309  1.00 -1.60           C
+HETATM   12  C   IMI A 477      -5.964  10.133  19.364  1.00 -1.77           C
+HETATM   13  C   IMI A 477      -5.664   9.464  19.209  1.00 -1.55           C

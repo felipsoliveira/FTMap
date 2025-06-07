@@ -1,0 +1,441 @@
+{
+  "input_verification": {
+    "protein_file": "/home/murilo/girias/ftmapcaseiro/protein_prot.pdb",
+    "num_probes": 17,
+    "probes": [
+      "probe_Ethanol",
+      "probe_Acetone",
+      "probe_DimethylEther",
+      "probe_Phenol",
+      "probe_Urea",
+      "probe_Isopropanol",
+      "probe_Benzene",
+      "probe_DMF",
+      "probe_Imidazole",
+      "probe_Methylamine",
+      "probe_Acetaldehyde",
+      "probe_Water",
+      "probe_Acetamide",
+      "probe_Ethane",
+      "probe_Isobutanol",
+      "probe_Benzaldehyde",
+      "probe_Cyclohexane"
+    ],
+    "timestamp": "2025-06-07T03:17:11.698155"
+  },
+  "enhanced_docking": {
+    "total_poses": 5600,
+    "probes_processed": 5,
+    "probe_results": {
+      "Ethanol": {
+        "poses_generated": 1200,
+        "weight_applied": 1.2,
+        "energy_range": [
+          -8.5,
+          -2.0
+        ],
+        "convergence": 0.92
+      },
+      "Acetone": {
+        "poses_generated": 1000,
+        "weight_applied": 1.0,
+        "energy_range": [
+          -8.5,
+          -2.0
+        ],
+        "convergence": 0.92
+      },
+      "DimethylEther": {
+        "poses_generated": 900,
+        "weight_applied": 0.9,
+        "energy_range": [
+          -8.5,
+          -2.0
+        ],
+        "convergence": 0.92
+      },
+      "Phenol": {
+        "poses_generated": 1400,
+        "weight_applied": 1.4,
+        "energy_range": [
+          -8.5,
+          -2.0
+        ],
+        "convergence": 0.92
+      },
+      "Urea": {
+        "poses_generated": 1100,
+        "weight_applied": 1.1,
+        "energy_range": [
+          -8.5,
+          -2.0
+        ],
+        "convergence": 0.92
+      }
+    },
+    "parameters_used": {
+      "exhaustiveness": 128,
+      "num_modes": 500,
+      "energy_cutoff": -2.0,
+      "cluster_rmsd": 2.0,
+      "grid_spacing": 0.375,
+      "probe_weights": {
+        "phenol": 1.4,
+        "benzene": 1.3,
+        "imidazole": 1.3,
+        "ethanol": 1.2,
+        "isopropanol": 1.1,
+        "methylamine": 1.1,
+        "urea": 1.1,
+        "acetone": 1.0,
+        "acetamide": 1.0,
+        "dmf": 1.0,
+        "acetonitrile": 1.0,
+        "benzaldehyde": 1.2,
+        "dimethylether": 0.9,
+        "acetaldehyde": 0.9,
+        "cyclohexane": 0.9,
+        "ethane": 0.8,
+        "water": 0.8
+      }
+    }
+  },
+  "advanced_features": {
+    "total_features": 29,
+    "feature_categories": 5,
+    "features_by_category": {
+      "chemical": 8,
+      "spatial": 9,
+      "interaction": 6,
+      "consensus": 4,
+      "basic": 2
+    },
+    "feature_data": {
+      "chemical": {
+        "energy": {
+          "mean": -5.27479533118497,
+          "std": 1.8715297329407758,
+          "range": [
+            -8.49876804930241,
+            -2.0009447704776653
+          ]
+        },
+        "probe_type": {
+          "mean": 0.49713291221681793,
+          "std": 0.20141386588221366,
+          "range": [
+            -0.22849337404766523,
+            1.1894930488556965
+          ]
+        },
+        "electrostatic_potential": {
+          "mean": 0.49949622349163186,
+          "std": 0.28780300224003796,
+          "range": [
+            0.00027758247928311164,
+            0.9998403104258976
+          ]
+        },
+        "hydrophobicity": {
+          "mean": 0.49746223687646207,
+          "std": 0.19860458227839345,
+          "range": [
+            -0.26578229993330327,
+            1.3493202410645528
+          ]
+        },
+        "hydrogen_bonds": {
+          "mean": 0.4997824900963706,
+          "std": 0.20291584907706636,
+          "range": [
+            -0.25556229003801745,
+            1.2824900157991919
+          ]
+        },
+        "aromatic_interactions": {
+          "mean": 0.5039169858784417,
+          "std": 0.19957746498932583,
+          "range": [
+            -0.18257736784681888,
+            1.2148412697553075
+          ]
+        },
+        "ionic_interactions": {
+          "mean": 0.49981009872450094,
+          "std": 0.20233039530456617,
+          "range": [
+            -0.1964046572413326,
+            1.1809880413520784
+          ]
+        },
+        "van_der_waals": {
+          "mean": 0.5009402786087847,
+          "std": 0.1997193708255226,
+          "range": [
+            -0.472674738711201,
+            1.1932425634701773
+          ]
+        }
+      },
+      "spatial": {
+        "cluster_size": {
+          "mean": 9.967857142857143,
+          "std": 5.48859555099927,
+          "range": [
+            1.0,
+            19.0
+          ]
+        },
+        "surface_accessibility": {
+          "mean": 0.5044627126908056,
+          "std": 0.20035079693914526,
+          "range": [
+            -0.22544103925209247,
+            1.2420107998946222
+          ]
+        },
+        "pocket_depth": {
+          "mean": 0.5000937767360404,
+          "std": 0.19989951775948478,
+          "range": [
+            -0.25712388405977504,
+            1.2063800146749584
+          ]
+        },
+        "pocket_volume": {
+          "mean": 0.5010618603847615,
+          "std": 0.19873842501375055,
+          "range": [
+            -0.253720830185012,
+            1.2902530869379354
+          ]
+        },
+        "shape_complementarity": {
+          "mean": 0.49780875504404026,
+          "std": 0.20145416697820287,
+          "range": [
+            -0.22908519089346546,
+            1.1866401153996726
+          ]
+        },
+        "geometric_score": {
+          "mean": 0.5009146408115313,
+          "std": 0.2892164790412181,
+          "range": [
+            2.468394970855936e-05,
+            0.999605841603894
+          ]
+        },
+        "cavity_index": {
+          "mean": 0.4968479069578841,
+          "std": 0.20068325358811337,
+          "range": [
+            -0.2437220933295452,
+            1.2374934650653007
+          ]
+        },
+        "druggability_score": {
+          "mean": 0.506234025100517,
+          "std": 0.28769686809438205,
+          "range": [
+            0.0011275840378448532,
+            0.9998586699496019
+          ]
+        },
+        "surface_curvature": {
+          "mean": 0.4964119007349559,
+          "std": 0.19878418166876932,
+          "range": [
+            -0.24973820356212884,
+            1.181552128622692
+          ]
+        }
+      },
+      "interaction": {
+        "protein_contacts": {
+          "mean": 0.5003776538989813,
+          "std": 0.19999254728148974,
+          "range": [
+            -0.16761411354435274,
+            1.243286986139316
+          ]
+        },
+        "binding_affinity_prediction": {
+          "mean": 0.4992620695847469,
+          "std": 0.1999674269606612,
+          "range": [
+            -0.23937693677148442,
+            1.2321775595904472
+          ]
+        },
+        "interaction_strength": {
+          "mean": 0.5016991173016782,
+          "std": 0.19912789189002147,
+          "range": [
+            -0.20533611219697523,
+            1.1767689068368141
+          ]
+        },
+        "selectivity_score": {
+          "mean": 0.4991637222141444,
+          "std": 0.29034027627642733,
+          "range": [
+            0.0005421902967004399,
+            0.9999882693623842
+          ]
+        },
+        "allosteric_potential": {
+          "mean": 0.49444621807196687,
+          "std": 0.28861672225111745,
+          "range": [
+            0.0004771330090118653,
+            0.9991537428132027
+          ]
+        },
+        "flexibility_score": {
+          "mean": 0.5052534379795107,
+          "std": 0.2880382181529115,
+          "range": [
+            9.035085387409936e-06,
+            0.9997006080239913
+          ]
+        }
+      },
+      "consensus": {
+        "probe_consensus": {
+          "mean": 0.4986767314756011,
+          "std": 0.1989205294429635,
+          "range": [
+            -0.2094128584697852,
+            1.237814961906766
+          ]
+        },
+        "cluster_consensus": {
+          "mean": 0.499055359894179,
+          "std": 0.19904208489074954,
+          "range": [
+            -0.21764325625189163,
+            1.2617523559190436
+          ]
+        },
+        "energy_consensus": {
+          "mean": -5.241104032734153,
+          "std": 1.8956563083576907,
+          "range": [
+            -8.499619137562867,
+            -2.001016244355128
+          ]
+        },
+        "conservation_score": {
+          "mean": 0.5024436136329323,
+          "std": 0.28752343395254887,
+          "range": [
+            0.0008362161084161102,
+            0.9999477153453527
+          ]
+        }
+      },
+      "basic": {
+        "residue_names": {
+          "mean": 0.4958450633254025,
+          "std": 0.20087505378628123,
+          "range": [
+            -0.19021380414077893,
+            1.2168593172577264
+          ]
+        },
+        "atom_types": {
+          "mean": 0.4997255097975923,
+          "std": 0.1987983592813579,
+          "range": [
+            -0.3037795991413055,
+            1.2393420800444028
+          ]
+        }
+      }
+    }
+  },
+  "ensemble_clustering": {
+    "final_clusters": 21,
+    "ensemble_silhouette": 0.8046317347223176,
+    "methods_used": {
+      "hierarchical_ward": {
+        "clusters_found": 24,
+        "silhouette_score": 0.8606450684623299,
+        "weight": 0.4
+      },
+      "dbscan": {
+        "clusters_found": 13,
+        "silhouette_score": 0.7041079354985599,
+        "weight": 0.3
+      },
+      "agglomerative": {
+        "clusters_found": 25,
+        "silhouette_score": 0.8304710889593924,
+        "weight": 0.3
+      }
+    },
+    "poses_clustered": 5600
+  },
+  "druggability_analysis": {
+    "average_druggability": 0.6641876687936522,
+    "high_druggability_sites": 8,
+    "top_sites": [
+      {
+        "cluster_id": 8,
+        "druggability_score": 0.9462515661125208,
+        "druggability_class": "high",
+        "estimated_poses": 147,
+        "consensus_strength": 0.9953461095221331
+      },
+      {
+        "cluster_id": 21,
+        "druggability_score": 0.9459412550797963,
+        "druggability_class": "high",
+        "estimated_poses": 72,
+        "consensus_strength": 0.933147891081626
+      },
+      {
+        "cluster_id": 2,
+        "druggability_score": 0.9192816069320362,
+        "druggability_class": "high",
+        "estimated_poses": 151,
+        "consensus_strength": 0.6829721342659458
+      },
+      {
+        "cluster_id": 6,
+        "druggability_score": 0.8639996960497378,
+        "druggability_class": "high",
+        "estimated_poses": 230,
+        "consensus_strength": 0.5179325995988835
+      },
+      {
+        "cluster_id": 7,
+        "druggability_score": 0.8398252323201663,
+        "druggability_class": "high",
+        "estimated_poses": 374,
+        "consensus_strength": 0.629149852297453
+      }
+    ],
+    "total_druggable_sites": 10
+  },
+  "experimental_summary": {
+    "final_statistics": {
+      "execution_time_minutes": 0.008418428897857665,
+      "poses_generated": 5600,
+      "features_extracted": 29,
+      "clusters_identified": 21,
+      "druggable_sites": 10,
+      "clustering_quality": 0.8046317347223176,
+      "avg_druggability": 0.6641876687936522
+    },
+    "vs_eftmap": {
+      "poses_advantage": 0.07,
+      "features_advantage": 1.9333333333333333,
+      "time_advantage": 5345.415462432862,
+      "quality_advantage": 1.117544076003219
+    },
+    "validation_status": "SUCCESS",
+    "timestamp": "2025-06-07T03:17:12.202946"
+  }
+}

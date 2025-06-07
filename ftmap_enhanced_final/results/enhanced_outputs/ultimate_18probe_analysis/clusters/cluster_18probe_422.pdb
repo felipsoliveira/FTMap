@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 422
+REMARK    Size: 10 poses
+REMARK    Min Energy: -2.94 kcal/mol
+REMARK    Avg Energy: -2.63 kcal/mol
+REMARK    Center: -19.04 23.22 -1.90
+HETATM    1  C   BEN A 422     -18.968  23.360  -2.140  1.00 -2.65           C
+HETATM    2  C   BEN A 422     -19.105  23.407  -1.798  1.00 -2.39           C
+HETATM    3  C   BEN A 422     -18.962  23.592  -1.331  1.00 -2.24           C
+HETATM    4  C   BEN A 422     -19.073  23.263  -1.589  1.00 -2.43           C
+HETATM    5  C   BEN A 422     -19.045  22.856  -1.930  1.00 -2.90           C
+HETATM    6  C   BEN A 422     -18.538  23.294  -1.876  1.00 -2.94           C
+HETATM    7  C   BEN A 422     -18.572  23.380  -1.825  1.00 -2.82           C
+HETATM    8  C   BEN A 422     -19.848  23.075  -2.015  1.00 -2.21           C
+HETATM    9  C   BEN A 422     -19.529  22.621  -2.146  1.00 -2.83           C
+HETATM   10  C   BEN A 422     -18.766  23.357  -2.372  1.00 -2.92           C

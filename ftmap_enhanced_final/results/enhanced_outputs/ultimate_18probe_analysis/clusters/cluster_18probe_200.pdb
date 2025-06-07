@@ -1,0 +1,27 @@
+TITLE     FTMap 18-Probe System - Cluster 200
+REMARK    Size: 22 poses
+REMARK    Min Energy: -1.89 kcal/mol
+REMARK    Avg Energy: -1.73 kcal/mol
+REMARK    Center: 22.76 0.99 14.48
+HETATM    1  C   CYC A 200      22.741   1.275  14.460  1.00 -1.70           C
+HETATM    2  C   ETH A 200      22.695   0.617  14.094  1.00 -1.54           C
+HETATM    3  C   ISO A 200      23.040   0.690  14.448  1.00 -1.71           C
+HETATM    4  C   ISO A 200      22.998   0.702  14.289  1.00 -1.74           C
+HETATM    5  C   ISO A 200      22.725   0.684  14.486  1.00 -1.89           C
+HETATM    6  C   ISO A 200      22.540   0.876  14.618  1.00 -1.84           C
+HETATM    7  C   DIM A 200      22.874   0.766  14.285  1.00 -1.80           C
+HETATM    8  C   DIM A 200      22.496   1.021  14.661  1.00 -1.81           C
+HETATM    9  C   DIM A 200      22.903   0.789  14.495  1.00 -1.77           C
+HETATM   10  C   ACE A 200      21.713   2.498  14.584  1.00 -1.65           C
+HETATM   11  C   ACE A 200      22.847   1.041  14.593  1.00 -1.72           C
+HETATM   12  C   ACE A 200      22.443   0.855  14.571  1.00 -1.75           C
+HETATM   13  C   ACE A 200      22.763   0.984  14.286  1.00 -1.79           C
+HETATM   14  C   ACE A 200      23.111   0.988  14.610  1.00 -1.55           C
+HETATM   15  C   ACE A 200      23.145   0.730  14.512  1.00 -1.61           C
+HETATM   16  C   ACE A 200      22.796   0.908  14.619  1.00 -1.80           C
+HETATM   17  C   ACE A 200      22.761   0.752  14.472  1.00 -1.86           C
+HETATM   18  C   ACE A 200      22.801   0.850  14.575  1.00 -1.81           C
+HETATM   19  C   ACE A 200      23.029   0.879  14.691  1.00 -1.66           C
+HETATM   20  C   ACE A 200      23.138   0.819  14.501  1.00 -1.59           C
+HETATM   21  C   ACE A 200      23.039   0.686  14.300  1.00 -1.72           C
+HETATM   22  C   ACE A 200      22.059   2.467  14.419  1.00 -1.67           C

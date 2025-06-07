@@ -1,0 +1,9 @@
+TITLE     FTMap 18-Probe System - Cluster 455
+REMARK    Size: 4 poses
+REMARK    Min Energy: -2.06 kcal/mol
+REMARK    Avg Energy: -1.90 kcal/mol
+REMARK    Center: -0.89 23.54 19.25
+HETATM    1  C   WAT A 455      -1.031  23.464  19.254  1.00 -2.06           C
+HETATM    2  C   WAT A 455      -1.068  23.530  19.022  1.00 -1.91           C
+HETATM    3  C   WAT A 455      -0.418  23.747  19.337  1.00 -1.63           C
+HETATM    4  C   WAT A 455      -1.057  23.416  19.401  1.00 -2.01           C

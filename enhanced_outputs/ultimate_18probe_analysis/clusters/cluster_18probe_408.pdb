@@ -1,0 +1,13 @@
+TITLE     FTMap 18-Probe System - Cluster 408
+REMARK    Size: 8 poses
+REMARK    Min Energy: -3.19 kcal/mol
+REMARK    Avg Energy: -2.60 kcal/mol
+REMARK    Center: -23.37 20.12 -23.11
+HETATM    1  C   BEN A 408     -22.638  18.730 -24.378  1.00 -3.19           C
+HETATM    2  C   BEN A 408     -23.348  20.369 -23.176  1.00 -2.63           C
+HETATM    3  C   BEN A 408     -23.402  20.583 -22.436  1.00 -2.58           C
+HETATM    4  C   BEN A 408     -23.643  20.191 -23.450  1.00 -2.47           C
+HETATM    5  C   BEN A 408     -23.256  20.035 -23.042  1.00 -2.44           C
+HETATM    6  C   BEN A 408     -23.277  20.293 -22.693  1.00 -2.35           C
+HETATM    7  C   BEN A 408     -23.733  20.471 -22.729  1.00 -2.60           C
+HETATM    8  C   BEN A 408     -23.641  20.275 -23.014  1.00 -2.58           C

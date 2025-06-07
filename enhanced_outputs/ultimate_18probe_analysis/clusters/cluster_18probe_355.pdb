@@ -1,0 +1,16 @@
+TITLE     FTMap 18-Probe System - Cluster 355
+REMARK    Size: 11 poses
+REMARK    Min Energy: -2.51 kcal/mol
+REMARK    Avg Energy: -2.18 kcal/mol
+REMARK    Center: -9.96 9.77 20.72
+HETATM    1  C   BEN A 355      -9.958   9.982  21.782  1.00 -1.56           C
+HETATM    2  C   BEN A 355      -9.968   9.392  20.742  1.00 -2.15           C
+HETATM    3  C   BEN A 355      -9.915   9.805  20.765  1.00 -2.19           C
+HETATM    4  C   BEN A 355      -9.911   9.804  20.699  1.00 -2.24           C
+HETATM    5  C   BEN A 355      -9.748   9.718  20.609  1.00 -2.42           C
+HETATM    6  C   BEN A 355      -9.896   9.721  20.252  1.00 -2.51           C
+HETATM    7  C   BEN A 355      -9.960   9.649  20.411  1.00 -2.38           C
+HETATM    8  C   BEN A 355     -10.005   9.926  20.487  1.00 -2.30           C
+HETATM    9  C   BEN A 355      -9.918   9.780  20.877  1.00 -2.12           C
+HETATM   10  C   BEN A 355     -10.073   9.335  20.828  1.00 -2.01           C
+HETATM   11  C   BEN A 355     -10.262  10.394  20.490  1.00 -2.10           C

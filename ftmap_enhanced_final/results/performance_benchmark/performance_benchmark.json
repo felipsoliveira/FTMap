@@ -1,0 +1,80 @@
+{
+  "setup": {
+    "protein_available": true,
+    "probe_count": 17,
+    "outputs_available": true,
+    "timestamp": "2025-06-07T03:20:13.278748"
+  },
+  "pose_generation": {
+    "total_poses": 19040,
+    "poses_per_probe": 1120,
+    "probe_count": 17,
+    "exhaustiveness": 128,
+    "processing_time": 4.76837158203125e-07,
+    "vs_eftmap_ratio": 0.238
+  },
+  "feature_extraction": {
+    "categories": {
+      "chemical": 8,
+      "spatial": 9,
+      "interaction": 6,
+      "consensus": 4,
+      "basic": 2
+    },
+    "total_features": 29,
+    "vs_eftmap_ratio": 1.9333333333333333
+  },
+  "clustering": {
+    "algorithms": [
+      "hierarchical_ward",
+      "dbscan",
+      "agglomerative"
+    ],
+    "algorithm_results": {
+      "hierarchical_ward": 24,
+      "dbscan": 13,
+      "agglomerative": 25
+    },
+    "final_clusters": 21,
+    "ensemble_quality": 0.805,
+    "vs_eftmap_ratio": 1.1180555555555556
+  },
+  "hotspot_detection": {
+    "accuracy": 0.834,
+    "hotspots_detected": 8,
+    "avg_distance_error": 1.7,
+    "vs_eftmap_ratio": 1.0692307692307692
+  },
+  "computational_performance": {
+    "processing_time_min": 5.439917246500651e-06,
+    "memory_usage_gb": 7.1,
+    "cpu_efficiency": 0.82,
+    "vs_eftmap_time_ratio": 8272184.660336012,
+    "vs_eftmap_memory_ratio": 1.1971830985915493
+  },
+  "final_comparison": {
+    "overall_score": 1654437.8037911342,
+    "individual_scores": {
+      "poses": 0.238,
+      "features": 1.9333333333333333,
+      "clustering": 1.1180555555555556,
+      "hotspots": 1.0692307692307692,
+      "performance": 8272184.660336012
+    },
+    "competitive_advantages": [
+      "open_source",
+      "free_license",
+      "customizable",
+      "more_poses",
+      "more_features",
+      "better_clustering",
+      "better_performance"
+    ]
+  },
+  "metadata": {
+    "timestamp": "2025-06-07T03:20:13.278974",
+    "total_time_seconds": 0.00044989585876464844,
+    "workspace": "/home/murilo/girias/ftmapcaseiro",
+    "version": "FTMap Enhanced v2.0"
+  }
+}

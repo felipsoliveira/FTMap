@@ -1,0 +1,26 @@
+TITLE     FTMap 18-Probe System - Cluster 286
+REMARK    Size: 21 poses
+REMARK    Min Energy: -5.66 kcal/mol
+REMARK    Avg Energy: -4.17 kcal/mol
+REMARK    Center: -6.72 36.40 7.08
+HETATM    1  C   BEN A 286      -6.556  36.531   7.072  1.00 -4.12           C
+HETATM    2  C   BEN A 286      -7.343  36.475   7.194  1.00 -3.31           C
+HETATM    3  C   BEN A 286      -6.776  36.711   6.725  1.00 -4.01           C
+HETATM    4  C   BEN A 286      -6.165  36.663   6.886  1.00 -4.08           C
+HETATM    5  C   BEN A 286      -6.515  37.274   7.314  1.00 -3.48           C
+HETATM    6  C   BEN A 286      -8.369  36.929   6.815  1.00 -3.86           C
+HETATM    7  C   BEN A 286      -8.487  37.082   7.627  1.00 -3.76           C
+HETATM    8  C   BEN A 286      -8.884  36.906   6.809  1.00 -3.92           C
+HETATM    9  C   BEN A 286      -8.354  37.011   7.117  1.00 -3.79           C
+HETATM   10  C   BEN A 286      -8.246  36.654   6.616  1.00 -3.94           C
+HETATM   11  C   BEN A 286      -8.158  36.948   7.417  1.00 -3.75           C
+HETATM   12  C   BEN A 286      -8.297  36.405   7.110  1.00 -2.39           C
+HETATM   13  C   BEN A 286      -8.272  36.725   7.201  1.00 -3.59           C
+HETATM   14  C   BEN A 286      -8.209  36.668   7.056  1.00 -3.61           C
+HETATM   15  C   BEN A 286      -8.023  37.211   7.177  1.00 -3.65           C
+HETATM   16  C   BEN A 286      -4.365  35.419   7.139  1.00 -5.47           C
+HETATM   17  C   BEN A 286      -4.201  35.395   7.127  1.00 -5.49           C
+HETATM   18  C   BEN A 286      -3.877  35.473   6.548  1.00 -4.77           C
+HETATM   19  C   BEN A 286      -3.907  35.501   7.600  1.00 -5.51           C
+HETATM   20  C   BEN A 286      -4.000  35.211   7.055  1.00 -5.66           C
+HETATM   21  C   BEN A 286      -4.118  35.308   6.976  1.00 -5.52           C

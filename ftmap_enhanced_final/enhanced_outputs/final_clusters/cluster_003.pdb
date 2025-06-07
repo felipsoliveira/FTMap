@@ -1,0 +1,14 @@
+REMARK FTMap Enhanced Cluster 1
+REMARK Druggability Index: 4.704
+REMARK Min Energy: -8.74 kcal/mol
+REMARK Cluster Size: 8 poses
+REMARK Dominant Probe: Ethanol
+HETATM    1  C1  ETH A   1      28.300 -15.283  20.215  1.00 -8.74           C
+HETATM    2  C1  MET A   1      29.726 -15.455  25.246  1.00 -8.51           C
+HETATM    3  C1  WAT A   1      24.637 -16.936  21.871  1.00 -7.86           C
+HETATM    4  C1  DMF A   1      29.461 -16.729  21.273  1.00 -6.76           C
+HETATM    5  C1  ETH A   1      20.883 -17.834  19.078  1.00 -5.90           C
+HETATM    6  C1  CYC A   1      21.837 -18.113  19.053  1.00 -5.30           C
+HETATM    7  C1  ETH A   1      26.721 -15.139  19.875  1.00 -5.07           C
+HETATM    8  C1  ETH A   1      27.119 -15.466  23.725  1.00 -3.91           C
+END

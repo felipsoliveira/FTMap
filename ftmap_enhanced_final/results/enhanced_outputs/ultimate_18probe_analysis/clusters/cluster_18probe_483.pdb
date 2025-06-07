@@ -1,0 +1,14 @@
+TITLE     FTMap 18-Probe System - Cluster 483
+REMARK    Size: 9 poses
+REMARK    Min Energy: -3.85 kcal/mol
+REMARK    Avg Energy: -2.79 kcal/mol
+REMARK    Center: -5.23 23.01 10.49
+HETATM    1  C   URE A 483      -5.543  22.856   9.211  1.00 -3.85           C
+HETATM    2  C   URE A 483      -5.894  22.766   9.275  1.00 -3.54           C
+HETATM    3  C   URE A 483      -5.401  22.682   9.090  1.00 -3.69           C
+HETATM    4  C   ISO A 483      -5.351  23.460  11.212  1.00 -2.85           C
+HETATM    5  C   ISO A 483      -5.884  23.021   9.190  1.00 -2.49           C
+HETATM    6  C   ISO A 483      -4.358  23.083  11.257  1.00 -1.67           C
+HETATM    7  C   ISO A 483      -4.324  22.833  11.501  1.00 -1.88           C
+HETATM    8  C   ACE A 483      -5.099  22.973  11.948  1.00 -2.36           C
+HETATM    9  C   ACE A 483      -5.226  23.374  11.727  1.00 -2.76           C

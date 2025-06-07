@@ -1,0 +1,27 @@
+TITLE     FTMap 18-Probe System - Cluster 210
+REMARK    Size: 22 poses
+REMARK    Min Energy: -2.44 kcal/mol
+REMARK    Avg Energy: -2.09 kcal/mol
+REMARK    Center: 24.61 -2.14 -1.06
+HETATM    1  C   BEN A 210      24.787  -2.068  -1.006  1.00 -2.21           C
+HETATM    2  C   BEN A 210      24.681  -2.046  -1.161  1.00 -2.22           C
+HETATM    3  C   BEN A 210      23.302  -2.370  -1.990  1.00 -2.35           C
+HETATM    4  C   BEN A 210      23.297  -2.438  -1.769  1.00 -2.30           C
+HETATM    5  C   BEN A 210      22.795  -2.379  -1.699  1.00 -2.09           C
+HETATM    6  C   BEN A 210      23.231  -1.732  -1.738  1.00 -2.44           C
+HETATM    7  C   BEN A 210      23.211  -2.539  -1.778  1.00 -2.28           C
+HETATM    8  C   BEN A 210      22.760  -2.210  -1.806  1.00 -2.34           C
+HETATM    9  C   BEN A 210      22.621  -1.997  -1.696  1.00 -2.21           C
+HETATM   10  C   BEN A 210      23.438  -2.220  -2.097  1.00 -2.26           C
+HETATM   11  C   BEN A 210      23.361  -2.388  -2.005  1.00 -2.32           C
+HETATM   12  C   BEN A 210      24.727  -0.416   0.401  1.00 -1.72           C
+HETATM   13  C   BEN A 210      25.799  -2.517  -0.713  1.00 -2.01           C
+HETATM   14  C   BEN A 210      26.452  -2.044  -0.022  1.00 -2.00           C
+HETATM   15  C   BEN A 210      26.015  -1.690  -0.403  1.00 -2.04           C
+HETATM   16  C   BEN A 210      26.251  -2.688  -0.975  1.00 -1.60           C
+HETATM   17  C   BEN A 210      26.084  -2.215  -0.470  1.00 -1.98           C
+HETATM   18  C   BEN A 210      25.573  -1.773  -0.669  1.00 -2.13           C
+HETATM   19  C   BEN A 210      25.749  -2.375  -0.215  1.00 -2.18           C
+HETATM   20  C   BEN A 210      25.368  -2.696  -0.053  1.00 -1.57           C
+HETATM   21  C   BEN A 210      25.946  -2.336  -0.800  1.00 -1.88           C
+HETATM   22  C   BEN A 210      25.926  -1.918  -0.736  1.00 -1.91           C

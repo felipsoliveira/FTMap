@@ -1,0 +1,6 @@
+HEADER    FTMAP ENHANCED CLUSTER
+TITLE     CLUSTER 103 - 3 PROBES
+ATOM      1  C   LIG A 103      16.464  -6.754 -19.388  1.00 -4.35           C
+ATOM      2  C   LIG A 103      16.464  -6.754 -19.388  1.00 -5.02           C
+ATOM      3  C   LIG A 103      16.464  -6.754 -19.388  1.00 -5.00           C
+END

@@ -1,0 +1,29 @@
+TITLE     FTMap 18-Probe System - Cluster 209
+REMARK    Size: 24 poses
+REMARK    Min Energy: -4.21 kcal/mol
+REMARK    Avg Energy: -2.96 kcal/mol
+REMARK    Center: -10.25 19.13 15.14
+HETATM    1  C   BEN A 209     -10.455  20.117  14.363  1.00 -4.21           C
+HETATM    2  C   BEN A 209     -10.304  19.997  16.542  1.00 -2.63           C
+HETATM    3  C   BEN A 209      -9.945  19.816  16.397  1.00 -2.79           C
+HETATM    4  C   BEN A 209     -10.137  20.109  15.857  1.00 -3.21           C
+HETATM    5  C   BEN A 209      -9.702  20.032  16.530  1.00 -3.03           C
+HETATM    6  C   BEN A 209     -10.210  20.396  16.393  1.00 -3.06           C
+HETATM    7  C   BEN A 209      -9.998  20.269  16.025  1.00 -3.34           C
+HETATM    8  C   BEN A 209      -9.597  19.475  15.944  1.00 -3.01           C
+HETATM    9  C   BEN A 209      -9.764  19.773  15.913  1.00 -3.14           C
+HETATM   10  C   BEN A 209     -12.346  21.181  16.224  1.00 -2.51           C
+HETATM   11  C   BEN A 209     -10.537  17.568  15.014  1.00 -2.23           C
+HETATM   12  C   BEN A 209     -10.070  17.595  15.141  1.00 -2.41           C
+HETATM   13  C   BEN A 209     -10.669  17.647  14.354  1.00 -2.40           C
+HETATM   14  C   BEN A 209      -9.701  19.148  14.215  1.00 -3.72           C
+HETATM   15  C   BEN A 209      -9.800  18.411  14.418  1.00 -3.04           C
+HETATM   16  C   BEN A 209     -10.278  18.623  14.986  1.00 -2.62           C
+HETATM   17  C   BEN A 209      -9.751  18.854  14.457  1.00 -3.30           C
+HETATM   18  C   BEN A 209      -9.567  19.059  14.752  1.00 -3.38           C
+HETATM   19  C   BEN A 209     -10.361  18.843  14.611  1.00 -2.89           C
+HETATM   20  C   BEN A 209      -9.854  18.737  14.558  1.00 -3.11           C
+HETATM   21  C   BEN A 209      -9.892  18.145  14.509  1.00 -2.84           C
+HETATM   22  C   BEN A 209      -9.529  17.860  14.260  1.00 -3.06           C
+HETATM   23  C   BEN A 209     -10.794  18.454  14.704  1.00 -2.44           C
+HETATM   24  C   BEN A 209     -12.814  19.068  13.109  1.00 -2.74           C

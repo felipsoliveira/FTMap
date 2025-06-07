@@ -1,0 +1,29 @@
+TITLE     FTMap 18-Probe System - Cluster 181
+REMARK    Size: 24 poses
+REMARK    Min Energy: -3.39 kcal/mol
+REMARK    Avg Energy: -2.52 kcal/mol
+REMARK    Center: -2.13 14.61 13.33
+HETATM    1  C   CYC A 181      -0.762  15.976  14.206  1.00 -1.60           C
+HETATM    2  C   ACE A 181      -2.250  14.055  13.057  1.00 -3.06           C
+HETATM    3  C   ACE A 181      -2.634  14.649  13.484  1.00 -2.32           C
+HETATM    4  C   ACE A 181      -2.317  14.737  12.829  1.00 -2.13           C
+HETATM    5  C   ACE A 181      -2.339  14.531  13.248  1.00 -2.47           C
+HETATM    6  C   ACE A 181      -2.849  13.896  13.694  1.00 -3.39           C
+HETATM    7  C   ACE A 181      -2.409  14.492  12.926  1.00 -2.47           C
+HETATM    8  C   ACE A 181      -2.360  14.342  12.799  1.00 -2.66           C
+HETATM    9  C   ACE A 181      -2.126  14.137  12.948  1.00 -2.94           C
+HETATM   10  C   ACE A 181      -2.538  14.464  12.997  1.00 -2.51           C
+HETATM   11  C   ACE A 181      -2.509  13.857  13.353  1.00 -3.29           C
+HETATM   12  C   ACE A 181      -2.220  14.440  13.616  1.00 -2.66           C
+HETATM   13  C   ACE A 181      -2.544  13.900  13.057  1.00 -3.25           C
+HETATM   14  C   ACE A 181      -2.151  14.449  13.021  1.00 -2.55           C
+HETATM   15  C   ISO A 181      -2.000  15.178  13.861  1.00 -1.92           C
+HETATM   16  C   BEN A 181      -0.607  15.722  14.136  1.00 -1.81           C
+HETATM   17  C   BEN A 181      -1.212  15.977  14.165  1.00 -1.69           C
+HETATM   18  C   BEN A 181      -0.927  15.338  14.250  1.00 -2.16           C
+HETATM   19  C   IMI A 181      -2.491  14.106  13.385  1.00 -3.07           C
+HETATM   20  C   IMI A 181      -2.390  14.248  12.818  1.00 -2.80           C
+HETATM   21  C   IMI A 181      -1.966  14.438  12.961  1.00 -2.55           C
+HETATM   22  C   IMI A 181      -2.411  14.405  12.868  1.00 -2.58           C
+HETATM   23  C   IMI A 181      -2.368  14.238  12.844  1.00 -2.82           C
+HETATM   24  C   IMI A 181      -2.822  15.136  13.491  1.00 -1.75           C

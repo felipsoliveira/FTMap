@@ -1,0 +1,30 @@
+TITLE     FTMap 18-Probe System - Cluster 280
+REMARK    Size: 25 poses
+REMARK    Min Energy: -4.92 kcal/mol
+REMARK    Avg Energy: -3.75 kcal/mol
+REMARK    Center: 12.79 13.29 15.19
+HETATM    1  C   BEN A 280      12.490  12.746  16.059  1.00 -4.74           C
+HETATM    2  C   BEN A 280      12.720  12.554  16.169  1.00 -4.74           C
+HETATM    3  C   BEN A 280      12.610  12.400  16.069  1.00 -4.92           C
+HETATM    4  C   BEN A 280      12.137  12.563  16.152  1.00 -4.44           C
+HETATM    5  C   BEN A 280      12.213  13.154  15.909  1.00 -4.66           C
+HETATM    6  C   BEN A 280      12.475  12.379  16.207  1.00 -4.87           C
+HETATM    7  C   BEN A 280      12.266  13.425  15.928  1.00 -4.48           C
+HETATM    8  C   BEN A 280      12.404  12.204  16.721  1.00 -4.61           C
+HETATM    9  C   BEN A 280      12.299  12.834  16.547  1.00 -4.67           C
+HETATM   10  C   BEN A 280      12.905  12.746  16.602  1.00 -4.41           C
+HETATM   11  C   BEN A 280      15.044  12.526  14.764  1.00 -2.30           C
+HETATM   12  C   BEN A 280      15.325  12.467  15.245  1.00 -2.20           C
+HETATM   13  C   BEN A 280      14.653  13.183  14.373  1.00 -2.09           C
+HETATM   14  C   BEN A 280      14.033  12.635  13.657  1.00 -2.76           C
+HETATM   15  C   BEN A 280      13.731  12.726  13.650  1.00 -2.94           C
+HETATM   16  C   BEN A 280      12.543  14.179  14.901  1.00 -3.30           C
+HETATM   17  C   BEN A 280      12.048  14.160  14.140  1.00 -3.53           C
+HETATM   18  C   BEN A 280      12.500  13.888  14.785  1.00 -3.53           C
+HETATM   19  C   BEN A 280      12.217  14.509  14.641  1.00 -3.32           C
+HETATM   20  C   BEN A 280      11.863  14.128  14.782  1.00 -4.07           C
+HETATM   21  C   BEN A 280      12.047  14.157  14.445  1.00 -3.68           C
+HETATM   22  C   BEN A 280      11.831  14.541  14.386  1.00 -3.59           C
+HETATM   23  C   BEN A 280      12.614  13.918  14.543  1.00 -3.30           C
+HETATM   24  C   BEN A 280      12.740  13.995  14.589  1.00 -3.13           C
+HETATM   25  C   BEN A 280      12.135  14.302  14.509  1.00 -3.50           C

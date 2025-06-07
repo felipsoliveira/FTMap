@@ -1,0 +1,23 @@
+TITLE     FTMap 18-Probe System - Cluster 475
+REMARK    Size: 18 poses
+REMARK    Min Energy: -2.84 kcal/mol
+REMARK    Avg Energy: -1.95 kcal/mol
+REMARK    Center: -7.70 24.78 17.50
+HETATM    1  C   DMF A 475      -8.369  24.795  16.230  1.00 -2.62           C
+HETATM    2  C   ETH A 475      -6.948  24.574  18.557  1.00 -1.55           C
+HETATM    3  C   ISO A 475      -7.012  24.664  17.886  1.00 -1.72           C
+HETATM    4  C   ISO A 475      -7.582  24.909  17.402  1.00 -2.26           C
+HETATM    5  C   ISO A 475      -7.145  25.052  17.718  1.00 -1.98           C
+HETATM    6  C   ISO A 475      -7.424  24.653  17.866  1.00 -1.99           C
+HETATM    7  C   ISO A 475      -7.097  24.711  17.642  1.00 -1.59           C
+HETATM    8  C   ISO A 475      -9.463  24.565  16.223  1.00 -1.81           C
+HETATM    9  C   ACE A 475      -7.315  25.450  17.969  1.00 -1.91           C
+HETATM   10  C   ACE A 475      -8.159  25.208  16.038  1.00 -2.84           C
+HETATM   11  C   ACE A 475      -8.318  24.709  16.445  1.00 -2.43           C
+HETATM   12  C   ACE A 475      -8.365  24.748  16.528  1.00 -2.38           C
+HETATM   13  C   BEN A 475      -8.123  24.399  17.808  1.00 -1.54           C
+HETATM   14  C   BEN A 475      -8.004  24.427  18.044  1.00 -1.51           C
+HETATM   15  C   ACE A 475      -7.541  24.791  16.317  1.00 -1.73           C
+HETATM   16  C   MET A 475      -7.316  24.755  19.009  1.00 -1.60           C
+HETATM   17  C   MET A 475      -7.455  24.660  18.669  1.00 -1.65           C
+HETATM   18  C   MET A 475      -6.877  25.046  18.599  1.00 -2.03           C

@@ -1,0 +1,105 @@
+{
+  "analysis_info": {
+    "protein": "pfpkii.pdb",
+    "protein_name": "Pyruvate Kinase 2 (Plasmodium falciparum)",
+    "analysis_date": "2025-06-07T05:11:01.022112",
+    "total_runtime_minutes": 0.0008223851521809896
+  },
+  "probe_statistics": {
+    "Ethanol": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Acetone": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "DimethylEther": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Phenol": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Urea": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Isopropanol": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Benzene": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "DMF": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Imidazole": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Methylamine": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Acetaldehyde": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Water": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Acetamide": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Ethane": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Isobutanol": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Benzaldehyde": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    },
+    "Cyclohexane": {
+      "total_poses": 0,
+      "best_energy": 0.0,
+      "probe_type": "organic_fragment"
+    }
+  },
+  "clustering_results": {
+    "total_poses": 0,
+    "total_clusters": 0,
+    "top_clusters": []
+  },
+  "output_files": {
+    "unified_pdb": "/home/murilo/girias/ftmapcaseiro/ftmap_enhanced_final/fresh_pfpkii_analysis/pfpkii_analysis_20250607_051100/pfpkii_with_ftmap_clusters.pdb",
+    "clusters_directory": "/home/murilo/girias/ftmapcaseiro/ftmap_enhanced_final/fresh_pfpkii_analysis/pfpkii_analysis_20250607_051100/clusters",
+    "individual_clusters": 0
+  }
+}

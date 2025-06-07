@@ -1,0 +1,13 @@
+TITLE     FTMap 18-Probe System - Cluster 476
+REMARK    Size: 8 poses
+REMARK    Min Energy: -1.61 kcal/mol
+REMARK    Avg Energy: -1.54 kcal/mol
+REMARK    Center: 3.00 33.63 11.43
+HETATM    1  C   DMF A 476       3.046  33.648  11.320  1.00 -1.52           C
+HETATM    2  C   URE A 476       3.202  33.703  11.447  1.00 -1.55           C
+HETATM    3  C   URE A 476       3.445  33.314  11.396  1.00 -1.59           C
+HETATM    4  C   URE A 476       3.280  33.817  11.782  1.00 -1.61           C
+HETATM    5  C   ACE A 476       2.397  33.735  11.458  1.00 -1.51           C
+HETATM    6  C   ACE A 476       1.836  33.866  11.431  1.00 -1.51           C
+HETATM    7  C   MET A 476       3.384  33.297  11.250  1.00 -1.53           C
+HETATM    8  C   MET A 476       3.437  33.627  11.351  1.00 -1.51           C

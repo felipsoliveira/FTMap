@@ -1,0 +1,677 @@
+FTMAP ENHANCED - RELATÓRIO DE RANKING AVANÇADO
+============================================================
+
+CRITÉRIOS DE RANKING:
+• Energia de Ligação: 40%
+• Tamanho do Cluster: 25%
+• Consenso: 20%
+• Diversidade Química: 15%
+
+THRESHOLDS ENERGÉTICOS:
+• Excelente: ≤ -5.0 kcal/mol
+• Bom: ≤ -3.5 kcal/mol
+• Moderado: ≤ -2.5 kcal/mol
+• Fraco: ≤ -2.0 kcal/mol
+
+RANKING DOS CLUSTERS:
+------------------------------------------------------------
+
+RANK  1: CLUSTER 107
+  Score Final: 0.8775
+  Classificação: EXCELENTE
+  Energia Mínima: -5.18 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-3.0, -5.3, -19.9)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.988
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  2: CLUSTER 141
+  Score Final: 0.8767
+  Classificação: EXCELENTE
+  Energia Mínima: -6.53 kcal/mol
+  Tamanho: 3 probes
+  Centro: (12.5, 0.7, -15.4)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.984
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  3: CLUSTER  80
+  Score Final: 0.8759
+  Classificação: EXCELENTE
+  Energia Mínima: -5.40 kcal/mol
+  Tamanho: 3 probes
+  Centro: (12.5, 5.7, 19.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.980
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  4: CLUSTER 103
+  Score Final: 0.8752
+  Classificação: EXCELENTE
+  Energia Mínima: -5.02 kcal/mol
+  Tamanho: 3 probes
+  Centro: (16.5, -6.8, -19.4)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.976
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  5: CLUSTER 120
+  Score Final: 0.8744
+  Classificação: EXCELENTE
+  Energia Mínima: -5.46 kcal/mol
+  Tamanho: 3 probes
+  Centro: (11.0, -15.3, 14.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.972
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  6: CLUSTER 247
+  Score Final: 0.8741
+  Classificação: EXCELENTE
+  Energia Mínima: -6.34 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-8.0, -10.3, -2.4)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.970
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  7: CLUSTER  90
+  Score Final: 0.8741
+  Classificação: EXCELENTE
+  Energia Mínima: -7.26 kcal/mol
+  Tamanho: 3 probes
+  Centro: (13.0, 0.2, -15.4)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.970
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  8: CLUSTER  30
+  Score Final: 0.8739
+  Classificação: EXCELENTE
+  Energia Mínima: -5.11 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-17.5, -9.8, 3.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.970
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK  9: CLUSTER  22
+  Score Final: 0.8716
+  Classificação: EXCELENTE
+  Energia Mínima: -5.57 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-7.5, 8.7, 20.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.958
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 10: CLUSTER 100
+  Score Final: 0.8716
+  Classificação: EXCELENTE
+  Energia Mínima: -5.61 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-17.0, 1.2, 31.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.958
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 11: CLUSTER  34
+  Score Final: 0.8715
+  Classificação: EXCELENTE
+  Energia Mínima: -5.75 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-4.5, 5.2, 18.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.957
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 12: CLUSTER  97
+  Score Final: 0.8709
+  Classificação: EXCELENTE
+  Energia Mínima: -8.15 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-2.0, -1.8, 15.6)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.954
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 13: CLUSTER  24
+  Score Final: 0.8701
+  Classificação: EXCELENTE
+  Energia Mínima: -6.60 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-16.0, 1.2, 30.6)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.950
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 14: CLUSTER 168
+  Score Final: 0.8691
+  Classificação: EXCELENTE
+  Energia Mínima: -5.14 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-0.5, 5.2, 20.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.945
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 15: CLUSTER 249
+  Score Final: 0.8671
+  Classificação: EXCELENTE
+  Energia Mínima: -5.13 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-11.5, 17.7, -9.9)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.935
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 16: CLUSTER  69
+  Score Final: 0.8620
+  Classificação: EXCELENTE
+  Energia Mínima: -8.39 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-16.5, 13.2, 10.6)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.910
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 17: CLUSTER 117
+  Score Final: 0.8558
+  Classificação: EXCELENTE
+  Energia Mínima: -6.07 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-6.5, -12.3, -2.9)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.879
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 18: CLUSTER 245
+  Score Final: 0.8512
+  Classificação: EXCELENTE
+  Energia Mínima: -5.82 kcal/mol
+  Tamanho: 3 probes
+  Centro: (4.0, -0.3, 19.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.856
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 19: CLUSTER 158
+  Score Final: 0.8488
+  Classificação: EXCELENTE
+  Energia Mínima: -6.22 kcal/mol
+  Tamanho: 3 probes
+  Centro: (3.5, 10.7, -0.4)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.844
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 20: CLUSTER  21
+  Score Final: 0.8485
+  Classificação: EXCELENTE
+  Energia Mínima: -8.02 kcal/mol
+  Tamanho: 3 probes
+  Centro: (32.5, 3.2, -21.9)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.843
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 21: CLUSTER  18
+  Score Final: 0.8479
+  Classificação: EXCELENTE
+  Energia Mínima: -5.63 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-20.0, -3.3, 27.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.840
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 22: CLUSTER  43
+  Score Final: 0.8453
+  Classificação: EXCELENTE
+  Energia Mínima: -5.50 kcal/mol
+  Tamanho: 3 probes
+  Centro: (15.0, -7.8, 3.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.826
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 23: CLUSTER 191
+  Score Final: 0.8428
+  Classificação: EXCELENTE
+  Energia Mínima: -5.55 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-19.0, 16.7, -3.9)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.814
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 24: CLUSTER 129
+  Score Final: 0.8392
+  Classificação: EXCELENTE
+  Energia Mínima: -6.83 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-23.0, -2.3, 18.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.796
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 25: CLUSTER  42
+  Score Final: 0.8383
+  Classificação: EXCELENTE
+  Energia Mínima: -5.56 kcal/mol
+  Tamanho: 3 probes
+  Centro: (3.5, -8.3, 11.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.791
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 26: CLUSTER  73
+  Score Final: 0.8250
+  Classificação: EXCELENTE
+  Energia Mínima: -6.04 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-21.5, -5.8, 8.1)
+  Scores Individuais:
+    - Energia: 1.000
+    - Tamanho: 1.000
+    - Consenso: 0.725
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 27: CLUSTER 134
+  Score Final: 0.7991
+  Classificação: BOM
+  Energia Mínima: -3.66 kcal/mol
+  Tamanho: 3 probes
+  Centro: (10.5, -10.8, -18.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.996
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 28: CLUSTER  16
+  Score Final: 0.7991
+  Classificação: BOM
+  Energia Mínima: -3.69 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-16.0, 14.2, 25.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.995
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 29: CLUSTER  86
+  Score Final: 0.7990
+  Classificação: BOM
+  Energia Mínima: -3.51 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-30.0, 3.2, 2.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.995
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 30: CLUSTER  10
+  Score Final: 0.7989
+  Classificação: BOM
+  Energia Mínima: -4.14 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-8.5, 16.7, -11.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 31: CLUSTER 204
+  Score Final: 0.7988
+  Classificação: BOM
+  Energia Mínima: -3.99 kcal/mol
+  Tamanho: 3 probes
+  Centro: (13.0, -8.3, -16.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 32: CLUSTER  85
+  Score Final: 0.7988
+  Classificação: BOM
+  Energia Mínima: -3.54 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-11.0, -12.8, 2.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 33: CLUSTER 238
+  Score Final: 0.7988
+  Classificação: BOM
+  Energia Mínima: -3.92 kcal/mol
+  Tamanho: 3 probes
+  Centro: (26.5, 4.2, -34.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 34: CLUSTER 179
+  Score Final: 0.7988
+  Classificação: BOM
+  Energia Mínima: -4.15 kcal/mol
+  Tamanho: 3 probes
+  Centro: (10.5, -15.3, 15.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 35: CLUSTER  63
+  Score Final: 0.7987
+  Classificação: BOM
+  Energia Mínima: -3.50 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-30.5, 1.7, 2.1)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 36: CLUSTER 124
+  Score Final: 0.7987
+  Classificação: BOM
+  Energia Mínima: -4.07 kcal/mol
+  Tamanho: 3 probes
+  Centro: (12.5, -8.8, -21.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 37: CLUSTER  61
+  Score Final: 0.7987
+  Classificação: BOM
+  Energia Mínima: -4.16 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-19.0, -12.3, 13.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.994
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 38: CLUSTER   4
+  Score Final: 0.7986
+  Classificação: BOM
+  Energia Mínima: -4.26 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-8.5, 16.7, -11.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.993
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 39: CLUSTER  32
+  Score Final: 0.7985
+  Classificação: BOM
+  Energia Mínima: -4.16 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-11.0, 3.2, -18.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.993
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 40: CLUSTER  41
+  Score Final: 0.7985
+  Classificação: BOM
+  Energia Mínima: -3.93 kcal/mol
+  Tamanho: 3 probes
+  Centro: (11.0, -15.3, 16.1)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.993
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 41: CLUSTER 177
+  Score Final: 0.7985
+  Classificação: BOM
+  Energia Mínima: -4.19 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-14.5, 6.2, -9.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.992
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 42: CLUSTER 164
+  Score Final: 0.7984
+  Classificação: BOM
+  Energia Mínima: -4.46 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-6.0, 9.2, 20.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.992
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 43: CLUSTER 193
+  Score Final: 0.7984
+  Classificação: BOM
+  Energia Mínima: -3.68 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-8.0, 21.7, 13.1)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.992
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 44: CLUSTER 127
+  Score Final: 0.7983
+  Classificação: BOM
+  Energia Mínima: -4.13 kcal/mol
+  Tamanho: 3 probes
+  Centro: (-20.5, -13.3, 6.6)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.992
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 45: CLUSTER  66
+  Score Final: 0.7982
+  Classificação: BOM
+  Energia Mínima: -4.47 kcal/mol
+  Tamanho: 3 probes
+  Centro: (14.0, 0.2, -12.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.991
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 46: CLUSTER 227
+  Score Final: 0.7981
+  Classificação: BOM
+  Energia Mínima: -4.86 kcal/mol
+  Tamanho: 3 probes
+  Centro: (18.0, -7.3, -17.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.990
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 47: CLUSTER 145
+  Score Final: 0.7980
+  Classificação: BOM
+  Energia Mínima: -3.65 kcal/mol
+  Tamanho: 3 probes
+  Centro: (8.0, 16.2, -5.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.990
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 48: CLUSTER  55
+  Score Final: 0.7980
+  Classificação: BOM
+  Energia Mínima: -3.92 kcal/mol
+  Tamanho: 3 probes
+  Centro: (12.5, -18.3, -11.4)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.990
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 49: CLUSTER 165
+  Score Final: 0.7979
+  Classificação: BOM
+  Energia Mínima: -4.11 kcal/mol
+  Tamanho: 3 probes
+  Centro: (23.5, 2.7, 7.1)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.990
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+RANK 50: CLUSTER  31
+  Score Final: 0.7978
+  Classificação: BOM
+  Energia Mínima: -3.99 kcal/mol
+  Tamanho: 3 probes
+  Centro: (17.0, 2.2, -10.9)
+  Scores Individuais:
+    - Energia: 0.800
+    - Tamanho: 1.000
+    - Consenso: 0.989
+    - Diversidade: 0.200
+    - Espacial: 1.000
+
+
+ESTATÍSTICAS DO RANKING:
+------------------------------
+• EXCELENTE: 36 clusters
+• BOM: 73 clusters
+• MODERADO: 115 clusters
+• FRACO: 27 clusters
+
+Score médio TOP 10: 0.8745

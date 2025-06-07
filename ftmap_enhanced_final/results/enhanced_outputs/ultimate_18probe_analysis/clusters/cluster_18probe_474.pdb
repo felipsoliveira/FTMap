@@ -1,0 +1,28 @@
+TITLE     FTMap 18-Probe System - Cluster 474
+REMARK    Size: 23 poses
+REMARK    Min Energy: -1.88 kcal/mol
+REMARK    Avg Energy: -1.60 kcal/mol
+REMARK    Center: 2.12 -5.37 2.92
+HETATM    1  C   ACE A 474       2.433  -5.706   2.720  1.00 -1.65           C
+HETATM    2  C   ACE A 474       2.101  -5.105   2.347  1.00 -1.58           C
+HETATM    3  C   ACE A 474       2.086  -5.166   2.614  1.00 -1.58           C
+HETATM    4  C   DMF A 474       1.799  -5.703   3.960  1.00 -1.66           C
+HETATM    5  C   DMF A 474       2.260  -5.839   4.452  1.00 -1.88           C
+HETATM    6  C   DMF A 474       1.921  -5.940   3.824  1.00 -1.63           C
+HETATM    7  C   DMF A 474       2.209  -5.217   2.089  1.00 -1.53           C
+HETATM    8  C   DMF A 474       1.822  -5.179   2.706  1.00 -1.51           C
+HETATM    9  C   DMF A 474       2.548  -5.336   2.752  1.00 -1.74           C
+HETATM   10  C   DMF A 474       2.055  -5.321   2.580  1.00 -1.57           C
+HETATM   11  C   DMF A 474       2.349  -5.288   2.560  1.00 -1.69           C
+HETATM   12  C   DIM A 474       1.846  -5.560   4.681  1.00 -1.62           C
+HETATM   13  C   ACE A 474       1.816  -5.299   2.825  1.00 -1.52           C
+HETATM   14  C   ACE A 474       2.438  -5.320   2.523  1.00 -1.72           C
+HETATM   15  C   ACE A 474       2.284  -5.334   2.983  1.00 -1.61           C
+HETATM   16  C   BEN A 474       2.099  -5.127   2.391  1.00 -1.58           C
+HETATM   17  C   BEN A 474       2.325  -5.571   2.300  1.00 -1.51           C
+HETATM   18  C   BEN A 474       2.217  -5.321   3.156  1.00 -1.51           C
+HETATM   19  C   BEN A 474       1.994  -5.617   2.926  1.00 -1.54           C
+HETATM   20  C   MET A 474       1.852  -5.417   2.836  1.00 -1.52           C
+HETATM   21  C   MET A 474       1.902  -5.021   2.484  1.00 -1.52           C
+HETATM   22  C   MET A 474       2.309  -5.457   3.126  1.00 -1.66           C
+HETATM   23  C   MET A 474       2.134  -4.781   2.306  1.00 -1.52           C

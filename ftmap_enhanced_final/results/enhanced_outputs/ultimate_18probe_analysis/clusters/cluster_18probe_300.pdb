@@ -1,0 +1,28 @@
+TITLE     FTMap 18-Probe System - Cluster 300
+REMARK    Size: 23 poses
+REMARK    Min Energy: -4.52 kcal/mol
+REMARK    Avg Energy: -4.01 kcal/mol
+REMARK    Center: 12.61 27.65 20.05
+HETATM    1  C   BEN A 300      12.819  27.514  20.591  1.00 -3.90           C
+HETATM    2  C   BEN A 300      12.828  27.579  20.724  1.00 -3.84           C
+HETATM    3  C   BEN A 300      12.592  27.511  21.041  1.00 -4.08           C
+HETATM    4  C   BEN A 300      12.352  27.574  20.757  1.00 -4.16           C
+HETATM    5  C   BEN A 300      12.582  27.664  20.633  1.00 -4.07           C
+HETATM    6  C   BEN A 300      12.392  28.019  20.455  1.00 -4.05           C
+HETATM    7  C   BEN A 300      12.085  27.732  20.749  1.00 -3.76           C
+HETATM    8  C   BEN A 300      13.254  27.209  20.224  1.00 -3.50           C
+HETATM    9  C   BEN A 300      12.454  27.655  20.584  1.00 -4.12           C
+HETATM   10  C   BEN A 300      12.236  27.899  20.471  1.00 -3.93           C
+HETATM   11  C   BEN A 300      12.657  25.891  21.846  1.00 -4.52           C
+HETATM   12  C   BEN A 300      12.842  25.930  21.671  1.00 -4.34           C
+HETATM   13  C   BEN A 300      12.641  27.601  18.666  1.00 -4.25           C
+HETATM   14  C   BEN A 300      12.650  27.934  19.562  1.00 -4.05           C
+HETATM   15  C   BEN A 300      12.688  27.598  19.328  1.00 -4.12           C
+HETATM   16  C   BEN A 300      12.735  27.787  18.743  1.00 -4.15           C
+HETATM   17  C   BEN A 300      12.737  27.871  19.023  1.00 -4.08           C
+HETATM   18  C   BEN A 300      12.481  27.896  19.348  1.00 -4.08           C
+HETATM   19  C   BEN A 300      12.489  28.011  18.665  1.00 -4.26           C
+HETATM   20  C   BEN A 300      12.566  27.687  18.933  1.00 -4.19           C
+HETATM   21  C   BEN A 300      12.243  28.041  18.857  1.00 -3.89           C
+HETATM   22  C   BEN A 300      12.677  28.176  19.364  1.00 -4.02           C
+HETATM   23  C   BEN A 300      12.962  29.095  20.863  1.00 -2.92           C

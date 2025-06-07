@@ -1,0 +1,43 @@
+TITLE     FTMap 18-Probe System - Cluster 190
+REMARK    Size: 38 poses
+REMARK    Min Energy: -5.29 kcal/mol
+REMARK    Avg Energy: -2.29 kcal/mol
+REMARK    Center: 5.58 22.99 11.98
+HETATM    1  C   CYC A 190       5.815  23.229  12.700  1.00 -2.25           C
+HETATM    2  C   BEN A 190       7.916  21.845  11.729  1.00 -5.01           C
+HETATM    3  C   BEN A 190       7.881  21.363  11.885  1.00 -4.92           C
+HETATM    4  C   BEN A 190       7.754  21.913  11.636  1.00 -5.12           C
+HETATM    5  C   BEN A 190       7.710  21.893  11.713  1.00 -5.29           C
+HETATM    6  C   BEN A 190       8.045  21.888  11.725  1.00 -4.88           C
+HETATM    7  C   DIM A 190       6.205  23.041  13.336  1.00 -2.36           C
+HETATM    8  C   DIM A 190       6.320  23.207  13.162  1.00 -2.27           C
+HETATM    9  C   DIM A 190       5.979  23.060  13.197  1.00 -2.33           C
+HETATM   10  C   DIM A 190       6.438  23.137  12.787  1.00 -1.98           C
+HETATM   11  C   DIM A 190       5.248  23.454  12.739  1.00 -1.86           C
+HETATM   12  C   ACE A 190       5.606  23.150  12.187  1.00 -1.96           C
+HETATM   13  C   ACE A 190       5.412  23.301  11.461  1.00 -1.57           C
+HETATM   14  C   ACE A 190       4.498  23.018  11.494  1.00 -1.72           C
+HETATM   15  C   ACE A 190       4.672  23.141  11.356  1.00 -1.64           C
+HETATM   16  C   ACE A 190       4.877  22.902  11.892  1.00 -1.82           C
+HETATM   17  C   ACE A 190       4.774  23.101  11.873  1.00 -1.97           C
+HETATM   18  C   ACE A 190       4.684  23.260  11.202  1.00 -1.59           C
+HETATM   19  C   ACE A 190       4.681  22.993  12.106  1.00 -2.00           C
+HETATM   20  C   BEN A 190       5.742  22.991  13.200  1.00 -2.24           C
+HETATM   21  C   BEN A 190       5.374  23.132  13.008  1.00 -1.83           C
+HETATM   22  C   BEN A 190       5.065  22.884  12.094  1.00 -1.89           C
+HETATM   23  C   BEN A 190       5.363  23.060  11.912  1.00 -1.79           C
+HETATM   24  C   BEN A 190       5.147  23.477  11.214  1.00 -1.58           C
+HETATM   25  C   BEN A 190       4.665  23.064  11.673  1.00 -1.84           C
+HETATM   26  C   BEN A 190       5.172  23.659  11.641  1.00 -2.07           C
+HETATM   27  C   BEN A 190       4.869  23.268  11.605  1.00 -1.87           C
+HETATM   28  C   ACE A 190       7.137  23.575  12.655  1.00 -1.68           C
+HETATM   29  C   ACE A 190       4.823  23.149  11.939  1.00 -2.03           C
+HETATM   30  C   ACE A 190       4.789  23.289  11.180  1.00 -1.56           C
+HETATM   31  C   ACE A 190       5.289  23.361  11.414  1.00 -1.62           C
+HETATM   32  C   ACE A 190       5.043  23.147  11.763  1.00 -1.85           C
+HETATM   33  C   ACE A 190       4.823  23.082  11.401  1.00 -1.59           C
+HETATM   34  C   ACE A 190       5.455  23.003  11.880  1.00 -1.69           C
+HETATM   35  C   ACE A 190       5.269  23.456  11.589  1.00 -1.84           C
+HETATM   36  C   ACE A 190       4.836  23.048  11.686  1.00 -1.79           C
+HETATM   37  C   ACE A 190       4.339  23.063  11.895  1.00 -2.01           C
+HETATM   38  C   ACE A 190       4.486  23.006  11.318  1.00 -1.59           C

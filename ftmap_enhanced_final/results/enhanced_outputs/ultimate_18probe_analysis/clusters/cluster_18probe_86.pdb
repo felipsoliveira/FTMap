@@ -1,0 +1,37 @@
+TITLE     FTMap 18-Probe System - Cluster 86
+REMARK    Size: 32 poses
+REMARK    Min Energy: -3.80 kcal/mol
+REMARK    Avg Energy: -2.55 kcal/mol
+REMARK    Center: 5.50 36.22 15.51
+HETATM    1  C   ETH A  86       4.927  35.256  15.308  1.00 -1.59           C
+HETATM    2  C   BEN A  86       6.426  37.432  15.892  1.00 -3.32           C
+HETATM    3  C   BEN A  86       6.472  36.970  15.708  1.00 -3.80           C
+HETATM    4  C   BEN A  86       6.586  36.834  16.754  1.00 -3.62           C
+HETATM    5  C   BEN A  86       6.705  37.533  15.946  1.00 -2.99           C
+HETATM    6  C   BEN A  86       6.755  37.023  15.716  1.00 -3.54           C
+HETATM    7  C   BEN A  86       6.622  36.979  15.903  1.00 -3.70           C
+HETATM    8  C   BEN A  86       6.796  36.548  16.459  1.00 -3.46           C
+HETATM    9  C   BEN A  86       6.651  36.871  16.101  1.00 -3.76           C
+HETATM   10  C   BEN A  86       6.605  37.119  16.263  1.00 -3.59           C
+HETATM   11  C   BEN A  86       6.361  36.584  16.835  1.00 -3.06           C
+HETATM   12  C   BEN A  86       5.470  37.001  17.612  1.00 -2.91           C
+HETATM   13  C   BEN A  86       4.801  36.743  13.400  1.00 -3.04           C
+HETATM   14  C   BEN A  86       4.733  36.594  13.133  1.00 -3.03           C
+HETATM   15  C   BEN A  86       5.016  36.906  13.161  1.00 -3.34           C
+HETATM   16  C   BEN A  86       5.523  36.607  12.850  1.00 -3.45           C
+HETATM   17  C   BEN A  86       4.825  36.554  13.702  1.00 -2.22           C
+HETATM   18  C   BEN A  86       4.779  36.599  13.615  1.00 -2.36           C
+HETATM   19  C   BEN A  86       4.875  36.432  13.251  1.00 -3.03           C
+HETATM   20  C   ISO A  86       5.056  35.179  15.752  1.00 -1.75           C
+HETATM   21  C   ISO A  86       4.835  35.735  16.590  1.00 -1.71           C
+HETATM   22  C   ISO A  86       5.053  35.367  16.117  1.00 -1.76           C
+HETATM   23  C   ACE A  86       4.709  35.500  16.374  1.00 -1.61           C
+HETATM   24  C   ACE A  86       4.770  35.459  15.712  1.00 -1.52           C
+HETATM   25  C   ACE A  86       4.997  35.731  16.233  1.00 -1.67           C
+HETATM   26  C   ACE A  86       4.955  35.133  16.147  1.00 -1.55           C
+HETATM   27  C   ACE A  86       4.889  35.289  16.138  1.00 -1.65           C
+HETATM   28  C   ACE A  86       5.000  35.463  15.835  1.00 -1.71           C
+HETATM   29  C   ACE A  86       4.890  35.479  16.120  1.00 -1.71           C
+HETATM   30  C   PHE A  86       5.519  35.397  16.053  1.00 -1.65           C
+HETATM   31  C   PHE A  86       5.201  35.537  15.828  1.00 -1.67           C
+HETATM   32  C   PHE A  86       5.111  35.345  15.854  1.00 -1.76           C

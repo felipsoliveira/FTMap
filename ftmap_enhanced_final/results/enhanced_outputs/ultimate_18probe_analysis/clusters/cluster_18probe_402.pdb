@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 402
+REMARK    Size: 10 poses
+REMARK    Min Energy: -5.24 kcal/mol
+REMARK    Avg Energy: -4.24 kcal/mol
+REMARK    Center: 10.98 -9.73 0.99
+HETATM    1  C   BEN A 402      11.131  -9.538   1.261  1.00 -4.85           C
+HETATM    2  C   BEN A 402      10.668  -9.947   0.648  1.00 -3.61           C
+HETATM    3  C   BEN A 402      11.053  -9.933   1.632  1.00 -4.41           C
+HETATM    4  C   BEN A 402      10.567  -9.086   0.976  1.00 -5.24           C
+HETATM    5  C   BEN A 402      10.224  -9.792   1.306  1.00 -4.43           C
+HETATM    6  C   BEN A 402      11.233 -10.046   0.225  1.00 -3.09           C
+HETATM    7  C   BEN A 402      11.359  -9.765   0.559  1.00 -3.78           C
+HETATM    8  C   BEN A 402      11.524  -9.844   1.043  1.00 -4.03           C
+HETATM    9  C   BEN A 402      10.940  -9.895   1.047  1.00 -4.00           C
+HETATM   10  C   BEN A 402      11.132  -9.489   1.249  1.00 -4.93           C

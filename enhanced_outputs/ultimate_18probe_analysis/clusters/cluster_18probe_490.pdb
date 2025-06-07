@@ -1,0 +1,12 @@
+TITLE     FTMap 18-Probe System - Cluster 490
+REMARK    Size: 7 poses
+REMARK    Min Energy: -1.95 kcal/mol
+REMARK    Avg Energy: -1.74 kcal/mol
+REMARK    Center: 24.63 -0.45 6.30
+HETATM    1  C   ISO A 490      24.341   0.240   5.579  1.00 -1.62           C
+HETATM    2  C   ISO A 490      24.312   0.370   5.254  1.00 -1.63           C
+HETATM    3  C   ISO A 490      24.071   0.539   5.367  1.00 -1.77           C
+HETATM    4  C   BEN A 490      24.811  -1.078   6.857  1.00 -1.56           C
+HETATM    5  C   PHE A 490      24.883  -0.997   7.199  1.00 -1.95           C
+HETATM    6  C   ACE A 490      24.890  -1.172   6.916  1.00 -1.70           C
+HETATM    7  C   ACE A 490      25.082  -1.020   6.911  1.00 -1.94           C

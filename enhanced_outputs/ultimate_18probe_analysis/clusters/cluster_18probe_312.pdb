@@ -1,0 +1,27 @@
+TITLE     FTMap 18-Probe System - Cluster 312
+REMARK    Size: 22 poses
+REMARK    Min Energy: -3.75 kcal/mol
+REMARK    Avg Energy: -2.69 kcal/mol
+REMARK    Center: 1.01 19.20 5.91
+HETATM    1  C   BEN A 312       1.617  18.258   7.005  1.00 -2.58           C
+HETATM    2  C   BEN A 312       1.855  18.767   6.803  1.00 -2.35           C
+HETATM    3  C   BEN A 312       1.598  18.401   7.049  1.00 -2.58           C
+HETATM    4  C   BEN A 312       2.007  18.499   6.864  1.00 -2.33           C
+HETATM    5  C   BEN A 312       1.082  19.064   6.019  1.00 -2.49           C
+HETATM    6  C   BEN A 312       1.194  18.982   5.630  1.00 -2.32           C
+HETATM    7  C   BEN A 312       1.092  19.103   5.291  1.00 -2.29           C
+HETATM    8  C   BEN A 312       0.264  18.656   5.467  1.00 -2.93           C
+HETATM    9  C   BEN A 312       1.705  18.819   5.148  1.00 -1.94           C
+HETATM   10  C   BEN A 312       0.618  18.751   5.059  1.00 -2.55           C
+HETATM   11  C   BEN A 312       0.051  18.963   5.456  1.00 -3.14           C
+HETATM   12  C   BEN A 312       0.270  18.678   5.617  1.00 -2.95           C
+HETATM   13  C   BEN A 312       0.531  18.786   5.386  1.00 -2.69           C
+HETATM   14  C   BEN A 312       0.630  19.778   5.748  1.00 -2.81           C
+HETATM   15  C   BEN A 312       0.388  20.458   5.598  1.00 -3.18           C
+HETATM   16  C   BEN A 312       0.719  19.867   5.813  1.00 -2.78           C
+HETATM   17  C   BEN A 312       0.542  20.055   5.855  1.00 -2.99           C
+HETATM   18  C   BEN A 312      -0.106  20.286   5.809  1.00 -3.75           C
+HETATM   19  C   BEN A 312       0.704  19.820   5.583  1.00 -2.72           C
+HETATM   20  C   BEN A 312       0.492  20.337   5.487  1.00 -3.00           C
+HETATM   21  C   BEN A 312       0.606  20.143   5.896  1.00 -2.97           C
+HETATM   22  C   BEN A 312       4.397  17.897   7.413  1.00 -1.90           C

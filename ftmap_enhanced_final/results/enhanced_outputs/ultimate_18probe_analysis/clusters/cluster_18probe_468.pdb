@@ -1,0 +1,8 @@
+TITLE     FTMap 18-Probe System - Cluster 468
+REMARK    Size: 3 poses
+REMARK    Min Energy: -1.55 kcal/mol
+REMARK    Avg Energy: -1.53 kcal/mol
+REMARK    Center: 3.75 29.12 8.93
+HETATM    1  C   ACE A 468       3.715  29.098   8.919  1.00 -1.55           C
+HETATM    2  C   ACE A 468       3.749  29.127   8.801  1.00 -1.51           C
+HETATM    3  C   ACE A 468       3.795  29.128   9.060  1.00 -1.54           C

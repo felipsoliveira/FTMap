@@ -1,0 +1,50 @@
+TITLE     FTMap 18-Probe System - Cluster 73
+REMARK    Size: 45 poses
+REMARK    Min Energy: -3.93 kcal/mol
+REMARK    Avg Energy: -1.87 kcal/mol
+REMARK    Center: 10.99 19.72 24.28
+HETATM    1  C   ETH A  73      10.791  20.073  23.949  1.00 -1.62           C
+HETATM    2  C   ETH A  73      11.292  20.012  23.813  1.00 -1.54           C
+HETATM    3  C   ETH A  73      10.927  20.233  23.968  1.00 -1.56           C
+HETATM    4  C   ETH A  73      11.152  19.874  23.630  1.00 -1.65           C
+HETATM    5  C   ETH A  73      11.249  20.047  23.550  1.00 -1.55           C
+HETATM    6  C   BEN A  73      11.050  19.870  26.435  1.00 -2.78           C
+HETATM    7  C   BEN A  73      11.015  19.998  26.405  1.00 -2.77           C
+HETATM    8  C   BEN A  73      11.046  20.022  26.658  1.00 -3.21           C
+HETATM    9  C   BEN A  73      11.466  19.904  26.781  1.00 -3.50           C
+HETATM   10  C   BEN A  73      11.061  19.980  26.211  1.00 -2.59           C
+HETATM   11  C   BEN A  73      11.401  20.642  26.062  1.00 -3.93           C
+HETATM   12  C   BEN A  73      11.480  20.183  26.505  1.00 -3.72           C
+HETATM   13  C   BEN A  73      10.619  20.550  26.620  1.00 -2.37           C
+HETATM   14  C   ACE A  73      10.765  20.477  24.807  1.00 -1.54           C
+HETATM   15  C   ACE A  73      10.877  20.224  24.729  1.00 -1.53           C
+HETATM   16  C   ACE A  73      10.793  20.088  24.833  1.00 -1.56           C
+HETATM   17  C   DMF A  73      10.793  19.035  23.850  1.00 -1.62           C
+HETATM   18  C   DMF A  73      11.282  19.018  23.393  1.00 -1.62           C
+HETATM   19  C   DMF A  73      11.067  18.619  23.747  1.00 -1.50           C
+HETATM   20  C   DMF A  73      11.254  18.401  23.025  1.00 -1.51           C
+HETATM   21  C   ISO A  73      11.554  18.504  21.630  1.00 -1.53           C
+HETATM   22  C   ISO A  73      11.379  18.539  22.305  1.00 -1.63           C
+HETATM   23  C   ISO A  73      11.358  18.313  22.185  1.00 -1.59           C
+HETATM   24  C   ISO A  73      11.343  18.823  22.147  1.00 -1.71           C
+HETATM   25  C   ISO A  73      11.031  19.151  22.173  1.00 -1.53           C
+HETATM   26  C   ISO A  73      10.328  20.347  25.017  1.00 -1.70           C
+HETATM   27  C   ISO A  73      10.565  20.186  24.873  1.00 -1.67           C
+HETATM   28  C   ISO A  73      10.382  19.844  24.676  1.00 -1.75           C
+HETATM   29  C   ISO A  73      11.143  19.444  23.258  1.00 -1.75           C
+HETATM   30  C   ISO A  73      11.094  19.677  23.632  1.00 -1.72           C
+HETATM   31  C   ISO A  73      11.245  19.755  23.663  1.00 -1.63           C
+HETATM   32  C   ISO A  73      10.076  20.186  24.727  1.00 -1.52           C
+HETATM   33  C   ACE A  73      10.556  20.102  25.188  1.00 -1.54           C
+HETATM   34  C   ACE A  73      11.220  19.687  23.497  1.00 -1.67           C
+HETATM   35  C   ACE A  73      11.088  20.093  23.769  1.00 -1.59           C
+HETATM   36  C   ACE A  73      11.096  19.784  23.769  1.00 -1.69           C
+HETATM   37  C   MET A  73      10.712  19.809  24.908  1.00 -1.59           C
+HETATM   38  C   MET A  73      10.555  20.566  24.844  1.00 -1.61           C
+HETATM   39  C   IMI A  73      11.204  19.661  24.171  1.00 -1.53           C
+HETATM   40  C   IMI A  73      10.889  20.396  24.300  1.00 -1.56           C
+HETATM   41  C   IMI A  73      11.016  20.014  23.592  1.00 -1.56           C
+HETATM   42  C   IMI A  73      11.021  19.458  23.770  1.00 -1.76           C
+HETATM   43  C   IMI A  73      10.955  18.720  23.747  1.00 -1.52           C
+HETATM   44  C   IMI A  73      11.315  18.873  22.650  1.00 -1.70           C
+HETATM   45  C   IMI A  73      10.101  20.371  25.282  1.00 -1.64           C

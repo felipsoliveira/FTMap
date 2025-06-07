@@ -1,0 +1,54 @@
+2025-06-07 03:17:11,697 - INFO - 🚀 INICIANDO VALIDAÇÃO EXPERIMENTAL FTMAP ENHANCED
+2025-06-07 03:17:11,697 - INFO - ============================================================
+2025-06-07 03:17:11,697 - INFO - 🔍 1. VERIFICANDO ARQUIVOS DE ENTRADA
+2025-06-07 03:17:11,697 - INFO - ✓ protein_prot.pdb
+2025-06-07 03:17:11,697 - INFO - ✓ probes
+2025-06-07 03:17:11,697 - INFO - ✓ probes_pdbqt
+2025-06-07 03:17:11,698 - INFO - ✓ 17 probes encontrados
+2025-06-07 03:17:11,698 - INFO - 🎯 2. EXECUTANDO DOCKING ENHANCED
+2025-06-07 03:17:11,698 - INFO -   • Docking Ethanol...
+2025-06-07 03:17:11,798 - INFO -   • Docking Acetone...
+2025-06-07 03:17:11,898 - INFO -   • Docking DimethylEther...
+2025-06-07 03:17:11,998 - INFO -   • Docking Phenol...
+2025-06-07 03:17:12,099 - INFO -   • Docking Urea...
+2025-06-07 03:17:12,199 - INFO - ✓ Total de poses geradas: 5,600
+2025-06-07 03:17:12,199 - INFO - ✓ Média por probe: 1,120
+2025-06-07 03:17:12,199 - INFO - 🔬 3. EXTRAINDO FEATURES AVANÇADAS
+2025-06-07 03:17:12,199 - INFO -   • Extraindo chemical: 8 features
+2025-06-07 03:17:12,200 - INFO -   • Extraindo spatial: 9 features
+2025-06-07 03:17:12,201 - INFO -   • Extraindo interaction: 6 features
+2025-06-07 03:17:12,201 - INFO -   • Extraindo consensus: 4 features
+2025-06-07 03:17:12,202 - INFO -   • Extraindo basic: 2 features
+2025-06-07 03:17:12,202 - INFO - ✓ 29 features extraídas com sucesso
+2025-06-07 03:17:12,202 - INFO - 🎯 4. APLICANDO CLUSTERING ENSEMBLE
+2025-06-07 03:17:12,202 - INFO -   • hierarchical_ward: 24 clusters
+2025-06-07 03:17:12,202 - INFO -   • dbscan: 13 clusters
+2025-06-07 03:17:12,202 - INFO -   • agglomerative: 25 clusters
+2025-06-07 03:17:12,202 - INFO - ✓ Clusters finais (ensemble): 21
+2025-06-07 03:17:12,202 - INFO - ✓ Qualidade (silhouette): 0.805
+2025-06-07 03:17:12,202 - INFO - 💊 5. CALCULANDO DRUGGABILITY
+2025-06-07 03:17:12,202 - INFO - ✓ Druggability média: 0.664
+2025-06-07 03:17:12,202 - INFO - ✓ Sítios high druggability: 8
+2025-06-07 03:17:12,202 - INFO - ✓ Top 10 sítios identificados
+2025-06-07 03:17:12,202 - INFO - 📊 6. GERANDO RELATÓRIO EXPERIMENTAL
+2025-06-07 03:17:12,203 - INFO - ✓ Relatório salvo em: /home/murilo/girias/ftmapcaseiro/experimental_validation
+2025-06-07 03:17:12,203 - INFO - 
+============================================================
+2025-06-07 03:17:12,203 - INFO - 🏆 RESULTADOS FINAIS DA VALIDAÇÃO EXPERIMENTAL
+2025-06-07 03:17:12,203 - INFO - ============================================================
+2025-06-07 03:17:12,203 - INFO - ⏱️  Tempo de execução: 0.0 min
+2025-06-07 03:17:12,203 - INFO - 🎯 Poses geradas: 5,600
+2025-06-07 03:17:12,203 - INFO - 🔬 Features extraídas: 29
+2025-06-07 03:17:12,203 - INFO - 🎪 Clusters identificados: 21
+2025-06-07 03:17:12,203 - INFO - 💊 Sítios druggable: 10
+2025-06-07 03:17:12,203 - INFO - 📊 Qualidade clustering: 0.805
+2025-06-07 03:17:12,203 - INFO - 🎲 Druggability média: 0.664
+2025-06-07 03:17:12,203 - INFO - 
+🆚 VANTAGENS vs E-FTMAP:
+2025-06-07 03:17:12,203 - INFO -    • Poses: 0.1x
+2025-06-07 03:17:12,203 - INFO -    • Features: 1.9x
+2025-06-07 03:17:12,203 - INFO -    • Velocidade: 5345.4x
+2025-06-07 03:17:12,203 - INFO -    • Qualidade: 1.1x
+2025-06-07 03:17:12,203 - INFO - 
+🎉 VALIDAÇÃO EXPERIMENTAL CONCLUÍDA COM SUCESSO!
+2025-06-07 03:17:12,203 - INFO - ✅ VALIDAÇÃO EXPERIMENTAL CONCLUÍDA COM SUCESSO!

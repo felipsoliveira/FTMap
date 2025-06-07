@@ -1,0 +1,40 @@
+TITLE     FTMap 18-Probe System - Cluster 144
+REMARK    Size: 35 poses
+REMARK    Min Energy: -4.91 kcal/mol
+REMARK    Avg Energy: -2.67 kcal/mol
+REMARK    Center: -17.05 25.58 6.36
+HETATM    1  C   ETH A 144     -16.059  25.711   6.178  1.00 -1.79           C
+HETATM    2  C   CYC A 144     -17.236  27.949   6.957  1.00 -1.63           C
+HETATM    3  C   CYC A 144     -17.239  27.372   7.100  1.00 -1.58           C
+HETATM    4  C   BEN A 144     -17.191  23.433   5.360  1.00 -3.20           C
+HETATM    5  C   BEN A 144     -17.484  23.515   6.201  1.00 -4.28           C
+HETATM    6  C   BEN A 144     -18.765  25.276   6.952  1.00 -3.86           C
+HETATM    7  C   BEN A 144     -18.452  24.737   6.868  1.00 -4.14           C
+HETATM    8  C   BEN A 144     -18.705  24.672   6.780  1.00 -3.64           C
+HETATM    9  C   BEN A 144     -18.643  25.215   7.223  1.00 -4.08           C
+HETATM   10  C   BEN A 144     -17.545  24.638   5.350  1.00 -4.37           C
+HETATM   11  C   BEN A 144     -17.809  25.136   5.297  1.00 -4.91           C
+HETATM   12  C   BEN A 144     -17.335  24.607   5.910  1.00 -3.58           C
+HETATM   13  C   BEN A 144     -17.163  24.293   5.727  1.00 -1.97           C
+HETATM   14  C   BEN A 144     -17.506  24.557   5.652  1.00 -4.28           C
+HETATM   15  C   BEN A 144     -17.717  24.421   5.874  1.00 -4.62           C
+HETATM   16  C   BEN A 144     -17.492  24.300   5.185  1.00 -4.08           C
+HETATM   17  C   BEN A 144     -17.277  24.270   5.959  1.00 -3.20           C
+HETATM   18  C   BEN A 144     -18.148  24.551   5.549  1.00 -4.30           C
+HETATM   19  C   ACE A 144     -15.950  26.267   6.917  1.00 -1.63           C
+HETATM   20  C   ACE A 144     -15.947  26.235   6.779  1.00 -1.78           C
+HETATM   21  C   ACE A 144     -16.366  24.870   5.946  1.00 -1.56           C
+HETATM   22  C   ACE A 144     -16.409  24.892   5.910  1.00 -1.57           C
+HETATM   23  C   URE A 144     -15.866  25.981   6.478  1.00 -1.56           C
+HETATM   24  C   URE A 144     -16.249  26.487   7.268  1.00 -1.68           C
+HETATM   25  C   URE A 144     -17.218  27.715   8.008  1.00 -1.65           C
+HETATM   26  C   URE A 144     -15.931  26.243   6.036  1.00 -2.07           C
+HETATM   27  C   DIM A 144     -15.985  26.325   6.855  1.00 -1.74           C
+HETATM   28  C   DIM A 144     -16.153  26.425   6.813  1.00 -2.03           C
+HETATM   29  C   ACE A 144     -16.633  25.536   5.606  1.00 -1.60           C
+HETATM   30  C   BEN A 144     -16.153  26.046   5.837  1.00 -2.08           C
+HETATM   31  C   BEN A 144     -16.297  26.356   6.006  1.00 -2.20           C
+HETATM   32  C   PHE A 144     -16.728  27.285   7.007  1.00 -1.81           C
+HETATM   33  C   MET A 144     -17.052  27.777   6.264  1.00 -1.64           C
+HETATM   34  C   MET A 144     -16.996  26.201   7.226  1.00 -1.61           C
+HETATM   35  C   MET A 144     -16.989  26.085   7.360  1.00 -1.60           C

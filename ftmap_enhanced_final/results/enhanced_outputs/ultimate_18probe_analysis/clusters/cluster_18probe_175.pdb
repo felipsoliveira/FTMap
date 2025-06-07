@@ -1,0 +1,55 @@
+TITLE     FTMap 18-Probe System - Cluster 175
+REMARK    Size: 50 poses
+REMARK    Min Energy: -3.79 kcal/mol
+REMARK    Avg Energy: -2.55 kcal/mol
+REMARK    Center: 5.35 4.83 21.73
+HETATM    1  C   CYC A 175       4.969   3.987  22.229  1.00 -2.73           C
+HETATM    2  C   CYC A 175       4.934   4.007  21.812  1.00 -3.12           C
+HETATM    3  C   CYC A 175       4.804   4.013  22.037  1.00 -2.44           C
+HETATM    4  C   CYC A 175       6.181   6.370  22.228  1.00 -1.52           C
+HETATM    5  C   CYC A 175       6.480   6.340  22.069  1.00 -3.47           C
+HETATM    6  C   CYC A 175       6.639   6.471  22.215  1.00 -3.50           C
+HETATM    7  C   WAT A 175       6.106   6.433  20.942  1.00 -1.56           C
+HETATM    8  C   WAT A 175       5.368   5.277  20.936  1.00 -1.80           C
+HETATM    9  C   WAT A 175       5.244   5.006  20.624  1.00 -2.05           C
+HETATM   10  C   WAT A 175       5.180   5.385  20.984  1.00 -1.65           C
+HETATM   11  C   WAT A 175       5.317   5.522  21.124  1.00 -1.54           C
+HETATM   12  C   WAT A 175       4.985   5.313  20.490  1.00 -2.06           C
+HETATM   13  C   WAT A 175       5.066   5.169  20.560  1.00 -2.07           C
+HETATM   14  C   WAT A 175       4.914   4.991  20.526  1.00 -2.08           C
+HETATM   15  C   WAT A 175       5.305   5.148  21.081  1.00 -1.69           C
+HETATM   16  C   WAT A 175       5.616   5.086  20.431  1.00 -1.85           C
+HETATM   17  C   WAT A 175       5.199   5.226  20.873  1.00 -1.83           C
+HETATM   18  C   WAT A 175       4.841   5.375  20.176  1.00 -2.00           C
+HETATM   19  C   WAT A 175       5.029   4.911  20.728  1.00 -1.97           C
+HETATM   20  C   ACE A 175       4.789   3.796  21.769  1.00 -3.33           C
+HETATM   21  C   ACE A 175       4.970   4.050  22.050  1.00 -2.78           C
+HETATM   22  C   ACE A 175       4.747   3.919  22.409  1.00 -2.19           C
+HETATM   23  C   ACE A 175       5.089   3.726  21.926  1.00 -2.94           C
+HETATM   24  C   ACE A 175       4.536   3.728  22.116  1.00 -2.69           C
+HETATM   25  C   ACE A 175       4.709   3.854  21.603  1.00 -3.26           C
+HETATM   26  C   ACE A 175       5.222   3.792  21.937  1.00 -2.64           C
+HETATM   27  C   ACE A 175       5.039   3.747  22.223  1.00 -2.99           C
+HETATM   28  C   DMF A 175       4.630   3.807  21.943  1.00 -2.88           C
+HETATM   29  C   DMF A 175       5.066   4.112  22.328  1.00 -2.51           C
+HETATM   30  C   DMF A 175       4.983   3.623  22.349  1.00 -2.92           C
+HETATM   31  C   DMF A 175       4.519   3.930  22.071  1.00 -1.66           C
+HETATM   32  C   DMF A 175       5.175   3.837  21.725  1.00 -2.76           C
+HETATM   33  C   URE A 175       6.412   5.596  21.936  1.00 -3.79           C
+HETATM   34  C   URE A 175       6.257   6.029  22.181  1.00 -2.81           C
+HETATM   35  C   URE A 175       6.280   5.453  21.764  1.00 -3.66           C
+HETATM   36  C   ISO A 175       5.162   3.890  21.972  1.00 -3.02           C
+HETATM   37  C   ISO A 175       4.796   3.932  22.350  1.00 -2.34           C
+HETATM   38  C   ISO A 175       5.065   3.821  21.599  1.00 -3.05           C
+HETATM   39  C   ISO A 175       5.032   4.025  22.340  1.00 -2.64           C
+HETATM   40  C   ISO A 175       5.161   3.627  21.797  1.00 -2.18           C
+HETATM   41  C   ISO A 175       3.942   3.654  21.731  1.00 -1.66           C
+HETATM   42  C   ISO A 175       4.176   3.622  21.836  1.00 -2.55           C
+HETATM   43  C   DIM A 175       4.493   3.706  23.896  1.00 -1.50           C
+HETATM   44  C   DIM A 175       6.377   6.407  22.178  1.00 -2.92           C
+HETATM   45  C   ACE A 175       6.573   6.347  22.242  1.00 -3.43           C
+HETATM   46  C   ACE A 175       6.513   6.504  22.167  1.00 -3.33           C
+HETATM   47  C   ACE A 175       6.327   6.573  21.916  1.00 -2.90           C
+HETATM   48  C   ACE A 175       6.214   6.299  21.719  1.00 -2.73           C
+HETATM   49  C   ACE A 175       6.569   6.359  22.571  1.00 -2.98           C
+HETATM   50  C   PHE A 175       6.548   5.498  21.797  1.00 -3.43           C

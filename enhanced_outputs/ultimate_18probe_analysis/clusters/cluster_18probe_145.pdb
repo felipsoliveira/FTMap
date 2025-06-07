@@ -1,0 +1,23 @@
+TITLE     FTMap 18-Probe System - Cluster 145
+REMARK    Size: 18 poses
+REMARK    Min Energy: -5.37 kcal/mol
+REMARK    Avg Energy: -2.64 kcal/mol
+REMARK    Center: -4.87 19.58 -1.91
+HETATM    1  C   ETH A 145      -5.388  18.872  -1.435  1.00 -1.70           C
+HETATM    2  C   ETH A 145      -5.074  18.853  -1.926  1.00 -1.58           C
+HETATM    3  C   ETH A 145      -5.116  18.963  -1.735  1.00 -1.65           C
+HETATM    4  C   BEN A 145      -4.338  20.431  -2.237  1.00 -4.74           C
+HETATM    5  C   BEN A 145      -3.688  20.388  -2.225  1.00 -4.91           C
+HETATM    6  C   BEN A 145      -4.324  20.264  -1.989  1.00 -4.79           C
+HETATM    7  C   BEN A 145      -4.282  20.733  -1.952  1.00 -5.37           C
+HETATM    8  C   BEN A 145      -3.722  20.155  -2.213  1.00 -5.02           C
+HETATM    9  C   BEN A 145      -4.493  20.306  -2.335  1.00 -3.75           C
+HETATM   10  C   ACE A 145      -5.155  19.208  -1.723  1.00 -1.61           C
+HETATM   11  C   ACE A 145      -5.406  19.098  -1.458  1.00 -1.60           C
+HETATM   12  C   DMF A 145      -5.177  18.775  -2.166  1.00 -1.52           C
+HETATM   13  C   DMF A 145      -5.259  18.849  -1.970  1.00 -1.54           C
+HETATM   14  C   ACE A 145      -5.053  18.846  -1.714  1.00 -1.67           C
+HETATM   15  C   ACE A 145      -5.186  18.842  -2.128  1.00 -1.52           C
+HETATM   16  C   ACE A 145      -5.217  18.994  -1.952  1.00 -1.54           C
+HETATM   17  C   BEN A 145      -5.349  20.359  -1.648  1.00 -1.51           C
+HETATM   18  C   IMI A 145      -5.372  20.558  -1.622  1.00 -1.50           C

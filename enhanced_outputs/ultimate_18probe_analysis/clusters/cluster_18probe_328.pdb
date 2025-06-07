@@ -1,0 +1,21 @@
+TITLE     FTMap 18-Probe System - Cluster 328
+REMARK    Size: 16 poses
+REMARK    Min Energy: -1.80 kcal/mol
+REMARK    Avg Energy: -1.61 kcal/mol
+REMARK    Center: -2.55 9.24 -1.86
+HETATM    1  C   BEN A 328      -2.312   9.735  -1.935  1.00 -1.58           C
+HETATM    2  C   BEN A 328      -2.312  10.242  -1.943  1.00 -1.62           C
+HETATM    3  C   BEN A 328      -2.756  10.411  -2.019  1.00 -1.68           C
+HETATM    4  C   BEN A 328      -2.320   9.978  -2.004  1.00 -1.57           C
+HETATM    5  C   BEN A 328      -1.918   9.695  -1.831  1.00 -1.61           C
+HETATM    6  C   BEN A 328      -2.732   9.827  -2.134  1.00 -1.55           C
+HETATM    7  C   BEN A 328      -2.315   9.180  -2.027  1.00 -1.51           C
+HETATM    8  C   BEN A 328      -2.620   9.612  -1.995  1.00 -1.57           C
+HETATM    9  C   BEN A 328      -2.182  10.156  -2.156  1.00 -1.50           C
+HETATM   10  C   BEN A 328      -2.728   8.681  -1.537  1.00 -1.74           C
+HETATM   11  C   BEN A 328      -3.116   8.533  -1.412  1.00 -1.79           C
+HETATM   12  C   BEN A 328      -2.593   8.582  -1.967  1.00 -1.52           C
+HETATM   13  C   BEN A 328      -3.122   8.417  -1.811  1.00 -1.57           C
+HETATM   14  C   BEN A 328      -2.378   8.359  -1.859  1.00 -1.57           C
+HETATM   15  C   BEN A 328      -2.392   8.452  -1.474  1.00 -1.80           C
+HETATM   16  C   BEN A 328      -2.975   8.052  -1.678  1.00 -1.62           C

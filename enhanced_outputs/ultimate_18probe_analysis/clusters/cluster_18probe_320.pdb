@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 320
+REMARK    Size: 10 poses
+REMARK    Min Energy: -2.62 kcal/mol
+REMARK    Avg Energy: -2.16 kcal/mol
+REMARK    Center: -4.03 12.84 -4.95
+HETATM    1  C   BEN A 320      -3.464  13.284  -5.048  1.00 -1.87           C
+HETATM    2  C   BEN A 320      -3.890  12.783  -5.000  1.00 -2.00           C
+HETATM    3  C   BEN A 320      -3.830  12.535  -4.968  1.00 -1.86           C
+HETATM    4  C   BEN A 320      -4.778  12.682  -5.266  1.00 -2.62           C
+HETATM    5  C   BEN A 320      -3.711  13.075  -5.022  1.00 -1.98           C
+HETATM    6  C   BEN A 320      -4.285  12.338  -4.633  1.00 -2.21           C
+HETATM    7  C   BEN A 320      -4.231  12.494  -4.689  1.00 -2.23           C
+HETATM    8  C   BEN A 320      -3.852  13.521  -4.614  1.00 -2.46           C
+HETATM    9  C   BEN A 320      -4.206  13.147  -4.855  1.00 -2.51           C
+HETATM   10  C   BEN A 320      -4.005  12.511  -5.417  1.00 -1.84           C

@@ -1,0 +1,44 @@
+TITLE     FTMap 18-Probe System - Cluster 130
+REMARK    Size: 39 poses
+REMARK    Min Energy: -5.88 kcal/mol
+REMARK    Avg Energy: -3.18 kcal/mol
+REMARK    Center: 2.22 25.77 8.15
+HETATM    1  C   ETH A 130       2.536  26.180   8.842  1.00 -1.68           C
+HETATM    2  C   ETH A 130       1.488  26.154   8.638  1.00 -1.93           C
+HETATM    3  C   ETH A 130       2.479  26.620   8.844  1.00 -1.84           C
+HETATM    4  C   ETH A 130       1.795  26.603   8.415  1.00 -1.77           C
+HETATM    5  C   ETH A 130       1.955  26.382   8.783  1.00 -1.96           C
+HETATM    6  C   ETH A 130       1.387  26.435   8.829  1.00 -2.16           C
+HETATM    7  C   ETH A 130       1.788  25.791   8.640  1.00 -1.71           C
+HETATM    8  C   ETH A 130       1.748  26.265   8.800  1.00 -2.03           C
+HETATM    9  C   CYC A 130       2.388  26.164   8.576  1.00 -1.51           C
+HETATM   10  C   CYC A 130       1.831  26.113   8.742  1.00 -1.89           C
+HETATM   11  C   CYC A 130       2.207  26.238   8.744  1.00 -1.76           C
+HETATM   12  C   CYC A 130       1.768  26.216   8.760  1.00 -1.97           C
+HETATM   13  C   BEN A 130       2.181  23.878   7.122  1.00 -4.61           C
+HETATM   14  C   BEN A 130       2.045  23.663   7.367  1.00 -4.90           C
+HETATM   15  C   BEN A 130       3.533  23.698   8.340  1.00 -5.26           C
+HETATM   16  C   BEN A 130       3.510  23.464   8.164  1.00 -4.72           C
+HETATM   17  C   BEN A 130       3.500  23.405   8.607  1.00 -5.50           C
+HETATM   18  C   BEN A 130       3.534  23.356   8.837  1.00 -5.88           C
+HETATM   19  C   BEN A 130       3.756  23.545   8.808  1.00 -5.83           C
+HETATM   20  C   BEN A 130       1.922  26.402   7.725  1.00 -3.83           C
+HETATM   21  C   BEN A 130       1.887  25.891   6.752  1.00 -4.71           C
+HETATM   22  C   BEN A 130       2.131  26.601   7.646  1.00 -5.49           C
+HETATM   23  C   BEN A 130       2.333  26.110   7.318  1.00 -5.86           C
+HETATM   24  C   BEN A 130       1.809  25.946   7.200  1.00 -4.16           C
+HETATM   25  C   BEN A 130       2.484  26.201   6.659  1.00 -4.93           C
+HETATM   26  C   BEN A 130       2.472  26.221   6.671  1.00 -4.97           C
+HETATM   27  C   BEN A 130       2.208  26.290   6.538  1.00 -4.90           C
+HETATM   28  C   BEN A 130       2.288  26.462   7.142  1.00 -5.73           C
+HETATM   29  C   BEN A 130       3.370  26.553   6.266  1.00 -3.65           C
+HETATM   30  C   ACE A 130       1.064  26.016   8.570  1.00 -1.62           C
+HETATM   31  C   DIM A 130       1.130  25.231   8.575  1.00 -1.63           C
+HETATM   32  C   BEN A 130       3.293  28.205   9.130  1.00 -1.72           C
+HETATM   33  C   IMI A 130       1.935  26.064   8.787  1.00 -1.87           C
+HETATM   34  C   IMI A 130       1.727  26.140   8.818  1.00 -2.01           C
+HETATM   35  C   IMI A 130       1.720  26.176   8.188  1.00 -1.52           C
+HETATM   36  C   IMI A 130       1.454  25.963   8.646  1.00 -1.89           C
+HETATM   37  C   IMI A 130       2.099  25.903   8.552  1.00 -1.54           C
+HETATM   38  C   IMI A 130       2.010  26.071   8.522  1.00 -1.61           C
+HETATM   39  C   IMI A 130       1.874  26.481   8.237  1.00 -1.56           C

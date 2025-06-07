@@ -1,0 +1,46 @@
+TITLE     FTMap 18-Probe System - Cluster 425
+REMARK    Size: 41 poses
+REMARK    Min Energy: -6.89 kcal/mol
+REMARK    Avg Energy: -2.41 kcal/mol
+REMARK    Center: -1.49 2.49 2.73
+HETATM    1  C   BEN A 425      -2.526   2.567   2.116  1.00 -6.40           C
+HETATM    2  C   BEN A 425      -2.682   2.608   2.746  1.00 -6.65           C
+HETATM    3  C   BEN A 425      -3.027   2.505   2.918  1.00 -6.83           C
+HETATM    4  C   BEN A 425      -2.607   2.131   2.616  1.00 -3.92           C
+HETATM    5  C   BEN A 425      -2.936   2.371   2.539  1.00 -6.32           C
+HETATM    6  C   BEN A 425      -2.519   2.119   2.777  1.00 -1.85           C
+HETATM    7  C   BEN A 425      -2.814   2.614   2.827  1.00 -6.89           C
+HETATM    8  C   DMF A 425      -1.222   2.746   2.654  1.00 -1.92           C
+HETATM    9  C   DMF A 425      -1.161   2.381   2.618  1.00 -1.83           C
+HETATM   10  C   DMF A 425      -0.886   2.327   2.410  1.00 -1.78           C
+HETATM   11  C   DMF A 425      -1.243   2.561   2.538  1.00 -1.80           C
+HETATM   12  C   DMF A 425      -1.306   2.155   2.611  1.00 -1.68           C
+HETATM   13  C   DMF A 425      -1.252   2.366   2.937  1.00 -1.88           C
+HETATM   14  C   URE A 425      -1.683   2.588   3.123  1.00 -1.97           C
+HETATM   15  C   URE A 425      -0.886   2.695   2.838  1.00 -2.13           C
+HETATM   16  C   URE A 425      -1.501   2.313   2.991  1.00 -1.82           C
+HETATM   17  C   URE A 425      -0.896   2.330   2.899  1.00 -1.70           C
+HETATM   18  C   URE A 425      -1.051   2.117   2.396  1.00 -1.67           C
+HETATM   19  C   URE A 425      -1.162   2.344   2.389  1.00 -1.72           C
+HETATM   20  C   URE A 425      -1.040   3.048   2.359  1.00 -1.80           C
+HETATM   21  C   URE A 425      -0.963   1.905   2.139  1.00 -1.57           C
+HETATM   22  C   URE A 425      -0.979   2.476   2.527  1.00 -1.87           C
+HETATM   23  C   URE A 425      -1.090   2.555   2.593  1.00 -1.90           C
+HETATM   24  C   ISO A 425      -2.182   2.361   3.122  1.00 -1.65           C
+HETATM   25  C   ACE A 425      -0.979   2.242   2.740  1.00 -1.71           C
+HETATM   26  C   ACE A 425      -0.755   2.449   2.864  1.00 -1.80           C
+HETATM   27  C   ACE A 425      -1.054   2.344   2.829  1.00 -1.84           C
+HETATM   28  C   ACE A 425      -0.638   2.507   2.930  1.00 -1.69           C
+HETATM   29  C   ACE A 425      -0.750   2.531   2.644  1.00 -1.91           C
+HETATM   30  C   ACE A 425      -0.970   2.457   2.992  1.00 -1.94           C
+HETATM   31  C   ACE A 425      -1.367   2.182   3.093  1.00 -1.63           C
+HETATM   32  C   ACE A 425      -0.709   2.401   2.606  1.00 -1.77           C
+HETATM   33  C   ACE A 425      -0.589   2.461   2.895  1.00 -1.51           C
+HETATM   34  C   ACE A 425      -1.167   2.338   2.576  1.00 -1.79           C
+HETATM   35  C   PHE A 425      -1.130   2.279   2.699  1.00 -1.79           C
+HETATM   36  C   PHE A 425      -1.548   2.264   2.674  1.00 -1.67           C
+HETATM   37  C   PHE A 425      -1.246   2.293   2.877  1.00 -1.81           C
+HETATM   38  C   PHE A 425      -1.172   2.126   2.610  1.00 -1.67           C
+HETATM   39  C   ACE A 425      -2.388   3.867   3.125  1.00 -1.65           C
+HETATM   40  C   ACE A 425      -2.301   3.641   2.994  1.00 -1.57           C
+HETATM   41  C   ACE A 425      -2.530   3.729   3.155  1.00 -1.58           C

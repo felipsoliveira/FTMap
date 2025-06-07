@@ -1,0 +1,18 @@
+TITLE     FTMap 18-Probe System - Cluster 282
+REMARK    Size: 13 poses
+REMARK    Min Energy: -3.42 kcal/mol
+REMARK    Avg Energy: -2.87 kcal/mol
+REMARK    Center: 26.04 0.34 2.58
+HETATM    1  C   BEN A 282      26.233  -0.585   2.220  1.00 -2.32           C
+HETATM    2  C   BEN A 282      26.692  -0.754   2.977  1.00 -2.62           C
+HETATM    3  C   BEN A 282      26.516  -1.687   2.260  1.00 -1.69           C
+HETATM    4  C   BEN A 282      25.737   0.740   2.189  1.00 -3.20           C
+HETATM    5  C   BEN A 282      26.085   0.581   2.213  1.00 -3.04           C
+HETATM    6  C   BEN A 282      25.927   0.612   2.680  1.00 -3.20           C
+HETATM    7  C   BEN A 282      25.988   1.025   2.943  1.00 -3.42           C
+HETATM    8  C   BEN A 282      26.002   0.757   2.676  1.00 -3.27           C
+HETATM    9  C   BEN A 282      26.490   1.188   2.569  1.00 -2.66           C
+HETATM   10  C   BEN A 282      25.590   0.507   2.751  1.00 -2.43           C
+HETATM   11  C   BEN A 282      25.874   0.617   2.569  1.00 -3.19           C
+HETATM   12  C   BEN A 282      26.053   0.475   2.797  1.00 -3.14           C
+HETATM   13  C   BEN A 282      25.394   0.897   2.692  1.00 -3.15           C

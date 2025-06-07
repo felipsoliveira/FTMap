@@ -1,0 +1,8 @@
+TITLE     FTMap 18-Probe System - Cluster 400
+REMARK    Size: 3 poses
+REMARK    Min Energy: -6.81 kcal/mol
+REMARK    Avg Energy: -4.80 kcal/mol
+REMARK    Center: -1.99 3.95 24.14
+HETATM    1  C   BEN A 400      -2.757   4.201  22.630  1.00 -6.81           C
+HETATM    2  C   BEN A 400      -1.727   3.729  25.047  1.00 -3.48           C
+HETATM    3  C   BEN A 400      -1.481   3.917  24.729  1.00 -4.12           C

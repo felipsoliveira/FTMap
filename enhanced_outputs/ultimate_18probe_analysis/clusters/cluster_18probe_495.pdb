@@ -1,0 +1,10 @@
+TITLE     FTMap 18-Probe System - Cluster 495
+REMARK    Size: 5 poses
+REMARK    Min Energy: -2.17 kcal/mol
+REMARK    Avg Energy: -2.01 kcal/mol
+REMARK    Center: -4.11 3.73 5.46
+HETATM    1  C   PHE A 495      -4.352   3.785   5.468  1.00 -2.17           C
+HETATM    2  C   PHE A 495      -3.997   3.374   5.455  1.00 -1.63           C
+HETATM    3  C   PHE A 495      -4.319   3.707   5.407  1.00 -2.16           C
+HETATM    4  C   PHE A 495      -3.985   3.702   5.408  1.00 -2.08           C
+HETATM    5  C   IMI A 495      -3.907   4.084   5.574  1.00 -2.02           C

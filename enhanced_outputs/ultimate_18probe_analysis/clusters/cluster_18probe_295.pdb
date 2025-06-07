@@ -1,0 +1,18 @@
+TITLE     FTMap 18-Probe System - Cluster 295
+REMARK    Size: 13 poses
+REMARK    Min Energy: -2.42 kcal/mol
+REMARK    Avg Energy: -2.00 kcal/mol
+REMARK    Center: 13.85 -12.97 20.32
+HETATM    1  C   BEN A 295      12.620 -13.671  19.345  1.00 -1.59           C
+HETATM    2  C   BEN A 295      12.997 -13.696  19.551  1.00 -1.59           C
+HETATM    3  C   BEN A 295      12.906 -13.717  19.205  1.00 -1.66           C
+HETATM    4  C   BEN A 295      14.023 -12.438  20.548  1.00 -2.37           C
+HETATM    5  C   BEN A 295      14.242 -12.947  20.801  1.00 -1.87           C
+HETATM    6  C   BEN A 295      14.008 -12.653  20.781  1.00 -2.09           C
+HETATM    7  C   BEN A 295      13.783 -12.969  20.563  1.00 -1.91           C
+HETATM    8  C   BEN A 295      14.426 -12.540  20.356  1.00 -2.42           C
+HETATM    9  C   BEN A 295      14.176 -12.716  20.916  1.00 -1.99           C
+HETATM   10  C   BEN A 295      14.372 -12.629  20.831  1.00 -2.13           C
+HETATM   11  C   BEN A 295      14.067 -12.813  20.012  1.00 -2.32           C
+HETATM   12  C   BEN A 295      14.107 -12.775  20.571  1.00 -2.11           C
+HETATM   13  C   BEN A 295      14.314 -13.056  20.623  1.00 -1.88           C

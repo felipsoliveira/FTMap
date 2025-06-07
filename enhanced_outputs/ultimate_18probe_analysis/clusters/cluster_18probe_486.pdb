@@ -1,0 +1,12 @@
+TITLE     FTMap 18-Probe System - Cluster 486
+REMARK    Size: 7 poses
+REMARK    Min Energy: -2.48 kcal/mol
+REMARK    Avg Energy: -1.94 kcal/mol
+REMARK    Center: 16.60 3.97 7.00
+HETATM    1  C   ETH A 486      16.503   3.713   6.345  1.00 -1.81           C
+HETATM    2  C   ETH A 486      16.474   3.815   7.233  1.00 -2.12           C
+HETATM    3  C   DIM A 486      16.317   4.397   7.462  1.00 -2.48           C
+HETATM    4  C   DIM A 486      16.614   3.788   7.332  1.00 -2.26           C
+HETATM    5  C   ACE A 486      16.697   3.796   6.906  1.00 -1.56           C
+HETATM    6  C   ACE A 486      16.719   3.961   6.918  1.00 -1.77           C
+HETATM    7  C   ACE A 486      16.901   4.326   6.773  1.00 -1.59           C

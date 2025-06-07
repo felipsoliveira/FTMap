@@ -1,0 +1,14 @@
+TITLE     FTMap 18-Probe System - Cluster 448
+REMARK    Size: 9 poses
+REMARK    Min Energy: -3.47 kcal/mol
+REMARK    Avg Energy: -1.82 kcal/mol
+REMARK    Center: -0.57 26.54 27.96
+HETATM    1  C   BEN A 448      -1.595  28.000  29.049  1.00 -3.47           C
+HETATM    2  C   ACE A 448      -0.792  26.297  28.014  1.00 -1.51           C
+HETATM    3  C   ACE A 448      -0.282  26.232  27.931  1.00 -1.66           C
+HETATM    4  C   ACE A 448      -0.568  26.356  27.734  1.00 -1.57           C
+HETATM    5  C   ACE A 448       0.116  25.946  27.897  1.00 -1.60           C
+HETATM    6  C   URE A 448      -0.851  26.730  27.854  1.00 -1.58           C
+HETATM    7  C   ACE A 448      -0.502  26.593  27.615  1.00 -1.73           C
+HETATM    8  C   ACE A 448       0.201  26.144  27.705  1.00 -1.72           C
+HETATM    9  C   MET A 448      -0.867  26.549  27.799  1.00 -1.56           C

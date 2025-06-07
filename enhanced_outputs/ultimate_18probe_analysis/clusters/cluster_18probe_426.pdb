@@ -1,0 +1,9 @@
+TITLE     FTMap 18-Probe System - Cluster 426
+REMARK    Size: 4 poses
+REMARK    Min Energy: -1.82 kcal/mol
+REMARK    Avg Energy: -1.66 kcal/mol
+REMARK    Center: -5.52 17.50 26.85
+HETATM    1  C   BEN A 426      -5.257  17.606  26.854  1.00 -1.82           C
+HETATM    2  C   BEN A 426      -5.541  17.454  26.859  1.00 -1.64           C
+HETATM    3  C   BEN A 426      -5.627  17.591  26.878  1.00 -1.61           C
+HETATM    4  C   BEN A 426      -5.639  17.367  26.811  1.00 -1.59           C

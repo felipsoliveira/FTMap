@@ -1,0 +1,351 @@
+FTMAP ENHANCED - RELATÓRIO FINAL DE ANÁLISE DE RESÍDUOS
+======================================================================
+
+PROTEÍNA ANALISADA: protein_prot.pdb
+TOTAL DE ÁTOMOS: 3886
+CLUSTERS ANALISADOS: 50
+
+RESÍDUOS MAIS FREQUENTES EM SÍTIOS DE LIGAÇÃO:
+--------------------------------------------------
+ARG:  12 interações ( 11.4%)
+ASN:  11 interações ( 10.5%)
+GLU:  11 interações ( 10.5%)
+LYS:   9 interações (  8.6%)
+ILE:   9 interações (  8.6%)
+SER:   6 interações (  5.7%)
+ASP:   6 interações (  5.7%)
+TYR:   6 interações (  5.7%)
+THR:   6 interações (  5.7%)
+MET:   5 interações (  4.8%)
+
+DISTRIBUIÇÃO DE PROBES NOS SÍTIOS:
+----------------------------------------
+
+TOP 20 SÍTIOS DE LIGAÇÃO - ANÁLISE DETALHADA:
+======================================================================
+
+SÍTIO 1 (CLUSTER 107):
+Score FTMap: 0.8775
+Energia: -5.18 kcal/mol
+Centro: (-3.0, -5.3, -19.9)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. SER232A (2.18Å) - OG
+   2. ASP235A (3.78Å) - OD2
+   3. LYS199A (4.27Å) - NZ
+   4. GLN231A (4.62Å) - C
+   5. ASP234A (4.64Å) - CB
+
+--------------------------------------------------
+
+SÍTIO 2 (CLUSTER 141):
+Score FTMap: 0.8767
+Energia: -6.53 kcal/mol
+Centro: (12.5, 0.7, -15.4)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. MET193A (3.66Å) - O
+   2. ASN192A (3.95Å) - CB
+   3. ILE108A (4.21Å) - N
+   4. ASN194A (4.41Å) - OD1
+   5. GLU107A (4.48Å) - CA
+   6. PRO106A (4.75Å) - O
+
+--------------------------------------------------
+
+SÍTIO 3 (CLUSTER 80):
+Score FTMap: 0.8759
+Energia: -5.40 kcal/mol
+Centro: (12.5, 5.7, 19.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. LYS57A (3.55Å) - O
+   2. ASP60A (3.86Å) - CB
+   3. VAL357A (4.30Å) - CG1
+   4. ALA61A (4.62Å) - N
+
+--------------------------------------------------
+
+SÍTIO 4 (CLUSTER 103):
+Score FTMap: 0.8752
+Energia: -5.02 kcal/mol
+Centro: (16.5, -6.8, -19.4)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. SER144A (2.14Å) - CB
+   2. GLU107A (3.83Å) - O
+   3. ARG109A (4.62Å) - N
+   4. TYR132A (4.71Å) - CZ
+   5. TYR145A (4.76Å) - N
+
+--------------------------------------------------
+
+SÍTIO 5 (CLUSTER 120):
+Score FTMap: 0.8744
+Energia: -5.46 kcal/mol
+Centro: (11.0, -15.3, 14.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. ASN83A (3.61Å) - OD1
+   2. LEU86A (4.12Å) - CD1
+   3. LYS87A (4.59Å) - CE
+
+--------------------------------------------------
+
+SÍTIO 6 (CLUSTER 247):
+Score FTMap: 0.8741
+Energia: -6.34 kcal/mol
+Centro: (-8.0, -10.3, -2.4)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. ASP273A (3.45Å) - OD2
+   2. ILE250A (3.46Å) - O
+   3. ARG248A (3.66Å) - O
+   4. LYS251A (4.13Å) - NZ
+   5. ARG240A (4.24Å) - NE
+
+--------------------------------------------------
+
+SÍTIO 7 (CLUSTER 90):
+Score FTMap: 0.8741
+Energia: -7.26 kcal/mol
+Centro: (13.0, 0.2, -15.4)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. ILE108A (3.71Å) - O
+   2. ASN192A (3.73Å) - CB
+   3. MET193A (3.82Å) - O
+   4. GLU107A (4.01Å) - CA
+   5. PRO106A (4.65Å) - O
+   6. ASN194A (4.91Å) - OD1
+
+--------------------------------------------------
+
+SÍTIO 8 (CLUSTER 30):
+Score FTMap: 0.8739
+Energia: -5.11 kcal/mol
+Centro: (-17.5, -9.8, 3.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. GLU497A (2.54Å) - OE2
+   2. GLU496A (3.50Å) - O
+   3. THR419A (3.96Å) - CG2
+
+--------------------------------------------------
+
+SÍTIO 9 (CLUSTER 22):
+Score FTMap: 0.8716
+Energia: -5.57 kcal/mol
+Centro: (-7.5, 8.7, 20.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. MET481A (3.23Å) - O
+   2. THR434A (3.35Å) - OG1
+   3. LEU412A (4.00Å) - CD2
+   4. SER411A (4.18Å) - O
+
+--------------------------------------------------
+
+SÍTIO 10 (CLUSTER 100):
+Score FTMap: 0.8716
+Energia: -5.61 kcal/mol
+Centro: (-17.0, 1.2, 31.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. GLU511A (3.49Å) - CB
+   2. GLU474A (4.20Å) - OE1
+   3. ILE473A (4.37Å) - CG2
+   4. ILE510A (4.57Å) - C
+   5. GLN509A (4.75Å) - O
+   6. ARG470A (4.81Å) - CG
+
+--------------------------------------------------
+
+SÍTIO 11 (CLUSTER 34):
+Score FTMap: 0.8715
+Energia: -5.75 kcal/mol
+Centro: (-4.5, 5.2, 18.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. MET481A (3.57Å) - CE
+   2. THR455A (3.60Å) - CG2
+   3. THR434A (3.74Å) - CG2
+   4. ARG35A (4.17Å) - O
+   5. SER36A (4.52Å) - CA
+
+--------------------------------------------------
+
+SÍTIO 12 (CLUSTER 97):
+Score FTMap: 0.8709
+Energia: -8.15 kcal/mol
+Centro: (-2.0, -1.8, 15.6)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. LEU96A (3.44Å) - N
+   2. CYS456A (3.60Å) - O
+   3. ASN94A (3.85Å) - O
+   4. THR455A (3.87Å) - OG1
+   5. CYS95A (4.18Å) - CA
+   6. ASN449A (4.60Å) - OD1
+
+--------------------------------------------------
+
+SÍTIO 13 (CLUSTER 24):
+Score FTMap: 0.8701
+Energia: -6.60 kcal/mol
+Centro: (-16.0, 1.2, 30.6)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. GLU474A (3.39Å) - OE1
+   2. ILE473A (3.40Å) - CG2
+   3. GLU511A (3.77Å) - N
+   4. ILE510A (4.44Å) - CG2
+   5. LYS477A (4.47Å) - NZ
+   6. ARG470A (4.77Å) - CG
+
+--------------------------------------------------
+
+SÍTIO 14 (CLUSTER 168):
+Score FTMap: 0.8691
+Energia: -5.14 kcal/mol
+Centro: (-0.5, 5.2, 20.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. ASN33A (3.38Å) - OD1
+   2. ARG35A (3.42Å) - CB
+   3. SER36A (3.91Å) - N
+
+--------------------------------------------------
+
+SÍTIO 15 (CLUSTER 249):
+Score FTMap: 0.8671
+Energia: -5.13 kcal/mol
+Centro: (-11.5, 17.7, -9.9)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. TYR6A (2.55Å) - CB
+   2. ASN8A (4.00Å) - OD1
+   3. LYS7A (4.47Å) - C
+
+--------------------------------------------------
+
+SÍTIO 16 (CLUSTER 69):
+Score FTMap: 0.8620
+Energia: -8.39 kcal/mol
+Centro: (-16.5, 13.2, 10.6)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. VAL402A (3.27Å) - CG1
+   2. PRO431A (3.56Å) - CA
+   3. SER432A (3.83Å) - N
+   4. GLU406A (3.88Å) - OE2
+   5. LYS430A (4.04Å) - O
+   6. TYR376A (4.32Å) - O
+   7. TYR380A (4.41Å) - CB
+   8. TYR429A (4.62Å) - O
+
+--------------------------------------------------
+
+SÍTIO 17 (CLUSTER 117):
+Score FTMap: 0.8558
+Energia: -6.07 kcal/mol
+Centro: (-6.5, -12.3, -2.9)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. ILE250A (3.03Å) - O
+   2. ARG248A (3.34Å) - O
+   3. GLY247A (3.40Å) - O
+   4. LEU243A (3.98Å) - CD1
+   5. HIS249A (4.49Å) - N
+   6. ARG240A (4.56Å) - CG
+
+--------------------------------------------------
+
+SÍTIO 18 (CLUSTER 245):
+Score FTMap: 0.8512
+Energia: -5.82 kcal/mol
+Centro: (4.0, -0.3, 19.1)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. CYS95A (2.74Å) - CB
+   2. ILE59A (3.15Å) - CG2
+   3. ARG35A (3.61Å) - NE
+   4. ARG92A (3.67Å) - CB
+   5. ASN94A (4.22Å) - C
+   6. ASP60A (4.83Å) - OD1
+
+--------------------------------------------------
+
+SÍTIO 19 (CLUSTER 158):
+Score FTMap: 0.8488
+Energia: -6.22 kcal/mol
+Centro: (3.5, 10.7, -0.4)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. THR311A (2.08Å) - CG2
+   2. MET315A (2.22Å) - CE
+   3. ALA336A (3.51Å) - CB
+   4. VAL344A (4.03Å) - CG1
+   5. ALA312A (4.21Å) - N
+   6. ARG279A (4.62Å) - NE
+   7. CYS343A (5.00Å) - O
+
+--------------------------------------------------
+
+SÍTIO 20 (CLUSTER 21):
+Score FTMap: 0.8485
+Energia: -8.02 kcal/mol
+Centro: (32.5, 3.2, -21.9)
+Poses totais: 3
+Composição de probes:
+  • Nenhuma pose detectada
+Resíduos de interação (≤5Å):
+   1. GLU117A (2.51Å) - O
+   2. VAL118A (2.64Å) - CG1
+   3. ASN115A (3.35Å) - N
+   4. LEU113A (3.97Å) - CB
+   5. LYS114A (4.20Å) - N
+   6. GLY136A (4.38Å) - O
+   7. LYS116A (4.40Å) - N
+   8. ASP137A (4.48Å) - CA
+
+--------------------------------------------------
+

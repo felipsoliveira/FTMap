@@ -1,0 +1,20 @@
+FTMAP COMPLETE SYSTEM - ANALYSIS REPORT
+============================================================
+
+GENERAL SUMMARY
+--------------------
+Fragments processed: 0
+Total clusters: 0
+Consensus sites: 0
+
+FRAGMENT ANALYSIS
+--------------------
+
+CLUSTER DETAILS
+--------------------
+
+QUALITY METRICS
+--------------------
+Total poses analyzed: 0
+
+Consensus sites in ideal range (10-20): ❌ NO

@@ -1,0 +1,15 @@
+TITLE     FTMap 18-Probe System - Cluster 433
+REMARK    Size: 10 poses
+REMARK    Min Energy: -2.97 kcal/mol
+REMARK    Avg Energy: -2.32 kcal/mol
+REMARK    Center: -1.15 -6.84 13.30
+HETATM    1  C   BEN A 433      -1.930  -6.658  13.635  1.00 -1.93           C
+HETATM    2  C   BEN A 433      -0.811  -6.683  13.361  1.00 -2.63           C
+HETATM    3  C   BEN A 433      -1.258  -6.823  13.579  1.00 -2.17           C
+HETATM    4  C   BEN A 433      -1.239  -6.897  12.534  1.00 -2.45           C
+HETATM    5  C   BEN A 433      -1.585  -7.177  13.297  1.00 -1.82           C
+HETATM    6  C   BEN A 433      -1.084  -6.857  13.143  1.00 -2.38           C
+HETATM    7  C   BEN A 433      -0.668  -6.984  12.878  1.00 -2.60           C
+HETATM    8  C   BEN A 433      -0.732  -6.474  13.224  1.00 -2.97           C
+HETATM    9  C   BEN A 433      -1.135  -7.117  13.780  1.00 -1.95           C
+HETATM   10  C   BEN A 433      -1.036  -6.761  13.568  1.00 -2.34           C

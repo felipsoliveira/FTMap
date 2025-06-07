@@ -1,0 +1,19 @@
+TITLE     FTMap 18-Probe System - Cluster 344
+REMARK    Size: 14 poses
+REMARK    Min Energy: -3.26 kcal/mol
+REMARK    Avg Energy: -2.46 kcal/mol
+REMARK    Center: -2.42 -6.98 5.97
+HETATM    1  C   BEN A 344      -1.817  -8.107   6.771  1.00 -1.93           C
+HETATM    2  C   BEN A 344      -2.625  -7.973   7.217  1.00 -1.59           C
+HETATM    3  C   BEN A 344      -2.362  -8.212   6.700  1.00 -1.56           C
+HETATM    4  C   BEN A 344      -2.666  -7.818   7.255  1.00 -1.67           C
+HETATM    5  C   BEN A 344      -1.999  -6.550   5.742  1.00 -3.26           C
+HETATM    6  C   BEN A 344      -2.491  -6.274   5.563  1.00 -3.01           C
+HETATM    7  C   BEN A 344      -2.550  -6.503   5.344  1.00 -2.66           C
+HETATM    8  C   BEN A 344      -2.669  -6.300   5.314  1.00 -2.74           C
+HETATM    9  C   BEN A 344      -2.515  -6.585   5.561  1.00 -2.66           C
+HETATM   10  C   BEN A 344      -2.685  -6.530   6.162  1.00 -2.66           C
+HETATM   11  C   BEN A 344      -2.060  -6.756   5.945  1.00 -2.99           C
+HETATM   12  C   BEN A 344      -2.681  -6.773   5.389  1.00 -2.30           C
+HETATM   13  C   BEN A 344      -2.231  -6.649   5.303  1.00 -2.80           C
+HETATM   14  C   BEN A 344      -2.538  -6.640   5.369  1.00 -2.54           C

@@ -1,0 +1,27 @@
+TITLE     FTMap 18-Probe System - Cluster 152
+REMARK    Size: 22 poses
+REMARK    Min Energy: -3.65 kcal/mol
+REMARK    Avg Energy: -1.77 kcal/mol
+REMARK    Center: -4.08 29.74 3.07
+HETATM    1  C   CYC A 152      -2.876  29.500   4.100  1.00 -1.53           C
+HETATM    2  C   CYC A 152      -2.959  29.092   4.056  1.00 -1.51           C
+HETATM    3  C   CYC A 152      -5.091  30.732   2.525  1.00 -1.72           C
+HETATM    4  C   BEN A 152      -3.607  29.315   1.484  1.00 -3.65           C
+HETATM    5  C   ACE A 152      -5.144  30.332   2.902  1.00 -2.12           C
+HETATM    6  C   URE A 152      -5.206  30.486   2.590  1.00 -1.78           C
+HETATM    7  C   URE A 152      -5.041  30.625   2.730  1.00 -1.91           C
+HETATM    8  C   URE A 152      -5.226  30.622   2.614  1.00 -1.79           C
+HETATM    9  C   ISO A 152      -4.821  29.921   2.568  1.00 -1.88           C
+HETATM   10  C   ISO A 152      -2.493  29.291   4.399  1.00 -1.57           C
+HETATM   11  C   DIM A 152      -3.573  29.821   3.765  1.00 -1.58           C
+HETATM   12  C   DIM A 152      -2.696  29.346   4.302  1.00 -1.59           C
+HETATM   13  C   DIM A 152      -2.927  29.442   4.198  1.00 -1.59           C
+HETATM   14  C   DIM A 152      -3.047  29.282   3.957  1.00 -1.51           C
+HETATM   15  C   DIM A 152      -4.366  30.375   2.605  1.00 -1.53           C
+HETATM   16  C   ACE A 152      -4.303  29.429   3.148  1.00 -1.53           C
+HETATM   17  C   ACE A 152      -4.252  29.485   2.766  1.00 -1.69           C
+HETATM   18  C   ACE A 152      -4.922  28.866   2.271  1.00 -1.82           C
+HETATM   19  C   ACE A 152      -4.125  29.493   2.677  1.00 -1.60           C
+HETATM   20  C   ACE A 152      -4.413  29.001   2.639  1.00 -1.74           C
+HETATM   21  C   ACE A 152      -4.080  29.277   2.642  1.00 -1.59           C
+HETATM   22  C   IMI A 152      -4.598  30.585   2.587  1.00 -1.61           C

@@ -1,0 +1,13 @@
+TITLE     FTMap 18-Probe System - Cluster 255
+REMARK    Size: 8 poses
+REMARK    Min Energy: -3.42 kcal/mol
+REMARK    Avg Energy: -2.62 kcal/mol
+REMARK    Center: -5.06 15.73 -18.51
+HETATM    1  C   BEN A 255      -5.466  15.724 -18.170  1.00 -3.10           C
+HETATM    2  C   BEN A 255      -5.668  15.740 -18.680  1.00 -3.30           C
+HETATM    3  C   BEN A 255      -5.521  15.960 -18.780  1.00 -3.03           C
+HETATM    4  C   BEN A 255      -5.544  15.718 -18.427  1.00 -3.16           C
+HETATM    5  C   BEN A 255      -5.760  15.770 -18.796  1.00 -3.42           C
+HETATM    6  C   BEN A 255      -4.145  15.830 -18.071  1.00 -1.64           C
+HETATM    7  C   BEN A 255      -4.347  15.457 -18.510  1.00 -1.79           C
+HETATM    8  C   BEN A 255      -4.009  15.603 -18.645  1.00 -1.50           C

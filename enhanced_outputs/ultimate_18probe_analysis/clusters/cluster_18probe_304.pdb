@@ -1,0 +1,24 @@
+TITLE     FTMap 18-Probe System - Cluster 304
+REMARK    Size: 19 poses
+REMARK    Min Energy: -3.24 kcal/mol
+REMARK    Avg Energy: -2.89 kcal/mol
+REMARK    Center: -15.50 33.03 1.09
+HETATM    1  C   BEN A 304     -15.155  33.816   0.281  1.00 -2.51           C
+HETATM    2  C   BEN A 304     -14.382  33.633   1.080  1.00 -2.26           C
+HETATM    3  C   BEN A 304     -14.435  34.058   1.406  1.00 -3.05           C
+HETATM    4  C   BEN A 304     -14.335  33.894   0.895  1.00 -2.74           C
+HETATM    5  C   BEN A 304     -14.315  33.873   1.025  1.00 -2.68           C
+HETATM    6  C   BEN A 304     -15.325  34.030   0.790  1.00 -2.53           C
+HETATM    7  C   BEN A 304     -14.442  33.597   0.855  1.00 -2.42           C
+HETATM    8  C   BEN A 304     -14.877  34.183   1.533  1.00 -3.08           C
+HETATM    9  C   BEN A 304     -14.693  33.780   1.080  1.00 -2.95           C
+HETATM   10  C   BEN A 304     -16.010  32.143   0.820  1.00 -3.04           C
+HETATM   11  C   BEN A 304     -16.393  32.433   1.639  1.00 -3.22           C
+HETATM   12  C   BEN A 304     -15.671  32.394   0.609  1.00 -2.89           C
+HETATM   13  C   BEN A 304     -16.161  32.466   1.260  1.00 -3.12           C
+HETATM   14  C   BEN A 304     -16.601  32.059   1.612  1.00 -3.24           C
+HETATM   15  C   BEN A 304     -16.089  32.402   1.008  1.00 -3.05           C
+HETATM   16  C   BEN A 304     -16.516  32.433   1.015  1.00 -2.74           C
+HETATM   17  C   BEN A 304     -16.502  31.720   1.170  1.00 -3.20           C
+HETATM   18  C   BEN A 304     -15.971  32.263   1.011  1.00 -3.10           C
+HETATM   19  C   BEN A 304     -16.547  32.446   1.680  1.00 -3.10           C

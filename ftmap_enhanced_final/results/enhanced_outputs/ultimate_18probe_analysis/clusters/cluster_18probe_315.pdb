@@ -1,0 +1,11 @@
+TITLE     FTMap 18-Probe System - Cluster 315
+REMARK    Size: 6 poses
+REMARK    Min Energy: -2.49 kcal/mol
+REMARK    Avg Energy: -2.22 kcal/mol
+REMARK    Center: -19.17 32.28 9.78
+HETATM    1  C   BEN A 315     -19.244  32.073   9.860  1.00 -2.36           C
+HETATM    2  C   BEN A 315     -18.895  32.388  10.150  1.00 -1.90           C
+HETATM    3  C   BEN A 315     -19.009  32.597   9.731  1.00 -2.11           C
+HETATM    4  C   BEN A 315     -19.406  31.715   9.582  1.00 -2.49           C
+HETATM    5  C   BEN A 315     -19.104  32.267   9.737  1.00 -2.19           C
+HETATM    6  C   BEN A 315     -19.340  32.623   9.609  1.00 -2.29           C

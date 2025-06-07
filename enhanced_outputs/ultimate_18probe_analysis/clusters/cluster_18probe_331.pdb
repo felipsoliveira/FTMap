@@ -1,0 +1,27 @@
+TITLE     FTMap 18-Probe System - Cluster 331
+REMARK    Size: 22 poses
+REMARK    Min Energy: -5.64 kcal/mol
+REMARK    Avg Energy: -2.16 kcal/mol
+REMARK    Center: 24.97 -1.70 9.41
+HETATM    1  C   BEN A 331      25.206  -0.669  10.312  1.00 -4.86           C
+HETATM    2  C   BEN A 331      24.781  -1.207  10.638  1.00 -1.73           C
+HETATM    3  C   BEN A 331      26.162  -3.396  10.090  1.00 -5.56           C
+HETATM    4  C   BEN A 331      26.126  -3.416   9.966  1.00 -5.64           C
+HETATM    5  C   ACE A 331      25.012  -2.253   8.679  1.00 -1.62           C
+HETATM    6  C   ACE A 331      24.557  -0.996  10.185  1.00 -1.71           C
+HETATM    7  C   ACE A 331      24.504  -1.084  10.217  1.00 -1.74           C
+HETATM    8  C   DMF A 331      24.610  -0.922  10.359  1.00 -1.61           C
+HETATM    9  C   DMF A 331      24.646  -1.015  10.114  1.00 -1.66           C
+HETATM   10  C   ISO A 331      24.930  -2.694   8.572  1.00 -1.63           C
+HETATM   11  C   ISO A 331      24.966  -1.804   8.234  1.00 -1.66           C
+HETATM   12  C   ISO A 331      24.768  -2.203   9.527  1.00 -1.58           C
+HETATM   13  C   ISO A 331      24.299  -1.274   9.935  1.00 -1.68           C
+HETATM   14  C   ISO A 331      24.311  -0.859   9.871  1.00 -1.84           C
+HETATM   15  C   DIM A 331      24.229  -1.225   9.930  1.00 -1.63           C
+HETATM   16  C   DIM A 331      24.730  -0.834  10.301  1.00 -1.52           C
+HETATM   17  C   DIM A 331      24.764  -1.882   9.847  1.00 -1.60           C
+HETATM   18  C   DIM A 331      25.539  -2.117   7.900  1.00 -1.56           C
+HETATM   19  C   DIM A 331      25.355  -2.359   8.655  1.00 -1.51           C
+HETATM   20  C   PHE A 331      25.303  -0.981   7.496  1.00 -1.80           C
+HETATM   21  C   IMI A 331      25.084  -2.207   7.978  1.00 -1.76           C
+HETATM   22  C   IMI A 331      25.492  -1.950   8.170  1.00 -1.53           C

@@ -1,0 +1,359 @@
+FTMAP ENHANCED - RESIDUE INTERACTION ANALYSIS
+============================================================
+
+MOST FREQUENT BINDING RESIDUE TYPES:
+----------------------------------------
+ILE:  60 interactions ( 50.0%)
+LEU:  20 interactions ( 16.7%)
+VAL:  20 interactions ( 16.7%)
+MET:  20 interactions ( 16.7%)
+
+TOP 20 CLUSTERS - DETAILED RESIDUE ANALYSIS:
+============================================================
+
+CLUSTER 13 (RANK 1):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 139 (RANK 2):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 25 (RANK 3):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 205 (RANK 4):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 208 (RANK 5):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 185 (RANK 6):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 206 (RANK 7):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 30 (RANK 8):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 37 (RANK 9):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 172 (RANK 10):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 234 (RANK 11):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 204 (RANK 12):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 237 (RANK 13):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 198 (RANK 14):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 68 (RANK 15):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 165 (RANK 16):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 36 (RANK 17):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 211 (RANK 18):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 23 (RANK 19):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+--------------------------------------------------
+
+CLUSTER 95 (RANK 20):
+Score: 0.0900 | Energy: 0.00 kcal/mol
+Center: (0.00, 0.00, 0.00)
+Total Poses: 0
+
+Probe Composition:
+
+Nearby Residues (within 5Å):
+   1. LEU100A ( 3.68Å) - CD1
+   2. ILE253A ( 4.13Å) - CB
+   3. ILE275A ( 4.66Å) - O
+   4. VAL450A ( 4.84Å) - CB
+   5. ILE310A ( 4.94Å) - CA
+   6. MET276A ( 4.99Å) - CB
+
+
+SUMMARY STATISTICS:
+==============================
+Total clusters analyzed: 251
+Top clusters selected: 20
+Average poses per cluster: 0.0
+Average energy per cluster: 0.00 kcal/mol
+Unique residues involved: 6

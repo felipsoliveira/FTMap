@@ -1,0 +1,12 @@
+TITLE     FTMap 18-Probe System - Cluster 397
+REMARK    Size: 7 poses
+REMARK    Min Energy: -1.76 kcal/mol
+REMARK    Avg Energy: -1.64 kcal/mol
+REMARK    Center: -5.86 18.42 -4.85
+HETATM    1  C   BEN A 397      -5.244  18.634  -5.236  1.00 -1.56           C
+HETATM    2  C   URE A 397      -5.928  17.722  -4.926  1.00 -1.65           C
+HETATM    3  C   DIM A 397      -6.426  18.412  -4.949  1.00 -1.71           C
+HETATM    4  C   BEN A 397      -5.700  18.438  -4.658  1.00 -1.55           C
+HETATM    5  C   ACE A 397      -6.021  18.636  -4.825  1.00 -1.76           C
+HETATM    6  C   ACE A 397      -5.726  18.369  -4.790  1.00 -1.54           C
+HETATM    7  C   IMI A 397      -5.947  18.751  -4.552  1.00 -1.73           C

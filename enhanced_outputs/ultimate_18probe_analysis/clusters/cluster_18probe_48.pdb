@@ -1,0 +1,60 @@
+TITLE     FTMap 18-Probe System - Cluster 48
+REMARK    Size: 55 poses
+REMARK    Min Energy: -2.39 kcal/mol
+REMARK    Avg Energy: -1.78 kcal/mol
+REMARK    Center: 12.35 6.61 7.86
+HETATM    1  C   ETH A  48      12.721   6.246   7.354  1.00 -1.75           C
+HETATM    2  C   ETH A  48      12.214   6.278   7.621  1.00 -2.03           C
+HETATM    3  C   CYC A  48      12.088   6.218   5.068  1.00 -1.73           C
+HETATM    4  C   ACE A  48      12.343   6.483   7.888  1.00 -1.87           C
+HETATM    5  C   ACE A  48      11.966   6.723   6.515  1.00 -1.59           C
+HETATM    6  C   ACE A  48      12.466   6.223   7.425  1.00 -1.91           C
+HETATM    7  C   ACE A  48      11.876   6.462   5.432  1.00 -1.69           C
+HETATM    8  C   ACE A  48      11.975   6.589   5.528  1.00 -1.54           C
+HETATM    9  C   ACE A  48      12.355   6.690   7.287  1.00 -1.56           C
+HETATM   10  C   ACE A  48      12.462   6.547   7.692  1.00 -1.71           C
+HETATM   11  C   ACE A  48      12.492   6.642   7.326  1.00 -1.55           C
+HETATM   12  C   ACE A  48      12.266   6.722   6.875  1.00 -1.51           C
+HETATM   13  C   ACE A  48      12.136   6.751   7.474  1.00 -1.66           C
+HETATM   14  C   ACE A  48      12.276   6.153   7.752  1.00 -2.14           C
+HETATM   15  C   ACE A  48      12.497   6.740   7.684  1.00 -1.55           C
+HETATM   16  C   URE A  48      12.538   6.461   8.529  1.00 -1.94           C
+HETATM   17  C   URE A  48      12.712   6.558   8.342  1.00 -1.76           C
+HETATM   18  C   URE A  48      12.428   6.968   8.900  1.00 -1.73           C
+HETATM   19  C   URE A  48      12.287   6.760   8.097  1.00 -1.73           C
+HETATM   20  C   URE A  48      12.486   6.601   8.555  1.00 -1.88           C
+HETATM   21  C   URE A  48      12.497   6.729   8.503  1.00 -1.77           C
+HETATM   22  C   URE A  48      12.149   6.571   8.742  1.00 -2.10           C
+HETATM   23  C   URE A  48      12.193   6.530   8.624  1.00 -2.08           C
+HETATM   24  C   URE A  48      12.628   5.984   8.862  1.00 -1.67           C
+HETATM   25  C   URE A  48      12.420   7.206   8.854  1.00 -1.56           C
+HETATM   26  C   URE A  48      12.236   7.012   8.708  1.00 -1.73           C
+HETATM   27  C   URE A  48      12.502   7.119   8.621  1.00 -1.53           C
+HETATM   28  C   ISO A  48      12.159   6.385   5.482  1.00 -1.60           C
+HETATM   29  C   ISO A  48      12.156   6.421   5.983  1.00 -1.65           C
+HETATM   30  C   ISO A  48      11.937   6.576   5.158  1.00 -1.51           C
+HETATM   31  C   ISO A  48      12.447   6.201   5.665  1.00 -1.63           C
+HETATM   32  C   DIM A  48      12.296   6.538   7.127  1.00 -1.67           C
+HETATM   33  C   DIM A  48      12.236   6.469   7.454  1.00 -1.83           C
+HETATM   34  C   DIM A  48      12.507   6.418   6.794  1.00 -1.60           C
+HETATM   35  C   ACE A  48      12.696   6.665   8.777  1.00 -1.78           C
+HETATM   36  C   ACE A  48      11.846   6.869   8.168  1.00 -1.87           C
+HETATM   37  C   ACE A  48      12.692   6.980   8.954  1.00 -1.63           C
+HETATM   38  C   ACE A  48      12.690   7.006   9.090  1.00 -1.64           C
+HETATM   39  C   ACE A  48      12.074   5.931   7.834  1.00 -2.39           C
+HETATM   40  C   ACE A  48      12.449   6.869   7.950  1.00 -1.55           C
+HETATM   41  C   ACE A  48      12.627   6.803   8.547  1.00 -1.67           C
+HETATM   42  C   ACE A  48      12.858   6.827   8.428  1.00 -1.54           C
+HETATM   43  C   ACE A  48      11.833   6.384   8.623  1.00 -2.37           C
+HETATM   44  C   ACE A  48      12.398   7.026   8.515  1.00 -1.60           C
+HETATM   45  C   MET A  48      12.831   6.678   8.459  1.00 -1.66           C
+HETATM   46  C   MET A  48      12.422   6.497   8.223  1.00 -1.91           C
+HETATM   47  C   MET A  48      12.120   6.707   8.902  1.00 -2.05           C
+HETATM   48  C   MET A  48      12.022   6.735   8.915  1.00 -2.09           C
+HETATM   49  C   MET A  48      12.624   7.034   8.626  1.00 -1.54           C
+HETATM   50  C   MET A  48      12.418   6.514   8.581  1.00 -1.97           C
+HETATM   51  C   MET A  48      12.463   6.465   8.856  1.00 -1.98           C
+HETATM   52  C   MET A  48      12.259   6.431   9.002  1.00 -2.09           C
+HETATM   53  C   MET A  48      12.380   7.035   8.783  1.00 -1.67           C
+HETATM   54  C   MET A  48      12.407   6.342   8.620  1.00 -2.09           C
+HETATM   55  C   MET A  48      12.027   6.869   8.481  1.00 -1.87           C

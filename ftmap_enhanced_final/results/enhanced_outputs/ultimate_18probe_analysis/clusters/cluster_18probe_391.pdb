@@ -1,0 +1,9 @@
+TITLE     FTMap 18-Probe System - Cluster 391
+REMARK    Size: 4 poses
+REMARK    Min Energy: -5.38 kcal/mol
+REMARK    Avg Energy: -4.92 kcal/mol
+REMARK    Center: -8.49 32.50 19.39
+HETATM    1  C   BEN A 391      -8.929  32.243  19.739  1.00 -4.26           C
+HETATM    2  C   BEN A 391      -8.128  33.150  18.939  1.00 -5.26           C
+HETATM    3  C   BEN A 391      -8.365  32.415  19.234  1.00 -5.38           C
+HETATM    4  C   BEN A 391      -8.544  32.189  19.645  1.00 -4.79           C

@@ -1,0 +1,39 @@
+TITLE     FTMap 18-Probe System - Cluster 173
+REMARK    Size: 34 poses
+REMARK    Min Energy: -7.39 kcal/mol
+REMARK    Avg Energy: -4.53 kcal/mol
+REMARK    Center: 20.50 5.25 12.77
+HETATM    1  C   CYC A 173      19.858   4.010  12.379  1.00 -2.18           C
+HETATM    2  C   BEN A 173      20.535   5.297  13.164  1.00 -7.39           C
+HETATM    3  C   BEN A 173      20.363   5.501  12.687  1.00 -7.20           C
+HETATM    4  C   BEN A 173      20.818   5.263  13.320  1.00 -7.23           C
+HETATM    5  C   BEN A 173      21.141   5.474  13.560  1.00 -6.57           C
+HETATM    6  C   BEN A 173      22.034   5.375  12.862  1.00 -5.35           C
+HETATM    7  C   BEN A 173      21.547   5.762  13.517  1.00 -5.40           C
+HETATM    8  C   BEN A 173      21.181   5.394  13.158  1.00 -6.58           C
+HETATM    9  C   BEN A 173      21.028   5.232  13.452  1.00 -7.06           C
+HETATM   10  C   BEN A 173      21.179   4.808  12.904  1.00 -6.64           C
+HETATM   11  C   BEN A 173      21.479   5.812  13.335  1.00 -5.40           C
+HETATM   12  C   BEN A 173      21.280   4.716  13.477  1.00 -6.97           C
+HETATM   13  C   BEN A 173      21.406   5.164  13.020  1.00 -6.56           C
+HETATM   14  C   BEN A 173      19.602   6.660  12.801  1.00 -6.18           C
+HETATM   15  C   BEN A 173      19.725   6.461  12.967  1.00 -6.52           C
+HETATM   16  C   BEN A 173      19.840   6.620  13.085  1.00 -6.02           C
+HETATM   17  C   BEN A 173      20.304   6.843  13.064  1.00 -4.93           C
+HETATM   18  C   BEN A 173      20.766   6.530  13.444  1.00 -5.02           C
+HETATM   19  C   BEN A 173      20.356   6.794  13.130  1.00 -4.98           C
+HETATM   20  C   BEN A 173      19.704   6.129  13.139  1.00 -7.34           C
+HETATM   21  C   BEN A 173      21.588   4.596  14.051  1.00 -6.95           C
+HETATM   22  C   BEN A 173      22.510   5.187  13.004  1.00 -4.94           C
+HETATM   23  C   BEN A 173      21.136   4.087  13.235  1.00 -1.71           C
+HETATM   24  C   ACE A 173      18.942   4.977  12.363  1.00 -1.90           C
+HETATM   25  C   DMF A 173      21.043   4.056  13.156  1.00 -1.60           C
+HETATM   26  C   ISO A 173      19.561   5.104  11.426  1.00 -1.60           C
+HETATM   27  C   ACE A 173      18.298   5.444  12.602  1.00 -1.73           C
+HETATM   28  C   PHE A 173      19.878   4.321  11.418  1.00 -1.71           C
+HETATM   29  C   ACE A 173      19.152   5.329  11.856  1.00 -1.52           C
+HETATM   30  C   ACE A 173      19.753   4.944  11.096  1.00 -1.68           C
+HETATM   31  C   ACE A 173      20.368   4.689  11.559  1.00 -1.61           C
+HETATM   32  C   MET A 173      19.864   3.886  12.085  1.00 -1.82           C
+HETATM   33  C   MET A 173      20.430   4.004  11.723  1.00 -1.63           C
+HETATM   34  C   MET A 173      20.207   4.033  12.064  1.00 -1.95           C

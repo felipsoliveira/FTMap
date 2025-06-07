@@ -1,0 +1,10 @@
+TITLE     FTMap 18-Probe System - Cluster 246
+REMARK    Size: 5 poses
+REMARK    Min Energy: -2.70 kcal/mol
+REMARK    Avg Energy: -1.82 kcal/mol
+REMARK    Center: -4.74 11.48 -14.03
+HETATM    1  C   BEN A 246      -4.401  11.380 -13.570  1.00 -1.55           C
+HETATM    2  C   BEN A 246      -4.377  11.392 -13.709  1.00 -1.54           C
+HETATM    3  C   BEN A 246      -4.602  11.418 -14.435  1.00 -1.77           C
+HETATM    4  C   BEN A 246      -5.773  11.735 -16.196  1.00 -2.70           C
+HETATM    5  C   BEN A 246      -4.569  11.457 -12.236  1.00 -1.56           C

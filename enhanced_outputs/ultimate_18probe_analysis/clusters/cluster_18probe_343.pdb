@@ -1,0 +1,16 @@
+TITLE     FTMap 18-Probe System - Cluster 343
+REMARK    Size: 11 poses
+REMARK    Min Energy: -3.95 kcal/mol
+REMARK    Avg Energy: -2.56 kcal/mol
+REMARK    Center: -18.27 28.24 8.28
+HETATM    1  C   BEN A 343     -19.218  28.604   8.561  1.00 -3.73           C
+HETATM    2  C   BEN A 343     -19.178  27.392   8.276  1.00 -3.85           C
+HETATM    3  C   BEN A 343     -18.950  28.045   8.651  1.00 -3.95           C
+HETATM    4  C   BEN A 343     -19.504  27.752   8.452  1.00 -3.40           C
+HETATM    5  C   BEN A 343     -19.256  27.402   8.004  1.00 -3.74           C
+HETATM    6  C   ACE A 343     -17.559  28.645   8.349  1.00 -1.60           C
+HETATM    7  C   ACE A 343     -17.546  28.835   8.472  1.00 -1.60           C
+HETATM    8  C   URE A 343     -17.272  27.527   8.469  1.00 -1.60           C
+HETATM    9  C   PHE A 343     -17.308  28.977   8.052  1.00 -1.61           C
+HETATM   10  C   PHE A 343     -17.687  28.729   8.450  1.00 -1.54           C
+HETATM   11  C   PHE A 343     -17.543  28.709   7.299  1.00 -1.50           C

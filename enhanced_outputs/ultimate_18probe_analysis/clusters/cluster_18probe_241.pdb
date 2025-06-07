@@ -1,0 +1,40 @@
+TITLE     FTMap 18-Probe System - Cluster 241
+REMARK    Size: 35 poses
+REMARK    Min Energy: -3.77 kcal/mol
+REMARK    Avg Energy: -2.47 kcal/mol
+REMARK    Center: -4.96 22.26 -5.32
+HETATM    1  C   BEN A 241      -5.389  21.854  -5.113  1.00 -1.84           C
+HETATM    2  C   BEN A 241      -5.039  21.720  -4.752  1.00 -3.63           C
+HETATM    3  C   BEN A 241      -5.110  21.816  -4.628  1.00 -3.66           C
+HETATM    4  C   BEN A 241      -5.175  21.859  -5.473  1.00 -2.50           C
+HETATM    5  C   BEN A 241      -5.552  21.959  -4.631  1.00 -1.97           C
+HETATM    6  C   BEN A 241      -3.917  21.636  -6.531  1.00 -2.38           C
+HETATM    7  C   BEN A 241      -3.742  21.861  -6.905  1.00 -2.03           C
+HETATM    8  C   BEN A 241      -3.941  22.045  -6.970  1.00 -2.10           C
+HETATM    9  C   BEN A 241      -3.896  21.646  -6.330  1.00 -2.43           C
+HETATM   10  C   BEN A 241      -4.206  21.820  -6.652  1.00 -2.51           C
+HETATM   11  C   BEN A 241      -3.481  21.617  -6.485  1.00 -2.01           C
+HETATM   12  C   BEN A 241      -4.085  21.589  -6.144  1.00 -2.69           C
+HETATM   13  C   BEN A 241      -3.977  21.743  -6.221  1.00 -2.50           C
+HETATM   14  C   BEN A 241      -4.341  21.503  -6.321  1.00 -2.85           C
+HETATM   15  C   BEN A 241      -3.493  21.623  -6.566  1.00 -2.00           C
+HETATM   16  C   BEN A 241      -3.826  24.181  -4.833  1.00 -1.84           C
+HETATM   17  C   BEN A 241      -3.996  24.322  -4.940  1.00 -1.86           C
+HETATM   18  C   BEN A 241      -4.179  24.334  -4.555  1.00 -2.12           C
+HETATM   19  C   BEN A 241      -4.004  24.417  -4.845  1.00 -1.86           C
+HETATM   20  C   BEN A 241      -6.823  24.476  -5.304  1.00 -2.58           C
+HETATM   21  C   BEN A 241      -5.659  23.394  -4.423  1.00 -3.77           C
+HETATM   22  C   BEN A 241      -5.228  23.027  -4.959  1.00 -3.34           C
+HETATM   23  C   BEN A 241      -5.924  23.596  -4.869  1.00 -3.19           C
+HETATM   24  C   BEN A 241      -5.778  23.241  -5.133  1.00 -2.71           C
+HETATM   25  C   BEN A 241      -5.243  24.174  -5.146  1.00 -2.74           C
+HETATM   26  C   BEN A 241      -5.457  23.597  -4.580  1.00 -3.52           C
+HETATM   27  C   BEN A 241      -5.367  23.088  -4.901  1.00 -3.36           C
+HETATM   28  C   BEN A 241      -5.696  23.456  -4.751  1.00 -3.43           C
+HETATM   29  C   BEN A 241      -4.819  23.318  -5.159  1.00 -2.88           C
+HETATM   30  C   BEN A 241      -5.695  22.394  -4.585  1.00 -2.32           C
+HETATM   31  C   ACE A 241      -6.187  20.374  -4.395  1.00 -1.53           C
+HETATM   32  C   ISO A 241      -6.211  20.254  -4.377  1.00 -1.55           C
+HETATM   33  C   DIM A 241      -6.353  19.066  -4.928  1.00 -1.67           C
+HETATM   34  C   BEN A 241      -5.882  18.920  -4.951  1.00 -1.62           C
+HETATM   35  C   ACE A 241      -5.829  19.074  -4.914  1.00 -1.57           C

@@ -1,0 +1,11 @@
+REMARK FTMap Enhanced Cluster 6
+REMARK Druggability Index: 4.107
+REMARK Min Energy: -7.68 kcal/mol
+REMARK Cluster Size: 5 poses
+REMARK Dominant Probe: Water
+HETATM    1  C1  MET A   1     -19.446  -5.040   9.621  1.00 -7.68           C
+HETATM    2  C1  ACE A   1     -18.116  -9.382   5.834  1.00 -7.52           C
+HETATM    3  C1  ACE A   1     -21.897  -3.140   6.057  1.00 -7.09           C
+HETATM    4  C1  WAT A   1     -16.621  -8.730   9.911  1.00 -4.63           C
+HETATM    5  C1  IMI A   1     -20.498  -0.719   7.779  1.00 -3.20           C
+END

@@ -1,0 +1,30 @@
+TITLE     FTMap 18-Probe System - Cluster 162
+REMARK    Size: 25 poses
+REMARK    Min Energy: -4.91 kcal/mol
+REMARK    Avg Energy: -1.92 kcal/mol
+REMARK    Center: -15.27 25.96 12.59
+HETATM    1  C   CYC A 162     -15.497  26.665  12.921  1.00 -1.76           C
+HETATM    2  C   BEN A 162     -18.013  27.838  11.835  1.00 -2.53           C
+HETATM    3  C   BEN A 162     -15.090  25.023  14.623  1.00 -3.57           C
+HETATM    4  C   BEN A 162     -16.765  25.184  11.702  1.00 -4.91           C
+HETATM    5  C   ACE A 162     -16.221  26.451  11.650  1.00 -1.52           C
+HETATM    6  C   ACE A 162     -15.985  26.239  11.630  1.00 -1.58           C
+HETATM    7  C   ACE A 162     -16.218  26.362  11.417  1.00 -1.50           C
+HETATM    8  C   ACE A 162     -15.889  26.022  11.847  1.00 -1.63           C
+HETATM    9  C   ACE A 162     -15.926  25.924  11.826  1.00 -1.60           C
+HETATM   10  C   ACE A 162     -14.497  24.532  12.618  1.00 -1.59           C
+HETATM   11  C   ACE A 162     -14.614  24.754  12.666  1.00 -1.61           C
+HETATM   12  C   ETH A 162     -14.155  25.223  12.128  1.00 -1.90           C
+HETATM   13  C   DIM A 162     -16.146  27.603  12.645  1.00 -1.65           C
+HETATM   14  C   DIM A 162     -15.745  27.457  12.939  1.00 -1.79           C
+HETATM   15  C   ACE A 162     -14.947  25.871  13.270  1.00 -1.58           C
+HETATM   16  C   ACE A 162     -14.833  26.223  13.280  1.00 -1.56           C
+HETATM   17  C   BEN A 162     -14.758  25.221  12.256  1.00 -2.01           C
+HETATM   18  C   PHE A 162     -13.445  25.083  11.751  1.00 -2.28           C
+HETATM   19  C   ACE A 162     -14.493  25.425  13.001  1.00 -1.71           C
+HETATM   20  C   ACE A 162     -14.827  26.233  12.993  1.00 -1.65           C
+HETATM   21  C   ACE A 162     -14.606  25.722  13.197  1.00 -1.58           C
+HETATM   22  C   MET A 162     -14.589  25.760  13.088  1.00 -1.61           C
+HETATM   23  C   MET A 162     -14.869  26.353  13.061  1.00 -1.62           C
+HETATM   24  C   MET A 162     -14.801  25.921  13.204  1.00 -1.62           C
+HETATM   25  C   MET A 162     -14.736  25.935  13.171  1.00 -1.61           C

@@ -1,0 +1,44 @@
+TITLE     FTMap 18-Probe System - Cluster 456
+REMARK    Size: 39 poses
+REMARK    Min Energy: -2.47 kcal/mol
+REMARK    Avg Energy: -1.90 kcal/mol
+REMARK    Center: 4.02 1.49 -0.97
+HETATM    1  C   ACE A 456       3.436   2.223  -0.640  1.00 -1.68           C
+HETATM    2  C   ACE A 456       3.352   2.661  -0.638  1.00 -1.63           C
+HETATM    3  C   ACE A 456       3.042   2.412  -0.714  1.00 -1.57           C
+HETATM    4  C   ACE A 456       3.688   2.651  -0.649  1.00 -1.75           C
+HETATM    5  C   ACE A 456       3.995   2.569  -0.637  1.00 -1.85           C
+HETATM    6  C   ACE A 456       3.870   2.172  -0.753  1.00 -1.90           C
+HETATM    7  C   ACE A 456       4.761   2.258  -1.120  1.00 -2.21           C
+HETATM    8  C   ACE A 456       4.708   1.904  -1.853  1.00 -1.78           C
+HETATM    9  C   ACE A 456       5.190   2.167  -1.701  1.00 -1.92           C
+HETATM   10  C   ACE A 456       4.971   1.845  -1.767  1.00 -1.88           C
+HETATM   11  C   DMF A 456       5.023   1.964  -1.816  1.00 -1.85           C
+HETATM   12  C   DMF A 456       5.526   2.752  -1.604  1.00 -1.94           C
+HETATM   13  C   DMF A 456       4.908   2.170  -1.710  1.00 -1.87           C
+HETATM   14  C   DMF A 456       4.160   2.356  -1.607  1.00 -1.55           C
+HETATM   15  C   DIM A 456       3.361   2.004  -0.706  1.00 -1.73           C
+HETATM   16  C   DIM A 456       3.586   2.047  -1.057  1.00 -1.77           C
+HETATM   17  C   DIM A 456       3.070   1.874  -0.598  1.00 -1.58           C
+HETATM   18  C   DIM A 456       3.470   2.105  -0.640  1.00 -1.70           C
+HETATM   19  C   BEN A 456       3.521  -0.536  -0.065  1.00 -2.10           C
+HETATM   20  C   BEN A 456       3.261  -0.574  -0.266  1.00 -2.34           C
+HETATM   21  C   BEN A 456       3.490  -0.337  -0.802  1.00 -2.21           C
+HETATM   22  C   BEN A 456       5.508   2.786  -1.540  1.00 -1.97           C
+HETATM   23  C   BEN A 456       4.339  -0.566  -0.623  1.00 -1.65           C
+HETATM   24  C   PHE A 456       3.810   2.275  -1.001  1.00 -1.84           C
+HETATM   25  C   PHE A 456       3.240   1.977  -0.649  1.00 -1.66           C
+HETATM   26  C   MET A 456       3.982  -0.674  -0.582  1.00 -2.47           C
+HETATM   27  C   MET A 456       3.719  -0.495  -0.355  1.00 -2.37           C
+HETATM   28  C   MET A 456       3.281  -0.627  -0.233  1.00 -2.37           C
+HETATM   29  C   MET A 456       3.375  -0.427  -0.402  1.00 -2.32           C
+HETATM   30  C   MET A 456       3.500  -0.573  -0.570  1.00 -2.36           C
+HETATM   31  C   MET A 456       3.282  -0.546  -0.329  1.00 -2.33           C
+HETATM   32  C   MET A 456       2.224   0.249  -0.688  1.00 -1.51           C
+HETATM   33  C   IMI A 456       4.858   2.231  -1.581  1.00 -1.94           C
+HETATM   34  C   IMI A 456       4.672   2.336  -1.286  1.00 -2.05           C
+HETATM   35  C   IMI A 456       5.092   1.713  -1.771  1.00 -1.76           C
+HETATM   36  C   IMI A 456       4.714   2.206  -1.714  1.00 -1.79           C
+HETATM   37  C   IMI A 456       5.942   2.389  -1.871  1.00 -1.53           C
+HETATM   38  C   IMI A 456       3.447   2.602  -0.548  1.00 -1.59           C
+HETATM   39  C   IMI A 456       3.333   2.615  -0.732  1.00 -1.65           C

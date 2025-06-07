@@ -1,0 +1,14 @@
+TITLE     FTMap 18-Probe System - Cluster 178
+REMARK    Size: 9 poses
+REMARK    Min Energy: -10.91 kcal/mol
+REMARK    Avg Energy: -5.58 kcal/mol
+REMARK    Center: 7.76 12.41 22.60
+HETATM    1  C   CYC A 178       7.148  12.887  22.249  1.00 -3.63           C
+HETATM    2  C   CYC A 178       6.912  12.861  21.932  1.00 -3.04           C
+HETATM    3  C   BEN A 178       8.414  11.177  23.483  1.00-10.20           C
+HETATM    4  C   BEN A 178       8.123  11.235  23.324  1.00-10.91           C
+HETATM    5  C   BEN A 178       8.589  11.399  23.403  1.00-10.02           C
+HETATM    6  C   BEN A 178       7.781  13.999  21.969  1.00 -2.56           C
+HETATM    7  C   ACE A 178       7.480  12.836  22.448  1.00 -3.47           C
+HETATM    8  C   ACE A 178       7.702  12.611  22.310  1.00 -3.16           C
+HETATM    9  C   ACE A 178       7.663  12.671  22.275  1.00 -3.27           C
