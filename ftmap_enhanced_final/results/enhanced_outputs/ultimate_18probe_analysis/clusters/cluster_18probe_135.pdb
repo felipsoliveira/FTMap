@@ -1,8 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 135
-REMARK    Size: 3 poses
-REMARK    Min Energy: -2.15 kcal/mol
-REMARK    Avg Energy: -1.78 kcal/mol
-REMARK    Center: -8.90 25.88 -0.57
-HETATM    1  C   ETH A 135      -8.419  25.872  -0.517  1.00 -1.52           C
-HETATM    2  C   ETH A 135      -8.583  25.840  -0.661  1.00 -1.67           C
-HETATM    3  C   URE A 135      -9.705  25.936  -0.520  1.00 -2.15           C

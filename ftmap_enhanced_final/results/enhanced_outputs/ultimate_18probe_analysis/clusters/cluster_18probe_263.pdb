@@ -1,9 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 263
-REMARK    Size: 4 poses
-REMARK    Min Energy: -3.40 kcal/mol
-REMARK    Avg Energy: -2.52 kcal/mol
-REMARK    Center: 10.17 21.07 27.01
-HETATM    1  C   BEN A 263       9.401  21.988  26.845  1.00 -2.08           C
-HETATM    2  C   BEN A 263       9.693  22.058  26.544  1.00 -1.86           C
-HETATM    3  C   BEN A 263      11.054  20.251  27.152  1.00 -3.40           C
-HETATM    4  C   BEN A 263      10.544  20.000  27.500  1.00 -2.74           C

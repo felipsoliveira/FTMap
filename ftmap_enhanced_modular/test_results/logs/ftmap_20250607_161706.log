@@ -1,0 +1,15 @@
+16:17:06 - INFO - 🚀 Iniciando FTMap Enhanced
+16:17:06 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:17:06 - INFO - 📁 Output: ./test_results
+16:17:06 - INFO - Todos os módulos inicializados com sucesso
+16:17:06 - INFO - FTMap Enhanced Workflow Manager inicializado
+16:17:06 - INFO - ⚡ Executando workflow completo
+16:17:06 - INFO - 🚀 Iniciando workflow FTMap Enhanced para: data/input/pfpkii.pdb
+16:17:06 - INFO - 🔄 Executando step: protein_preparation
+16:17:06 - INFO - 🧬 Preparando proteína...
+16:17:06 - INFO - ✅ Step protein_preparation concluído em 0.01s
+16:17:06 - INFO - 🔄 Executando step: docking_execution
+16:17:06 - INFO - 🎯 Executando docking molecular...
+16:17:06 - ERROR - ❌ Erro no step docking_execution: 'ProbeLibrary' object has no attribute 'prepare_all_probes'
+16:17:06 - ERROR - 💥 Erro crítico no workflow: 'ProbeLibrary' object has no attribute 'prepare_all_probes'
+16:17:06 - ERROR - 💥 Erro crítico: 'ProbeLibrary' object has no attribute 'prepare_all_probes'

@@ -1,8 +1,0 @@
-REMARK Manual conversion to PDBQT
-ROOT
-ATOM      1  O   HOH     1       0.000   0.000   0.000  1.00  0.00    -0.400 OA
-ATOM      2  H1  HOH     1       0.000   0.000   0.970  1.00  0.00     0.200 HD
-ATOM      3  H2  HOH     1       0.930   0.000  -0.243  1.00  0.00     0.200 HD
-ENDROOT
-TORSDOF 0
-

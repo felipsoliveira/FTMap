@@ -1,0 +1,12 @@
+16:16:23 - INFO - 🚀 Iniciando FTMap Enhanced
+16:16:23 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:16:23 - INFO - 📁 Output: ./test_results
+16:16:23 - INFO - Todos os módulos inicializados com sucesso
+16:16:23 - INFO - FTMap Enhanced Workflow Manager inicializado
+16:16:23 - INFO - ⚡ Executando workflow completo
+16:16:23 - INFO - 🚀 Iniciando workflow FTMap Enhanced para: data/input/pfpkii.pdb
+16:16:23 - INFO - 🔄 Executando step: protein_preparation
+16:16:23 - INFO - 🧬 Preparando proteína...
+16:16:23 - ERROR - ❌ Erro no step protein_preparation: ProteinPreparator.prepare_protein() missing 1 required positional argument: 'protein_id'
+16:16:23 - ERROR - 💥 Erro crítico no workflow: ProteinPreparator.prepare_protein() missing 1 required positional argument: 'protein_id'
+16:16:23 - ERROR - 💥 Erro crítico: ProteinPreparator.prepare_protein() missing 1 required positional argument: 'protein_id'

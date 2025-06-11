@@ -1,8 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 347
-REMARK    Size: 3 poses
-REMARK    Min Energy: -2.79 kcal/mol
-REMARK    Avg Energy: -2.44 kcal/mol
-REMARK    Center: -1.34 22.82 -0.50
-HETATM    1  C   BEN A 347      -1.150  22.724  -0.892  1.00 -2.05           C
-HETATM    2  C   BEN A 347      -1.481  22.904  -0.587  1.00 -2.49           C
-HETATM    3  C   BEN A 347      -1.388  22.828  -0.022  1.00 -2.79           C

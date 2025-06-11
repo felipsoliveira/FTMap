@@ -1,0 +1,65 @@
+{
+  "protein_info": {
+    "name": "",
+    "method": "UNKNOWN",
+    "resolution": "N/A",
+    "organism": "PLASMODIUM FALCIPARUM (ISOLATE 3D7);            \n",
+    "atom_count": 3886
+  },
+  "analysis_summary": {
+    "total_poses": 5000,
+    "total_clusters": 3,
+    "high_quality_hotspots": 0,
+    "medium_quality_hotspots": 1,
+    "low_quality_hotspots": 2,
+    "best_score": 0.5685085886301627,
+    "analysis_time": 0.7824802398681641
+  },
+  "top_hotspots": [
+    {
+      "cluster_id": 1,
+      "binding_energy_mean": -6.967739270016016,
+      "cluster_size": 54,
+      "volume": 702.254356076486,
+      "surface_area": 303.6333914922634,
+      "druggability_index": 0.46087603622590534,
+      "probe_diversity": 0.4870612979440543,
+      "hydrophobic_ratio": 0.39337603431908896,
+      "polar_ratio": 0.46943048024764944,
+      "pharmacophore_score": 0.6064917787922327,
+      "compactness": 0.6362040864964643,
+      "site_accessibility": 0.7009182359907623,
+      "ml_prediction": 0.5685085886301627
+    },
+    {
+      "cluster_id": 2,
+      "binding_energy_mean": -4.826880792142775,
+      "cluster_size": 28,
+      "volume": 480.8566290446426,
+      "surface_area": 221.69059389473512,
+      "druggability_index": 0.2702852052021928,
+      "probe_diversity": 0.3977247108744701,
+      "hydrophobic_ratio": 0.4058849069152643,
+      "polar_ratio": 0.5605848842640728,
+      "pharmacophore_score": 0.5855162971314717,
+      "compactness": 0.4793549705163596,
+      "site_accessibility": 0.6398389696956972,
+      "ml_prediction": 0.2559133874547273
+    },
+    {
+      "cluster_id": 0,
+      "binding_energy_mean": -4.099866981986844,
+      "cluster_size": 38,
+      "volume": 454.14299504399304,
+      "surface_area": 184.68324036104696,
+      "druggability_index": 0.28660816520056825,
+      "probe_diversity": 0.36130173205133687,
+      "hydrophobic_ratio": 0.2774119965001163,
+      "polar_ratio": 0.5231562207108371,
+      "pharmacophore_score": 0.44509973534824204,
+      "compactness": 0.521738270096395,
+      "site_accessibility": 0.6030029015928565,
+      "ml_prediction": 0.23210423940605296
+    }
+  ]
+}

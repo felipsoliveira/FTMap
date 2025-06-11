@@ -1,0 +1,112 @@
+{
+  "description": "Configuração de exemplo para FTMap Enhanced",
+  "version": "2.0",
+  
+  "general": {
+    "parallel_processes": 4,
+    "verbose_output": false,
+    "temp_cleanup": true
+  },
+  
+  "docking": {
+    "energy_cutoff": -5.0,
+    "target_poses_per_probe": 10,
+    "exhaustiveness": 8,
+    "num_modes": 9,
+    "vina_timeout": 300
+  },
+  
+  "clustering": {
+    "clustering_eps": 2.0,
+    "min_cluster_size": 5,
+    "max_clusters": 15,
+    "methods": ["dbscan", "hierarchical", "ensemble"]
+  },
+  
+  "machine_learning": {
+    "train_test_split": 0.3,
+    "cv_folds": 5,
+    "random_state": 42,
+    "models": ["random_forest", "gradient_boosting", "neural_network"]
+  },
+  
+  "features": {
+    "energetic": true,
+    "spatial": true,
+    "chemical": true,
+    "pharmacophoric": true,
+    "density": true,
+    "statistical": true
+  },
+  
+  "output": {
+    "formats": ["json", "csv", "html"],
+    "generate_pymol": true,
+    "generate_plots": true,
+    "export_pdb": true
+  },
+  
+  "probes": {
+    "water": {
+      "smiles": "O",
+      "charge": 0,
+      "description": "Água - probe polar básico"
+    },
+    "methanol": {
+      "smiles": "CO", 
+      "charge": 0,
+      "description": "Metanol - probe polar com cadeia hidrofóbica"
+    },
+    "ethanol": {
+      "smiles": "CCO",
+      "charge": 0,
+      "description": "Etanol - probe polar maior"
+    },
+    "benzene": {
+      "smiles": "c1ccccc1",
+      "charge": 0,
+      "description": "Benzeno - probe aromático hidrofóbico"
+    },
+    "acetate": {
+      "smiles": "CC(=O)[O-]",
+      "charge": -1,
+      "description": "Acetato - probe carregado negativamente"
+    },
+    "methylammonium": {
+      "smiles": "C[NH3+]",
+      "charge": 1,
+      "description": "Metilamônio - probe carregado positivamente"
+    },
+    "phenol": {
+      "smiles": "c1ccc(cc1)O",
+      "charge": 0,
+      "description": "Fenol - probe aromático com grupo hidroxila"
+    },
+    "indole": {
+      "smiles": "c1ccc2[nH]ccc2c1",
+      "charge": 0,
+      "description": "Indol - probe heterocíclico aromático"
+    }
+  },
+  
+  "thresholds": {
+    "druggability_cutoff": 0.7,
+    "hotspot_cutoff": 0.5,
+    "confidence_cutoff": 0.6,
+    "cluster_quality_min": 0.3
+  },
+  
+  "paths": {
+    "vina_executable": "vina",
+    "obabel_executable": "obabel",
+    "pymol_executable": "pymol"
+  },
+  
+  "quick_mode": {
+    "enabled": false,
+    "target_poses_per_probe": 5,
+    "max_clusters": 8,
+    "energy_cutoff": -3.0,
+    "limited_probes": ["water", "methanol", "benzene"]
+  }
+}

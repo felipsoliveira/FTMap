@@ -1,0 +1,5 @@
+16:16:06 - INFO - 🚀 Iniciando FTMap Enhanced
+16:16:06 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:16:06 - INFO - 📁 Output: ./test_results
+16:16:06 - ERROR - Erro ao inicializar módulos: 'FTMapConfig' object has no attribute 'color_scheme'
+16:16:06 - ERROR - 💥 Erro crítico: 'FTMapConfig' object has no attribute 'color_scheme'

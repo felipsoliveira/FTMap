@@ -1,8 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 441
-REMARK    Size: 3 poses
-REMARK    Min Energy: -1.63 kcal/mol
-REMARK    Avg Energy: -1.57 kcal/mol
-REMARK    Center: 11.01 3.43 -7.66
-HETATM    1  C   BEN A 441      11.081   3.105  -7.797  1.00 -1.55           C
-HETATM    2  C   BEN A 441      11.183   3.375  -7.537  1.00 -1.63           C
-HETATM    3  C   BEN A 441      10.773   3.800  -7.634  1.00 -1.52           C

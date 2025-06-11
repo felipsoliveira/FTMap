@@ -1,8 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 396
-REMARK    Size: 3 poses
-REMARK    Min Energy: -2.31 kcal/mol
-REMARK    Avg Energy: -2.08 kcal/mol
-REMARK    Center: -17.58 34.03 11.77
-HETATM    1  C   BEN A 396     -17.288  34.175  11.740  1.00 -1.73           C
-HETATM    2  C   BEN A 396     -17.639  34.078  11.731  1.00 -2.20           C
-HETATM    3  C   BEN A 396     -17.817  33.852  11.848  1.00 -2.31           C

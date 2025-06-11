@@ -1,0 +1,27 @@
+{
+  "protein_info": "ProteinInfo(pdb_id='pfpkii', num_residues=511, num_atoms=3886, molecular_weight=46632.0, center_of_mass=(np.float64(1.2848088008234664), np.float64(2.9742264539372107), np.float64(-0.8902192485846586)), binding_sites=[{'id': 1, 'center': (np.float64(1.2848088008234664), np.float64(2.9742264539372107), np.float64(-0.8902192485846586)), 'volume': 100.0, 'score': 0.5, 'atoms': 3886}], cavity_volume=150.0, surface_area=1000.0)",
+  "binding_sites": [
+    {
+      "id": 1,
+      "center": [
+        1.2848088008234664,
+        2.9742264539372107,
+        -0.8902192485846586
+      ],
+      "volume": 100.0,
+      "score": 0.5,
+      "atoms": 3886
+    }
+  ],
+  "geometric_properties": {
+    "center_of_mass": [
+      1.2848088008234664,
+      2.9742264539372107,
+      -0.8902192485846586
+    ],
+    "molecular_weight": 46632.0,
+    "surface_area": 1000.0,
+    "cavity_volume": 150.0
+  },
+  "output_file": "demo_results/prepared_proteins/pfpkii_prepared.pdbqt"
+}

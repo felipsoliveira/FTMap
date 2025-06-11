@@ -1,0 +1,8 @@
+REMARK Generated probe molecule
+ATOM      1  C   benzene A   1       0.000   0.000   0.000  1.00  0.00    0.000 C
+ATOM      2  C   benzene A   1       1.400   0.000   0.000  1.00  0.00    0.000 C
+ATOM      3  C   benzene A   1       0.700   1.200   0.000  1.00  0.00    0.000 C
+ATOM      4  C   benzene A   1      -0.700   1.200   0.000  1.00  0.00    0.000 C
+ATOM      5  C   benzene A   1      -1.400   0.000   0.000  1.00  0.00    0.000 C
+ATOM      6  C   benzene A   1      -0.700  -1.200   0.000  1.00  0.00    0.000 C
+TORSDOF 0

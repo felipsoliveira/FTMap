@@ -1,0 +1,5 @@
+REMARK Generated probe molecule
+ATOM      1  C   ethanol A   1       0.000   0.000   0.000  1.00  0.00    0.000 C
+ATOM      2  C   ethanol A   1       1.500   0.000   0.000  1.00  0.00    0.000 C
+ATOM      3  C   ethanol A   1       2.000   1.000   0.000  1.00  0.00    0.000 C
+TORSDOF 0

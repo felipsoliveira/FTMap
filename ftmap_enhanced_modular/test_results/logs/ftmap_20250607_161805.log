@@ -1,0 +1,16 @@
+16:18:05 - INFO - 🚀 Iniciando FTMap Enhanced
+16:18:05 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:18:05 - INFO - 📁 Output: ./test_results
+16:18:05 - INFO - Todos os módulos inicializados com sucesso
+16:18:05 - INFO - FTMap Enhanced Workflow Manager inicializado
+16:18:05 - INFO - ⚡ Executando workflow completo
+16:18:05 - INFO - 🚀 Iniciando workflow FTMap Enhanced para: data/input/pfpkii.pdb
+16:18:05 - INFO - 🔄 Executando step: protein_preparation
+16:18:05 - INFO - 🧬 Preparando proteína...
+16:18:05 - INFO - ✅ Step protein_preparation concluído em 0.01s
+16:18:05 - INFO - 🔄 Executando step: docking_execution
+16:18:05 - INFO - 🎯 Executando docking molecular...
+16:18:05 - INFO - Preparados 3 probes para docking
+16:18:05 - ERROR - ❌ Erro no step docking_execution: 'ProteinInfo' object has no attribute 'protein_id'
+16:18:05 - ERROR - 💥 Erro crítico no workflow: 'ProteinInfo' object has no attribute 'protein_id'
+16:18:05 - ERROR - 💥 Erro crítico: 'ProteinInfo' object has no attribute 'protein_id'

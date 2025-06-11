@@ -1,0 +1,9 @@
+{
+  "feature_categories": {
+    "energetic": {},
+    "spatial": {}
+  },
+  "combined_features": {},
+  "feature_count": 0,
+  "output_file": "demo_results/features/pfpkii_features.json"
+}

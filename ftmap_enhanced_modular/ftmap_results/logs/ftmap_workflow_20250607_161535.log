@@ -1,0 +1,1 @@
+2025-06-07 16:15:35,081 - FTMapWorkflow - ERROR - Erro ao inicializar módulos: 'FTMapConfig' object has no attribute 'color_scheme'

@@ -1,0 +1,249 @@
+{
+  "workflow_metadata": {
+    "total_duration": 0.04283952713012695,
+    "start_time": "2025-06-07T16:20:41.951241",
+    "end_time": "2025-06-07T16:20:41.994081",
+    "completed_steps": [
+      {
+        "step": "protein_preparation",
+        "duration": 0.01166391372680664,
+        "timestamp": "2025-06-07T16:20:41.962981"
+      },
+      {
+        "step": "docking_execution",
+        "duration": 0.03002786636352539,
+        "timestamp": "2025-06-07T16:20:41.993145"
+      },
+      {
+        "step": "feature_extraction",
+        "duration": 0.0002684593200683594,
+        "timestamp": "2025-06-07T16:20:41.993802"
+      }
+    ],
+    "errors": [
+      {
+        "step": "clustering_analysis",
+        "error": "'dict' object has no attribute 'coordinates'",
+        "timestamp": "2025-06-07T16:20:41.993463"
+      },
+      {
+        "step": "ml_prediction",
+        "error": "'clustering_analysis'",
+        "timestamp": "2025-06-07T16:20:41.993935"
+      },
+      {
+        "step": "visualization_reports",
+        "error": "'clustering_analysis'",
+        "timestamp": "2025-06-07T16:20:41.994049"
+      }
+    ]
+  },
+  "results": {
+    "protein_preparation": {
+      "protein_info": "ProteinInfo(pdb_id='pfpkii', num_residues=511, num_atoms=3886, molecular_weight=46632.0, center_of_mass=(np.float64(1.2848088008234664), np.float64(2.9742264539372107), np.float64(-0.8902192485846586)), binding_sites=[{'id': 1, 'center': (np.float64(1.2848088008234664), np.float64(2.9742264539372107), np.float64(-0.8902192485846586)), 'volume': 100.0, 'score': 0.5, 'atoms': 3886}], cavity_volume=150.0, surface_area=1000.0)",
+      "binding_sites": [
+        {
+          "id": 1,
+          "center": [
+            1.2848088008234664,
+            2.9742264539372107,
+            -0.8902192485846586
+          ],
+          "volume": 100.0,
+          "score": 0.5,
+          "atoms": 3886
+        }
+      ],
+      "geometric_properties": {
+        "center_of_mass": [
+          1.2848088008234664,
+          2.9742264539372107,
+          -0.8902192485846586
+        ],
+        "molecular_weight": 46632.0,
+        "surface_area": 1000.0,
+        "cavity_volume": 150.0
+      },
+      "output_file": "demo_results/prepared_proteins/pfpkii_prepared.pdbqt"
+    },
+    "docking_execution": {
+      "total_poses": 9,
+      "poses_data": [
+        {
+          "probe_name": "acetone",
+          "pose_id": 1,
+          "coordinates": [
+            -2.2571206569390334,
+            5.227082187534571,
+            -3.9152633617826846
+          ],
+          "affinity": -1.2610367115986216,
+          "rmsd_lb": 0.8482156113961723,
+          "rmsd_ub": 3.545961046929448,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "acetone",
+          "pose_id": 2,
+          "coordinates": [
+            1.1850462579740904,
+            5.486571207106115,
+            1.9633573384409804
+          ],
+          "affinity": -1.6532847958251937,
+          "rmsd_lb": 1.5918533189541697,
+          "rmsd_ub": 3.0520838437497764,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "acetone",
+          "pose_id": 3,
+          "coordinates": [
+            3.200665459471079,
+            4.332664967589658,
+            1.5095810971337542
+          ],
+          "affinity": -2.0050095312157383,
+          "rmsd_lb": 1.4143563857021608,
+          "rmsd_ub": 3.04912733415156,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "ethanol",
+          "pose_id": 1,
+          "coordinates": [
+            -2.2571206569390334,
+            5.227082187534571,
+            -3.9152633617826846
+          ],
+          "affinity": -1.2610367115986216,
+          "rmsd_lb": 0.8482156113961723,
+          "rmsd_ub": 3.545961046929448,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "ethanol",
+          "pose_id": 2,
+          "coordinates": [
+            1.1850462579740904,
+            5.486571207106115,
+            1.9633573384409804
+          ],
+          "affinity": -1.6532847958251937,
+          "rmsd_lb": 1.5918533189541697,
+          "rmsd_ub": 3.0520838437497764,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "ethanol",
+          "pose_id": 3,
+          "coordinates": [
+            3.200665459471079,
+            4.332664967589658,
+            1.5095810971337542
+          ],
+          "affinity": -2.0050095312157383,
+          "rmsd_lb": 1.4143563857021608,
+          "rmsd_ub": 3.04912733415156,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "benzene",
+          "pose_id": 1,
+          "coordinates": [
+            -2.2571206569390334,
+            5.227082187534571,
+            -3.9152633617826846
+          ],
+          "affinity": -1.2610367115986216,
+          "rmsd_lb": 0.8482156113961723,
+          "rmsd_ub": 3.545961046929448,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "benzene",
+          "pose_id": 2,
+          "coordinates": [
+            1.1850462579740904,
+            5.486571207106115,
+            1.9633573384409804
+          ],
+          "affinity": -1.6532847958251937,
+          "rmsd_lb": 1.5918533189541697,
+          "rmsd_ub": 3.0520838437497764,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "probe_name": "benzene",
+          "pose_id": 3,
+          "coordinates": [
+            3.200665459471079,
+            4.332664967589658,
+            1.5095810971337542
+          ],
+          "affinity": -2.0050095312157383,
+          "rmsd_lb": 1.4143563857021608,
+          "rmsd_ub": 3.04912733415156,
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "probes_used": [
+        "acetone",
+        "benzene",
+        "ethanol"
+      ],
+      "output_file": "demo_results/docking_results/pfpkii_docking.json"
+    },
+    "feature_extraction": {
+      "feature_categories": {
+        "energetic": {},
+        "spatial": {}
+      },
+      "combined_features": {},
+      "feature_count": 0,
+      "output_file": "demo_results/features/pfpkii_features.json"
+    }
+  },
+  "output_directory": "demo_results",
+  "summary": {
+    "total_poses": 9,
+    "filtered_poses": 9,
+    "features_extracted": 0
+  }
+}

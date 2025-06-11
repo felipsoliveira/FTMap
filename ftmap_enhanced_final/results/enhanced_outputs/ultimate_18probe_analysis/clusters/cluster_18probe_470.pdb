@@ -1,9 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 470
-REMARK    Size: 4 poses
-REMARK    Min Energy: -2.09 kcal/mol
-REMARK    Avg Energy: -1.78 kcal/mol
-REMARK    Center: -7.16 15.54 -5.60
-HETATM    1  C   ACE A 470      -7.171  15.661  -5.804  1.00 -1.62           C
-HETATM    2  C   DMF A 470      -6.897  15.619  -5.835  1.00 -1.54           C
-HETATM    3  C   ISO A 470      -7.103  15.561  -5.401  1.00 -1.87           C
-HETATM    4  C   ACE A 470      -7.476  15.332  -5.351  1.00 -2.09           C

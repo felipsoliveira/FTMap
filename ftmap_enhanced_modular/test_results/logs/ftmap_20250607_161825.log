@@ -1,0 +1,32 @@
+16:18:25 - INFO - 🚀 Iniciando FTMap Enhanced
+16:18:25 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:18:25 - INFO - 📁 Output: ./test_results
+16:18:25 - INFO - Todos os módulos inicializados com sucesso
+16:18:25 - INFO - FTMap Enhanced Workflow Manager inicializado
+16:18:25 - INFO - ⚡ Executando workflow completo
+16:18:25 - INFO - 🚀 Iniciando workflow FTMap Enhanced para: data/input/pfpkii.pdb
+16:18:25 - INFO - 🔄 Executando step: protein_preparation
+16:18:25 - INFO - 🧬 Preparando proteína...
+16:18:25 - INFO - ✅ Step protein_preparation concluído em 0.01s
+16:18:25 - INFO - 🔄 Executando step: docking_execution
+16:18:25 - INFO - 🎯 Executando docking molecular...
+16:18:25 - INFO - Preparados 3 probes para docking
+16:18:25 - INFO - ✅ Step docking_execution concluído em 0.03s
+16:18:25 - INFO - 🔄 Executando step: clustering_analysis
+16:18:25 - INFO - 🎯 Analisando clusters...
+16:18:25 - ERROR - ❌ Erro no step clustering_analysis: 'ClusteringAnalyzer' object has no attribute 'dbscan_clustering'
+16:18:25 - WARNING - Continuando workflow apesar do erro em clustering_analysis
+16:18:25 - INFO - 🔄 Executando step: feature_extraction
+16:18:25 - INFO - 🧠 Extraindo features avançadas...
+16:18:25 - ERROR - ❌ Erro no step feature_extraction: 'clustering_analysis'
+16:18:25 - WARNING - Continuando workflow apesar do erro em feature_extraction
+16:18:25 - INFO - 🔄 Executando step: ml_prediction
+16:18:25 - INFO - 🤖 Executando predições ML...
+16:18:25 - ERROR - ❌ Erro no step ml_prediction: 'feature_extraction'
+16:18:25 - WARNING - Continuando workflow apesar do erro em ml_prediction
+16:18:25 - INFO - 🔄 Executando step: visualization_reports
+16:18:25 - INFO - 📊 Gerando visualizações e relatórios...
+16:18:25 - ERROR - ❌ Erro no step visualization_reports: 'clustering_analysis'
+16:18:25 - WARNING - Continuando workflow apesar do erro em visualization_reports
+16:18:25 - ERROR - 💥 Erro crítico no workflow: 'filtered_poses'
+16:18:25 - ERROR - 💥 Erro crítico: 'filtered_poses'

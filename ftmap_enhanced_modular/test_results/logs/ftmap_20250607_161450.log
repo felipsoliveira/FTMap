@@ -1,0 +1,5 @@
+16:14:50 - INFO - 🚀 Iniciando FTMap Enhanced
+16:14:50 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:14:50 - INFO - 📁 Output: ./test_results
+16:14:50 - ERROR - Erro ao inicializar módulos: FeatureExtractor.__init__() takes 1 positional argument but 2 were given
+16:14:50 - ERROR - 💥 Erro crítico: FeatureExtractor.__init__() takes 1 positional argument but 2 were given

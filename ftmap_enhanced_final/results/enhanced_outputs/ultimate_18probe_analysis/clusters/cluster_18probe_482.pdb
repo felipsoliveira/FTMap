@@ -1,9 +1,0 @@
-TITLE     FTMap 18-Probe System - Cluster 482
-REMARK    Size: 4 poses
-REMARK    Min Energy: -1.74 kcal/mol
-REMARK    Avg Energy: -1.64 kcal/mol
-REMARK    Center: 16.88 6.30 12.99
-HETATM    1  C   URE A 482      16.452   6.397  13.000  1.00 -1.74           C
-HETATM    2  C   URE A 482      17.130   6.159  13.043  1.00 -1.65           C
-HETATM    3  C   BEN A 482      17.257   6.116  12.629  1.00 -1.57           C
-HETATM    4  C   BEN A 482      16.665   6.528  13.280  1.00 -1.58           C

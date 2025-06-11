@@ -1,0 +1,4 @@
+16:14:15 - INFO - 🚀 Iniciando FTMap Enhanced
+16:14:15 - INFO - 📁 Proteína: data/input/pfpkii.pdb
+16:14:15 - INFO - 📁 Output: ./test_results
+16:14:15 - ERROR - 💥 Erro crítico: 'FTMapConfig' object has no attribute 'PROBE_MOLECULES'
